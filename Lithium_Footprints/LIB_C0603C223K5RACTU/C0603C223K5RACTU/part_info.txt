@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=C0603C223K5RACTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=9.1
+Released=2016-07-20 15:29:33
+Downloaded=2026-05-30 23:02:50
+3D=Y

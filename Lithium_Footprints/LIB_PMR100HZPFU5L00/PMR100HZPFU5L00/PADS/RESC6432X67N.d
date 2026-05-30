@@ -1,0 +1,33 @@
+*PADS-LIBRARY-PCB-DECALS-V9*
+
+RESC6432X67N M 0 0 0 2 3 0 2 1 0
+TIMESTAMP 2026.05.26.11.05.28
+0 0 0 0 1.27 0.127 1 0 34 "Regular <Romansim Stroke Font>"
+REF-DES
+0 0 0 0 1.27 0.127 1 32 35 "Regular <Romansim Stroke Font>"
+PART-TYPE
+CLOSED 5 0.05 20 -1
+-3.95 2
+3.95 2
+3.95 -2
+-3.95 -2
+-3.95 2
+CLOSED 5 0.1 27 -1
+-3.2 1.6
+3.2 1.6
+3.2 -1.6
+-3.2 -1.6
+-3.2 1.6
+OPEN 2 0.2 26 -1
+0 1.5
+0 -1.5
+T-2.2 0 -2.2 0 1
+T2.2 0 2.2 0 2
+PAD 0 3 N 0
+-2 3 RF 0 90 3.45 0
+-1 0 R
+0 0 R
+
+*END*
+*REMARK* AP
+PMR100HZPFU5L00.stp/0/0/0/0/0/0

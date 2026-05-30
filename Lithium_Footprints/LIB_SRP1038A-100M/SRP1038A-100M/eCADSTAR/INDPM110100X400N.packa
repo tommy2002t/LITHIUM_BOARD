@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRP1038A-100M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-02-11:52:09)
+    (mountForm default
+        (footprintRef "INDPM110100X400N")
+        (spec "System")
+    )
+)

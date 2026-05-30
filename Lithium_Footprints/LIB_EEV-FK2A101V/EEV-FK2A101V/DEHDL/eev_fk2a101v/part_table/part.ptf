@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEV_FK2A101V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEV-FK2A101V" (!) = "", "EEEFK0J682AV", "Other", "667-EEV-FK2A101V", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEV-FK2A101V?qs=MtOUKumLmnaVkoWQWMGNWA%3D%3D", "Aluminium Electroyltic Capacitor, Radial, Vibration-Proof", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf", "16.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CL31B225KCHSNNE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMSUNG", "CL31B225KCHSNNE" (!) = "", "CAPC3216X180N", "Capacitor Chip Non-polarised", "187-CL31B225KCHSNNE", "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B225KCHSNNE?qs=EqekMjxHB%2FO4jGlN37Y2aA%3D%3D", "SAMSUNG ELECTRO-MECHANICS - CL31B225KCHSNNE - SMD Multilayer Ceramic Capacitor, 2.2 F, 100 V, 1206 [3216 Metric], +/- 10%, X7R, CL Series", "https://ms.componentsearchengine.com/Datasheets/2/CL31B225KCHSNNE.pdf", "1.8 mm"
+END_PART
+
+END.

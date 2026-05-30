@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS70933DBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.3
+Released=2019-11-11 10:33:40
+Downloaded=2026-05-26 11:19:53
+3D=Y

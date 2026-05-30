@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=VT1206BRD071ML
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2025-07-25 07:18:46
+Downloaded=2026-05-30 10:19:22
+3D=Y

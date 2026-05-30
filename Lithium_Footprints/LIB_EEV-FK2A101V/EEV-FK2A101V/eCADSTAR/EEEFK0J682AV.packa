@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEV-FK2A101V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-10-12:54:27)
+    (mountForm default
+        (footprintRef "EEEFK0J682AV")
+        (spec "System")
+    )
+)

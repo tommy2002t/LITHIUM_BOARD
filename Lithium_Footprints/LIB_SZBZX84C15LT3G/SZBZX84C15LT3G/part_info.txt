@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=SZBZX84C15LT3G
+PartCategory=Zener Diode
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2023-08-04 08:54:24
+Downloaded=2026-05-26 11:56:45
+3D=Y

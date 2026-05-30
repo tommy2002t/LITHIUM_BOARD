@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PXN4R7-30QLJ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-06-24-12:42:19)
+    (mountForm default
+        (footprintRef "PXN8R330QLJ")
+        (spec "System")
+    )
+)

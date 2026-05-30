@@ -1,0 +1,9 @@
+Manufacturer=TAIYO YUDEN
+PartNumber=UMJ325AB7475KMHP
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-07-04 10:40:20
+Downloaded=2026-05-26 12:30:39
+3D=Y

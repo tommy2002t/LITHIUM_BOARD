@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VT1206BRD071ML'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "VT1206BRD071ML" (!) = "", "RESC3116X65N", "Resistor Chip", "603-VT1206BRD071ML", "https://www.mouser.co.uk/ProductDetail/YAGEO/VT1206BRD071ML?qs=3Rah4i%252BhyCEWkKnEXFphuw%3D%3D", "Maximum operating voltage up to 700V AEC-Q200 qualified Total lead free without RoHS exemption  Halogen free epoxy  Superior resistance against sulfur containing atmosphere  Moisture sensitivity level: MSL 1  Reducing environmentally hazardous wastes  High component and equipment reliability  Non-forbidden materials used in products/production", "https://www.mouser.kr/datasheet/2/447/PYu_VT_51_RoHS_L_0-3159401.pdf", "0.65 mm"
+END_PART
+
+END.

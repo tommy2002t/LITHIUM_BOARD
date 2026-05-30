@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RC0603FR_0780K6L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "RC0603FR-0780K6L" (!) = "", "RESC1608X55N", "Resistor Chip", "603-RC0603FR-0780K6L", "http://www.mouser.com/Search/ProductDetail.aspx?qs=2cAdsCoAWRG3QkcZUx%252bK3g%3d%3d", "80.6k 0603 Thick Film Surface Mount Resistor +/-1% 0.1W RC0603FR-0780K6L", "https://componentsearchengine.com/Datasheets/1/RC0603FR-0780K6L.pdf", "0.55 mm"
+END_PART
+
+END.

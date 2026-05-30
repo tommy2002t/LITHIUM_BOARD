@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0603FR-0780K6L
+D 80.6k 0603 Thick Film Surface Mount Resistor +/-1% 0.1W RC0603FR-0780K6L
+K
+F https://componentsearchengine.com/Datasheets/1/RC0603FR-0780K6L.pdf
+$ENDCMP
+#
+#End Doc Library

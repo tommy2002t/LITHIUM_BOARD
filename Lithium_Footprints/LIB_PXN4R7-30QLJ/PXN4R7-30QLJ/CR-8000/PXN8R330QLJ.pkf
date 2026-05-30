@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PXN8R330QLJ"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PXN8R330QLJ")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=C1206C225K5RACTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2017-01-11 16:57:59
+Downloaded=2026-05-26 12:21:29
+3D=Y

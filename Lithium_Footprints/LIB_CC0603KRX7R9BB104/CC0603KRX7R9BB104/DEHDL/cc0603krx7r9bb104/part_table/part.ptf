@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CC0603KRX7R9BB104'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "CC0603KRX7R9BB104" (!) = "", "CAPC1608X90N", "Capacitor Chip Non-polarised", "603-CC603KRX7R9BB104", "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D", "0.1 F +/-10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)", "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082", "0.9 mm"
+END_PART
+
+END.

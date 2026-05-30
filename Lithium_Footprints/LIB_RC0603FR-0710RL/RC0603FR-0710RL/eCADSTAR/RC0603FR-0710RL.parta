@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_13928565"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-11-03:36:32)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RC0603FR-0710RL")
+)
+
+
+(pinAssign "ECS_13928565"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-11-03:36:32)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13928565")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RC0603FR-0710RL")
+)
+
+
+(part "RC0603FR-0710RL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-11-03:36:32)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "RC0603FR-0710RL")
+    (pinAssignRef "ECS_13928565")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "GENERAL PURPOSE CHIP RESISTORS RC_L series +/-0.1%, +/-0.5%, +/-1%, +/-5%")
+    (property "Mouser_Part_Number" "603-RC0603FR-0710RL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710RL?qs=womCuNp6NjhtCUybQ%252B6d6w%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "RC0603FR-0710RL")
+    (property "Datasheet_Link" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

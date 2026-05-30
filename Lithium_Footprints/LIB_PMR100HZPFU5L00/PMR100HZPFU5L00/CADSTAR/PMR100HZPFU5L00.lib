@@ -1,0 +1,16 @@
+.PMR100HZPFU5L00 :1 ;6432(2512)Size, Ultra-low Ohmic Chip Resistors For Current Detection (AEC-Q200 Qualified)
+RESC6432X67N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PMR100HZPFU5L00
+~!Mouser Part Number (755-PMR100HZPFU5L00)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PMR100HZPFU5L00?qs=oBjDkOCjPF0%2FXe4M%2FfVe6g%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (PMR100HZPFU5L00)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/pmr_series-e.pdf)
+~!Height (0.67mm)
+~!3D_Model (PMR100HZPFU5L00)
+PMR100HZPFU5L00
+1.1!U 2.1!U 

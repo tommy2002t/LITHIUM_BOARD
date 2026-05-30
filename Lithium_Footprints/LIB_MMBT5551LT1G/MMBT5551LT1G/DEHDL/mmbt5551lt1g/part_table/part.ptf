@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MMBT5551LT1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MMBT5551LT1G" (!) = "", "SOT96P237X111-3N", "SOT23 (3-Pin)", "863-MMBT5551LT1G", "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5551LT1G?qs=HVbQlW5zcXXlUyy8htIqAQ%3D%3D", "Miniature SOT-23 Surface Mount Package Saves Board Space; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AEC-Q101 Qualified and PPAP Capable", "https://www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF", "1.11 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_18817990"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-25-07:18:46)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VT1206BRD071ML")
+)
+
+
+(pinAssign "ECS_18817990"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-25-07:18:46)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18817990")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VT1206BRD071ML")
+)
+
+
+(part "VT1206BRD071ML"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-25-07:18:46)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "VT1206BRD071ML")
+    (pinAssignRef "ECS_18817990")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Maximum operating voltage up to 700V AEC-Q200 qualified Total lead free without RoHS exemption  Halogen free epoxy  Superior resistance against sulfur containing atmosphere  Moisture sensitivity level: MSL 1  Reducing environmentally hazardous wastes  High component and equipment reliability  Non-forbidden materials used in products/production")
+    (property "Mouser_Part_Number" "603-VT1206BRD071ML")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/VT1206BRD071ML?qs=3Rah4i%252BhyCEWkKnEXFphuw%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "VT1206BRD071ML")
+    (property "Datasheet_Link" "https://www.mouser.kr/datasheet/2/447/PYu_VT_51_RoHS_L_0-3159401.pdf")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

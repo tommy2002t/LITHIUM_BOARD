@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VT1206BRD071ML"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-02-03-00:36:00)
+    (mountForm default
+        (footprintRef "RESC3116X65N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEV-FK2A101V
+PartCategory=Capacitor Polarised (6-Pin Vibration Proof)
+PackageCategory=Other
+PinCount=6
+Version=7.3
+Released=2021-09-29 09:59:34
+Downloaded=2026-05-30 10:15:42
+3D=Y

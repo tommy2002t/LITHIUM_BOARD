@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ7694204PFBR
+D Battery Management 3-series to 10-series multicell battery monitor and protector
+K
+F https://www.ti.com/lit/gpn/bq76942
+$ENDCMP
+#
+#End Doc Library

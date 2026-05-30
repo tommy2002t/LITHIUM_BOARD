@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_988322"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-28-12:49:19)
+    (utime 2026-02-17-10:12:51)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C1210C154K5RACTU")
+)
+
+
+(pinAssign "ECS_988322"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-28-12:49:19)
+    (utime 2026-02-17-10:12:51)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_988322")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C1210C154K5RACTU")
+)
+
+
+(part "C1210C154K5RACTU"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-28-12:49:19)
+    (utime 2026-02-17-10:12:51)
+    (packageRef "C1210C154K5RACTU")
+    (pinAssignRef "ECS_988322")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "SMD, MLCC, Temperature Stable, Class II")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "C1210C154K5RACTU")
+    (property "Datasheet_Link" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD")
+)
+
+

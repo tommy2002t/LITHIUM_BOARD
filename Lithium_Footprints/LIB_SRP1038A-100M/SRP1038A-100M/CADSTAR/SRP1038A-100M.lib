@@ -1,0 +1,16 @@
+.SRP1038A-100M :1 ;Bourns SRP1038A Series Type SMD Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 10 uH +/-20% Shielded 7.5A
+INDPM110100X400N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP1038A-100M
+~!Mouser Part Number (652-SRP1038A-100M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRP1038A-100M?qs=7z%252BmIopC6%2FJQpoKC11SVQA%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP1038A-100M)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf)
+~!Height (4mm)
+~!3D_Model (SRP1038A-100M)
+SRP1038A-100M
+1.1!U 2.1!U 

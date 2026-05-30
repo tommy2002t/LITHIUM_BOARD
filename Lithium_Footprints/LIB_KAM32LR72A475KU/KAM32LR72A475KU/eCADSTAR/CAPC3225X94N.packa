@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KAM32LR72A475KU"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-01-22-23:22:28)
+    (mountForm default
+        (footprintRef "CAPC3225X94N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WQ-7-F
+D Diodes - General Purpose, Power, Switching SMT Fast Switching Diode
+K
+F https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GCM188R71H103KA37J
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2022-08-07 03:04:29
+Downloaded=2026-05-26 12:19:50
+3D=Y

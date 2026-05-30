@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "POWERPAK-SO-8"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "POWERPAK-SO-8")
+        (spec "default")
+    )
+)

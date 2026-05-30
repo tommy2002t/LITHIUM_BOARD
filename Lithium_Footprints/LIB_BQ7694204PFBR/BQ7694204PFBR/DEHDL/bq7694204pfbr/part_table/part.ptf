@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BQ7694204PFBR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "BQ7694204PFBR" (!) = "", "QFP50P900X900X120-48N", "Quad Flat Packages", "595-BQ7694204PFBR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ7694204PFBR?qs=iLbezkQI%252BsiBKz1%2FTSC4wg%3D%3D", "Battery Management 3-series to 10-series multicell battery monitor and protector", "https://www.ti.com/lit/gpn/bq76942", "1.2 mm"
+END_PART
+
+END.

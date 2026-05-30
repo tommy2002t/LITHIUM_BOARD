@@ -1,0 +1,17 @@
+# KiCad temporary / backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.tmp
+*~
+_autosave-*
+*-backups/
+fp-info-cache
+.history/
+
+# Generated outputs
+build/
+*.net
+

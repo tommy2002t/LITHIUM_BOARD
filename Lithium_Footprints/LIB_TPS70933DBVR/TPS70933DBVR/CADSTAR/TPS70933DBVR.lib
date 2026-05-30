@@ -1,0 +1,16 @@
+.TPS70933DBVR :1 ;150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="IN" 2="GND" 3="EN" 4="NC" 5="OUT"
+*MXP 5
+*DFN TPS70933DBVR
+~!Mouser Part Number (595-TPS70933DBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS70933DBVR?qs=Z9twEOuL%252B%2FJOaGO60BtvLA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS70933DBVR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps709)
+~!Height (1.45mm)
+~!3D_Model (TPS70933DBVR)
+TPS70933DBVR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

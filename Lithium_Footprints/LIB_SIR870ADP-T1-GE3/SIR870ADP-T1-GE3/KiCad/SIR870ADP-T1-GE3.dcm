@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIR870ADP-T1-GE3
+D SIR870ADP-T1-GE3 N-Channel MOSFET, 60 A, 100 V, 8-Pin PowerPAK SO Vishay
+K
+F https://www.vishay.com/docs/63657/sir870adp.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.RC0603FR-0780K6L :1 ;80.6k 0603 Thick Film Surface Mount Resistor +/-1% 0.1W RC0603FR-0780K6L
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RC0603FR-0780K6L
+~!Mouser Part Number (603-RC0603FR-0780K6L)
+~!Link Mouser Price/Stock (http://www.mouser.com/Search/ProductDetail.aspx?qs=2cAdsCoAWRG3QkcZUx%252bK3g%3d%3d)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (RC0603FR-0780K6L)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/RC0603FR-0780K6L.pdf)
+~!Height (0.55mm)
+~!3D_Model (RC0603FR-0780K6L)
+RC0603FR-0780K6L
+1.1!U 2.1!U 

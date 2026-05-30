@@ -1,0 +1,16 @@
+.SZBZX84C15LT3G :1 ;250 mW Rating on FR-4 or FR-5 Board; Zener Breakdown Voltage Range - 2.4 V to 75 V; Package Designed for Optimal Automated Board Assembly; Small Package Size for High Density Applications; ESD Rating of Class 3 (>16 KV) per Human Body Model; Mechanical Characteristics:; CASE: Void-free, transfer-molded, thermosetting plastic case; FINISH: Corrosion resistant finish, easily solderable; MAXIMUM CASE TEMPERATURE FOR SOLDERING PURPOSES: 260C for 10 Seconds; POLARITY: Cathode indicated by polarity band; FLAMMAB
+SOT96P237X111-3N
+*STM Z
+*NGS
+*PLB 1="A" 2="NC" 3="K"
+*MXP 3
+*DFN SZBZX84C15LT3G
+~!Mouser Part Number (863-SZBZX84C15LT3G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/SZBZX84C15LT3G?qs=PJJcWtbOkNVWBlfCQ6WTzw%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (SZBZX84C15LT3G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/BZX84C2V4LT1-D.PDF)
+~!Height (1.11mm)
+~!3D_Model (SZBZX84C15LT3G)
+SZBZX84C15LT3G
+1.1!U 2.1!U 3.1!U 

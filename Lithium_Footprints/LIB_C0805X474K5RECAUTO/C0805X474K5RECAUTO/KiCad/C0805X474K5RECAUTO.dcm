@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C0805X474K5RECAUTO
+D SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade
+K
+F https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1090_X7R_ESD
+$ENDCMP
+#
+#End Doc Library

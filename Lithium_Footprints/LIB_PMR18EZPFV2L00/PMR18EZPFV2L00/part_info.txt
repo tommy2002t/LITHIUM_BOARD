@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=PMR18EZPFV2L00
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2018-11-03 13:13:53
+Downloaded=2026-05-26 11:53:55
+3D=Y

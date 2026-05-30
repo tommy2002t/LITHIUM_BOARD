@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RC0603FR_0734K8L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "RC0603FR-0734K8L" (!) = "", "RESC1608X55N", "Resistor Chip", "603-RC0603FR-0734K8L", "https://www.mouser.co.uk/ProductDetail/Yageo/RC0603FR-0734K8L?qs=diQw95jMAeMbYtJ6Ux5HDQ%3D%3D", "Thick Film Resistors - SMD 34.8K OHM 1%", "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf", "0.55 mm"
+END_PART
+
+END.

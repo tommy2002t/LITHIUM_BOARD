@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "XT30PWM"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "XT30PWM")
+        (spec "default")
+    )
+)

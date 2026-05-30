@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C0603C563K5RACTU
+D SMD, MLCC, Temperature Stable, Class II
+K
+F https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD
+$ENDCMP
+#
+#End Doc Library

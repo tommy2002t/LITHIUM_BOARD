@@ -1,0 +1,16 @@
+.PMR18EZPFV2L00 :1 ;3216(1206)Size, Ultra-low Ohmic Chip Resistors For Current Detection (AEC-Q200 Qualified)
+RESC3216X59N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PMR18EZPFV2L00
+~!Mouser Part Number (755-PMR18EZPFV2L00)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PMR18EZPFV2L00?qs=oBjDkOCjPF3F%252BxFCsdw8aQ%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (PMR18EZPFV2L00)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/pmr_series-e.pdf)
+~!Height (0.59mm)
+~!3D_Model (PMR18EZPFV2L00)
+PMR18EZPFV2L00
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RC0603FR_07100RL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "RC0603FR-07100RL" (!) = "", "RESC1608X55N", "Resistor Chip", "603-RC0603FR-07100RL", "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D", "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100", "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf", "0.55 mm"
+END_PART
+
+END.

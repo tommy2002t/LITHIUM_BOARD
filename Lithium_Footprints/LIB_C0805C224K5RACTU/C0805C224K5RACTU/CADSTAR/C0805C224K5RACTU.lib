@@ -1,0 +1,16 @@
+.C0805C224K5RACTU :1 ;SMD, MLCC, Temperature Stable, Class II
+C0805
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C0805C224K5RACTU
+~!Mouser Part Number (80-C0805C224K5R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/C0805C224K5RACTU?qs=nyGfpDADWE623f9D1NN9mQ%3D%3D)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (C0805C224K5RACTU)
+~!Link Datasheet (https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD)
+~!Height (1.1mm)
+~!3D_Model (C0805C224K5RACTU)
+C0805C224K5RACTU
+1.1!U 2.1!U 

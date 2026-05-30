@@ -1,0 +1,18 @@
+.XT30PW-F :1 ;Socket; DC supply; XT30; female; PIN:2; on PCBs; THT; Colour: yellow
+XT30PWF
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN XT30PW-F
+~!Manufacturer_Name (Amass)
+~!Manufacturer_Part_Number (XT30PW-F)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.tme.eu/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf)
+~!Height (5mm)
+~!3D_Model (XT30PW-F)
+XT30PW-F
+1.1!U 2.1!U 3.1!U 4.1!U 

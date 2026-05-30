@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1194110"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-30-06:19:36)
+    (utime 2026-05-12-05:43:57)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C0805X474K5RECAUTO")
+)
+
+
+(pinAssign "ECS_1194110"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-30-06:19:36)
+    (utime 2026-05-12-05:43:57)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1194110")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C0805X474K5RECAUTO")
+)
+
+
+(part "C0805X474K5RECAUTO"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-30-06:19:36)
+    (utime 2026-05-12-05:43:57)
+    (packageRef "C0805X474K5RECAUTO")
+    (pinAssignRef "ECS_1194110")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade")
+    (property "Mouser_Part_Number" "80-C0805X474K5REAUTO")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805X474K5RECAUTO?qs=r5DSvlrkXmL5NjfiyFlgcw%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "C0805X474K5RECAUTO")
+    (property "Datasheet_Link" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1090_X7R_ESD")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

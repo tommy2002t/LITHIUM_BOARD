@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ7694204PFBR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=1.1
+Released=2021-06-18 08:37:33
+Downloaded=2026-05-26 11:51:53
+3D=Y

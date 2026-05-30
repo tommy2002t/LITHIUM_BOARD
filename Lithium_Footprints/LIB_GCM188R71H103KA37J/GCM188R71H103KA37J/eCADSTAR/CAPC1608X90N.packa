@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GCM188R71H103KA37J"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-14-02:49:41)
+    (mountForm default
+        (footprintRef "CAPC1608X90N")
+        (spec "System")
+    )
+)

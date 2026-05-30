@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SIR870ADP-T1-GE3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-12-06-17:22:27)
+    (mountForm default
+        (footprintRef "POWERPAK-SO-8")
+        (spec "System")
+    )
+)

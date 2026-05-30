@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP1038A_100M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP1038A-100M" (!) = "", "INDPM110100X400N", "Inductors Precision Moulded", "652-SRP1038A-100M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRP1038A-100M?qs=7z%252BmIopC6%2FJQpoKC11SVQA%3D%3D", "Bourns SRP1038A Series Type SMD Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 10 uH +/-20% Shielded 7.5A", "https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf", "4 mm"
+END_PART
+
+END.

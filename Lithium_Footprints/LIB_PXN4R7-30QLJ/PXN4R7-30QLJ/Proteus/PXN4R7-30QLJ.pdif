@@ -1,0 +1,172 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PXN4R7-30QLJ"
+   (description "MOSFETs PXN4R7-30QL/SOT8002/MLPAK33")
+   (family "TRX")
+   (package "PXN8R330QLJ")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/PXN4R7-30QL.pdf")
+   (attribute "Geometry.Height" "0.9mm")
+   (attribute "Mouser Part Number" "771-PXN4R7-30QLJ")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PXN4R7-30QLJ?qs=ljCeji4nMDn%252B5uHkKqrkXA%3D%3D")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "PXN4R7-30QLJ")
+   (gate
+    (symbol "PXN4R7-30QLJ")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D_1" 5 PS)
+    (pin "D_2" 6 PS)
+    (pin "D_3" 7 PS)
+    (pin "D_4" 8 PS)
+    (pin "D_5" 9 PS)
+   )
+  )
+  (symbol "PXN4R7-30QLJ"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PXN8R330QLJ"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.575 -1.512)
+      (pt 1.575 -1.512)
+      (pt 1.575 1.488)
+      (pt -1.575 1.488)
+      (pt -1.575 -1.512))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.575 2.888)
+      (pt 2.575 2.888)
+      (pt 2.575 -2.913)
+      (pt -2.575 -2.913)
+      (pt -2.575 2.888))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.575 -1.512)
+      (pt -1.575 -1.512)
+      (pt -1.575 -0.912))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.575 -1.512)
+      (pt 1.575 -1.512)
+      (pt 1.575 -0.912))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -2.4)
+      (arc (pt -1.000 -2.400) (pt -1.000 -2.450) (pt -0.900 -2.350) (start 180.0) (sweep 180.0))
+      (pt -0.9 -2.4)
+      (arc (pt -0.900 -2.400) (pt -1.000 -2.450) (pt -0.900 -2.350) (start 180.0) (sweep .0))
+      (pt -1 -2.4))))
+   (leg 1 (pt -0.975 -1.613) (padstack 0))
+   (leg 2 (pt -0.325 -1.613) (padstack 0))
+   (leg 3 (pt 0.325 -1.613) (padstack 0))
+   (leg 4 (pt 0.975 -1.613) (padstack 0))
+   (leg 5 (pt 0.975 1.613) (padstack 5))
+   (leg 6 (pt 0.325 1.613) (padstack 6))
+   (leg 7 (pt -0.325 1.613) (padstack 7))
+   (leg 8 (pt -0.975 1.613) (padstack 8))
+   (leg 9 (pt 0.000 0.323) (padstack 9))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.600 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.550 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.550 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.550 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.550 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 2.030 2.650 0 0 0.000))
+   )
+   (model "PXN4R7-30QLJ.stp"
+    (euler 90 0 0)
+    (offset -1.7400000095367432 2.3299999237060547 -1.6699999570846558)
+   )
+  )
+ )
+)

@@ -1,0 +1,16 @@
+.TSW-105-07-G-S :1 ;5 Position, Single Row, Classic PCB Header Strips, 0.100&quot; pitch
+TSW-105-XX-YY-S
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN TSW-105-07-G-S
+~!Mouser Part Number (200-TSW10507GS)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Samtec/TSW-105-07-G-S?qs=NxGO64s6WXgX3ambHrFfzQ%3D%3D)
+~!Manufacturer_Name (SAMTEC)
+~!Manufacturer_Part_Number (TSW-105-07-G-S)
+~!Link Datasheet (http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf)
+~!Height (-)
+~!3D_Model (TSW-105-07-G-S)
+TSW-105-07-G-S
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

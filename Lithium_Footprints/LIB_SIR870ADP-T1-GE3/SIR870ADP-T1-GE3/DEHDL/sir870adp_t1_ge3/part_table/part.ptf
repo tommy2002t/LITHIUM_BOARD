@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SIR870ADP_T1_GE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Vishay", "SIR870ADP-T1-GE3" (!) = "", "POWERPAK-SO-8", "Other", "78-SIR870ADP-T1-GE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SIR870ADP-T1-GE3?qs=mmSTCsvLT3lJKRSNN%252BkeNw%3D%3D", "SIR870ADP-T1-GE3 N-Channel MOSFET, 60 A, 100 V, 8-Pin PowerPAK SO Vishay", "https://www.vishay.com/docs/63657/sir870adp.pdf"
+END_PART
+
+END.

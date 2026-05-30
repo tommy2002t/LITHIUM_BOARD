@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "C0603C104K1RACAUTO"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-12-14-09:49:07)
+    (mountForm default
+        (footprintRef "CAPC1608X95N")
+        (spec "System")
+    )
+)

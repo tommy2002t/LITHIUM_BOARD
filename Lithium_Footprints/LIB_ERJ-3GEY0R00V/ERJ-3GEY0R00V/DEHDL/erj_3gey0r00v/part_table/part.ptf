@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_3GEY0R00V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-3GEY0R00V" (!) = "", "ERJ3EKF1000V", "Other", "667-ERJ-3GEY0R00V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3GEY0R00V?qs=66DK8nO8gJALIOqOWgiVwg%3D%3D", "Thick Film Resistors - SMD 0603 Zero Ohms", "", "0.55 mm"
+END_PART
+
+END.

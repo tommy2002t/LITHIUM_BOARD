@@ -1,0 +1,16 @@
+.MMBT5551LT1G :1 ;Miniature SOT-23 Surface Mount Package Saves Board Space; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AEC-Q101 Qualified and PPAP Capable
+SOT96P237X111-3N
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN MMBT5551LT1G
+~!Mouser Part Number (863-MMBT5551LT1G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5551LT1G?qs=HVbQlW5zcXXlUyy8htIqAQ%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MMBT5551LT1G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF)
+~!Height (1.11mm)
+~!3D_Model (MMBT5551LT1G)
+MMBT5551LT1G
+1.1!U 2.1!U 3.1!U 

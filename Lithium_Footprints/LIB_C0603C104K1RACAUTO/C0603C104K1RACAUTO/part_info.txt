@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=C0603C104K1RACAUTO
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2023-06-13 07:22:17
+Downloaded=2026-05-30 10:18:26
+3D=Y

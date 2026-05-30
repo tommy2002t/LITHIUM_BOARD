@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_351737"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-03-13:13:53)
+    (utime 2025-06-06-15:01:29)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PMR18EZPFV2L00")
+)
+
+
+(pinAssign "ECS_351737"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-03-13:13:53)
+    (utime 2025-06-06-15:01:29)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_351737")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PMR18EZPFV2L00")
+)
+
+
+(part "PMR18EZPFV2L00"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-03-13:13:53)
+    (utime 2025-06-06-15:01:29)
+    (packageRef "PMR18EZPFV2L00")
+    (pinAssignRef "ECS_351737")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "3216(1206)Size, Ultra-low Ohmic Chip Resistors For Current Detection (AEC-Q200 Qualified)")
+    (property "Mouser_Part_Number" "755-PMR18EZPFV2L00")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PMR18EZPFV2L00?qs=oBjDkOCjPF3F%252BxFCsdw8aQ%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "PMR18EZPFV2L00")
+    (property "Datasheet_Link" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/pmr_series-e.pdf")
+    (property "compAreaTopHeight" 0.59)
+)
+
+

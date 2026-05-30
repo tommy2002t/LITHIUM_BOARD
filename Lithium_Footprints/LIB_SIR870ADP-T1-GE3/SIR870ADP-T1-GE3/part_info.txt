@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SIR870ADP-T1-GE3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2018-12-06 17:22:27
+Downloaded=2026-05-29 18:32:36
+3D=N

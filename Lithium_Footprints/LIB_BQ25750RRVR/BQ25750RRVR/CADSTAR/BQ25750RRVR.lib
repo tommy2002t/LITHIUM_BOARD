@@ -1,0 +1,16 @@
+.BQ25750RRVR :1 ;Battery Management BQ25750RRVR
+QFN50P500X600X100-37N-D
+*STM IC
+*NGS
+*PLB 1="SCL" 2="SDA" 3="'INT'" 4="STAT1" 5="STAT2" 6="'PG'" 7="'CE'" 8="TS" 9="ICHG" 10="ILIM_HIZ" 11="FBG" 12="FB" 13="SRN" 14="SRP" 15="BATDRV" 16="BATSRC" 17="PGND_1" 18="SW2" 19="HIDRV2" 20="BTST2" 21="LODRV2" 22="PGND_2" 23="DRV_SUP" 24="REGN" 25="LODRV1" 26="BTST1" 27="HIDRV1" 28="SW1" 29="ACN" 30="ACP" 31="ACDRV" 32="SYS" 33="VAC" 34="ACUV" 35="ACOV" 36="FSW_ SYNC" 37="GND"
+*MXP 37
+*DFN BQ25750RRVR
+~!Mouser Part Number (595-BQ25750RRVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ25750RRVR?qs=mELouGlnn3eHQxcPQTl5Pg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ25750RRVR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/bq25750.pdf?ts=1706776852121&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ25750)
+~!Height (1mm)
+~!3D_Model (BQ25750RRVR)
+BQ25750RRVR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 

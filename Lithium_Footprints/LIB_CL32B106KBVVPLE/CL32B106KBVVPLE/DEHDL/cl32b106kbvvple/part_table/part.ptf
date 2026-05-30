@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CL32B106KBVVPLE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMSUNG", "CL32B106KBVVPLE" (!) = "", "CAPC3225X285N", "Capacitor Chip Non-polarised", "187-CL32B106KBVVPLE", "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL32B106KBVVPLE?qs=HoCaDK9Nz5f6XiYpd2vY%2FA%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF X7R 50V 1210 Auto grade", "https://product.samsungsem.com/mlcc/CL32B106KBVVPL.do", "2.85 mm"
+END_PART
+
+END.

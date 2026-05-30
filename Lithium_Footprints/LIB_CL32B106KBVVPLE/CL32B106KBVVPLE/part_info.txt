@@ -1,0 +1,9 @@
+Manufacturer=SAMSUNG
+PartNumber=CL32B106KBVVPLE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-10-22 12:39:56
+Downloaded=2026-05-26 13:06:50
+3D=Y

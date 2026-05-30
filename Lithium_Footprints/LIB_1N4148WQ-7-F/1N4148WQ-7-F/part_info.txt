@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=1N4148WQ-7-F
+PartCategory=Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=7.1
+Released=2018-03-12 10:14:36
+Downloaded=2026-05-30 23:17:24
+3D=Y

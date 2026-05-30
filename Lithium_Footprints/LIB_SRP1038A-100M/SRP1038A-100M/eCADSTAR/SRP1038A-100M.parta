@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_324608"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-02-11:52:09)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SRP1038A-100M")
+)
+
+
+(pinAssign "ECS_324608"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-02-11:52:09)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_324608")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SRP1038A-100M")
+)
+
+
+(part "SRP1038A-100M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-02-11:52:09)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SRP1038A-100M")
+    (pinAssignRef "ECS_324608")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Bourns SRP1038A Series Type SMD Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 10 uH +/-20% Shielded 7.5A")
+    (property "Mouser_Part_Number" "652-SRP1038A-100M")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRP1038A-100M?qs=7z%252BmIopC6%2FJQpoKC11SVQA%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SRP1038A-100M")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf")
+    (property "compAreaTopHeight" 4)
+)
+
+

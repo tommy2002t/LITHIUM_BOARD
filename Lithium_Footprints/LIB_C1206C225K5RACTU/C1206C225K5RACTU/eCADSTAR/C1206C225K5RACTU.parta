@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_255606"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:57:59)
+    (utime 2026-02-15-13:18:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C1206C225K5RACTU")
+)
+
+
+(pinAssign "ECS_255606"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:57:59)
+    (utime 2026-02-15-13:18:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_255606")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C1206C225K5RACTU")
+)
+
+
+(part "C1206C225K5RACTU"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:57:59)
+    (utime 2026-02-15-13:18:58)
+    (packageRef "C1206C225K5RACTU")
+    (pinAssignRef "ECS_255606")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "SMD, MLCC, Temperature Stable, Class II")
+    (property "Mouser_Part_Number" "80-C1206C225K5R")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C225K5RACTU?qs=STjISULpmtZpfJMIEM1zeA%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "C1206C225K5RACTU")
+    (property "Datasheet_Link" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD")
+)
+
+

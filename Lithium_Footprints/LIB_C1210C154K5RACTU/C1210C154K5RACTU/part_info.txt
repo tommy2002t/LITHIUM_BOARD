@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=C1210C154K5RACTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2022-03-28 12:49:19
+Downloaded=2026-05-26 13:08:07
+3D=Y

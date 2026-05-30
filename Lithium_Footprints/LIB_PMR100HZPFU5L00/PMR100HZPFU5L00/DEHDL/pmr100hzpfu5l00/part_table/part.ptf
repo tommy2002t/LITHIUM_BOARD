@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PMR100HZPFU5L00'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "PMR100HZPFU5L00" (!) = "", "RESC6432X67N", "Resistor Chip", "755-PMR100HZPFU5L00", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PMR100HZPFU5L00?qs=oBjDkOCjPF0%2FXe4M%2FfVe6g%3D%3D", "6432(2512)Size, Ultra-low Ohmic Chip Resistors For Current Detection (AEC-Q200 Qualified)", "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/pmr_series-e.pdf", "0.67 mm"
+END_PART
+
+END.

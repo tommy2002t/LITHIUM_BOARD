@@ -1,0 +1,16 @@
+.BQ7694204PFBR :1 ;Battery Management 3-series to 10-series multicell battery monitor and protector
+QFP50P900X900X120-48N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="VC9" 3="NC_2" 4="VC8" 5="NC_3" 6="VC7" 7="NC_4" 8="VC6" 9="NC_5" 10="VC5" 11="NC_6" 12="VC4" 13="VC3" 14="VC2" 15="VC1" 16="VC0" 17="VSS" 18="SRP" 19="NC_7" 20="SRN" 21="TS1" 22="TS2" 23="TS3" 24="REG18" 25="ALERT" 26="SCL" 27="SDA" 28="HDQ" 29="CFETOFF" 30="DFETOFF" 31="DCHG" 32="DDSG" 33="RST_SHUT" 34="REG2" 35="REG1" 36="REGIN" 37="BREG" 38="FUSE" 39="PDSG" 40="PCHG" 41="LD" 42="PACK" 43="DSG" 44="NC_8" 45="CHG" 46="CP1" 47="BAT" 48="VC10"
+*MXP 48
+*DFN BQ7694204PFBR
+~!Mouser Part Number (595-BQ7694204PFBR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ7694204PFBR?qs=iLbezkQI%252BsiBKz1%2FTSC4wg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ7694204PFBR)
+~!Link Datasheet (https://www.ti.com/lit/gpn/bq76942)
+~!Height (1.2mm)
+~!3D_Model (BQ7694204PFBR)
+BQ7694204PFBR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

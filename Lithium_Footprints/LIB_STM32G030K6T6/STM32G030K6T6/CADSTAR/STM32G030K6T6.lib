@@ -1,0 +1,16 @@
+.STM32G030K6T6 :1 ;STMICROELECTRONICS - STM32G030K6T6 - ARM MCU, STM32 Family STM32G0 Series Microcontrollers, ARM Cortex-M0+, 32bit, 64 MHz, 32 KB, 8 KB
+QFP80P900X900X160-32N
+*STM IC
+*NGS
+*PLB 1="PB9" 2="PC14-OSC32_IN" 3="PC15-OSC32_OUT" 4="VDD/VDDA" 5="VSS/VSSA" 6="NRST" 7="PA0" 8="PA1" 9="PA2" 10="PA3" 11="PA4" 12="PA5" 13="PA6" 14="PA7" 15="PB0" 16="PB1" 17="PB2" 18="PA8" 19="PA9" 20="PC6" 21="PA10" 22="PA11" 23="PA12" 24="PA13" 25="PA14" 26="PA15" 27="PB3" 28="PB4" 29="PB5" 30="PB6" 31="PB7" 32="PB8"
+*MXP 32
+*DFN STM32G030K6T6
+~!Mouser Part Number (511-STM32G030K6T6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G030K6T6?qs=uwxL4vQweFPeOf7U32Wkbw%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32G030K6T6)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stm32g030c6.pdf)
+~!Height (1.6mm)
+~!3D_Model (STM32G030K6T6)
+STM32G030K6T6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

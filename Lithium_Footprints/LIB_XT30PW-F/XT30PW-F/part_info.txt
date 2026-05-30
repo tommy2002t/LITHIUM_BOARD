@@ -1,0 +1,9 @@
+Manufacturer=Amass
+PartNumber=XT30PW-F
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.7
+Released=2020-05-12 09:08:25
+Downloaded=2026-05-29 11:04:59
+3D=Y

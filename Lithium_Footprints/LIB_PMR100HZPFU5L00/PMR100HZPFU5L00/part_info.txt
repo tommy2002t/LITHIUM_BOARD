@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=PMR100HZPFU5L00
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2022-04-11 01:25:46
+Downloaded=2026-05-26 11:54:28
+3D=Y

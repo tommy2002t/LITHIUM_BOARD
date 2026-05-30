@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SZBZX84C15LT3G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "SZBZX84C15LT3G" (!) = "", "SOT96P237X111-3N", "SOT23 (3-Pin)", "863-SZBZX84C15LT3G", "https://www.mouser.co.uk/ProductDetail/onsemi/SZBZX84C15LT3G?qs=PJJcWtbOkNVWBlfCQ6WTzw%3D%3D", "250 mW Rating on FR-4 or FR-5 Board; Zener Breakdown Voltage Range - 2.4 V to 75 V; Package Designed for Optimal Automated Board Assembly; Small Package Size for High Density Applications; ESD Rating of Class 3 (>16 KV) per Human Body Model; Mechanical Characteristics:; CASE: Void-free, transfer-molded, thermosetting plastic case; FINISH: Corrosion resistant finish, easily solderable; MAXIMUM CASE TEMPERATURE FOR SOLDERING PURPOSES: 260C for 10 Seconds; POLARITY: Cathode indicated by polarity band; FLAMMAB", "https://www.onsemi.com/pub/Collateral/BZX84C2V4LT1-D.PDF", "1.11 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PMR100HZPFU5L00"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "RESC6432X67N")
+        (spec "System")
+    )
+)

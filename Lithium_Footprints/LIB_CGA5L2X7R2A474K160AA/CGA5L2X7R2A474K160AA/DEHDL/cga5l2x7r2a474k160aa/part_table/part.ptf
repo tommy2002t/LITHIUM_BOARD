@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CGA5L2X7R2A474K160AA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "CGA5L2X7R2A474K160AA" (!) = "", "CAPC3216X190N", "Capacitor Chip Non-polarised", "810-CGA5L2X7R2A474K", "https://www.mouser.co.uk/ProductDetail/TDK/CGA5L2X7R2A474K160AA?qs=NRhsANhppD%252BXXskeAHmLMQ%3D%3D", "TDK 3216 CGA 470nF Ceramic Multilayer Capacitor, 100 V dc, +125C, X7R Dielectric, +/-10%", "", "1.9 mm"
+END_PART
+
+END.

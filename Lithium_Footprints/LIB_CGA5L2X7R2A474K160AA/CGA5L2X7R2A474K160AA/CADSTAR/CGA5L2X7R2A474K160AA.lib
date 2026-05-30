@@ -1,0 +1,16 @@
+.CGA5L2X7R2A474K160AA :1 ;TDK 3216 CGA 470nF Ceramic Multilayer Capacitor, 100 V dc, +125C, X7R Dielectric, +/-10%
+CAPC3216X190N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CGA5L2X7R2A474K160AA
+~!Mouser Part Number (810-CGA5L2X7R2A474K)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/CGA5L2X7R2A474K160AA?qs=NRhsANhppD%252BXXskeAHmLMQ%3D%3D)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (CGA5L2X7R2A474K160AA)
+~!Link Datasheet (-)
+~!Height (1.9mm)
+~!3D_Model (CGA5L2X7R2A474K160AA)
+CGA5L2X7R2A474K160AA
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G030K6T6
+D STMICROELECTRONICS - STM32G030K6T6 - ARM MCU, STM32 Family STM32G0 Series Microcontrollers, ARM Cortex-M0+, 32bit, 64 MHz, 32 KB, 8 KB
+K
+F https://www.st.com/resource/en/datasheet/stm32g030c6.pdf
+$ENDCMP
+#
+#End Doc Library

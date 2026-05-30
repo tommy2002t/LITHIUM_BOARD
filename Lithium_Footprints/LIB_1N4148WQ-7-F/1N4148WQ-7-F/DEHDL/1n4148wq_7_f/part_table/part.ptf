@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N4148WQ_7_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "IF", "IR", "RJA", "BV", "IPEAK";
+{========================================================================================}
+ "Diodes Incorporated", "1N4148WQ-7-F" (!) = "", "SOD3716X145N", "Small Outline Diode", "621-1N4148WQ-7-F", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/1N4148WQ-7-F?qs=bLNvM6dkO6S%252BGP5yQcUTEQ%3D%3D", "Diodes - General Purpose, Power, Switching SMT Fast Switching Diode", "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf", "1.45 mm", "150", "25", "", "400m", "0.0032", "FAST SWITCHING SMD", "SOD123", "300m", "", "315", "71", "1"
+END_PART
+
+END.

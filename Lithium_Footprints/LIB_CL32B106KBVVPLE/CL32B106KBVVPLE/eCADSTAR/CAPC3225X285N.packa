@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CL32B106KBVVPLE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-10-22-12:39:56)
+    (mountForm default
+        (footprintRef "CAPC3225X285N")
+        (spec "System")
+    )
+)

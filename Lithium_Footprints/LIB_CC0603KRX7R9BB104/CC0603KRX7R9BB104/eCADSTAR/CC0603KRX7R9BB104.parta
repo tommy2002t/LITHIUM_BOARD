@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_16182719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-29-04:05:25)
+    (utime 2026-04-06-05:16:34)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CC0603KRX7R9BB104")
+)
+
+
+(pinAssign "ECS_16182719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-29-04:05:25)
+    (utime 2026-04-06-05:16:34)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16182719")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CC0603KRX7R9BB104")
+)
+
+
+(part "CC0603KRX7R9BB104"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-29-04:05:25)
+    (utime 2026-04-06-05:16:34)
+    (packageRef "CC0603KRX7R9BB104")
+    (pinAssignRef "ECS_16182719")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "0.1 F +/-10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)")
+    (property "Mouser_Part_Number" "603-CC603KRX7R9BB104")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "CC0603KRX7R9BB104")
+    (property "Datasheet_Link" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

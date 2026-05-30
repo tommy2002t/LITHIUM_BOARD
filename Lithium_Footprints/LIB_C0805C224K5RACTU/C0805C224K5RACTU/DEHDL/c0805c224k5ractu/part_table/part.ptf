@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C0805C224K5RACTU'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "C0805C224K5RACTU" (!) = "", "C0805", "Other", "80-C0805C224K5R", "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C224K5RACTU?qs=nyGfpDADWE623f9D1NN9mQ%3D%3D", "SMD, MLCC, Temperature Stable, Class II", "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD", "1.1 mm"
+END_PART
+
+END.

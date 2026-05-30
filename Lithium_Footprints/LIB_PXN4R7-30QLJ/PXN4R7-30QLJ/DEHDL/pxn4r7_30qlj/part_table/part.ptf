@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PXN4R7_30QLJ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PXN4R7-30QLJ" (!) = "", "PXN8R330QLJ", "Other", "771-PXN4R7-30QLJ", "https://www.mouser.co.uk/ProductDetail/Nexperia/PXN4R7-30QLJ?qs=ljCeji4nMDn%252B5uHkKqrkXA%3D%3D", "MOSFETs PXN4R7-30QL/SOT8002/MLPAK33", "https://assets.nexperia.com/documents/data-sheet/PXN4R7-30QL.pdf", "0.9 mm"
+END_PART
+
+END.

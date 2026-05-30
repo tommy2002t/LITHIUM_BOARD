@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRP1038A-100M
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2019-10-02 11:52:09
+Downloaded=2026-05-26 11:53:19
+3D=Y
