@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=C0603C101J5GACTU
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=7.2
+Released=2023-03-07 11:15:09
+Downloaded=2026-05-31 14:31:01
+3D=Y

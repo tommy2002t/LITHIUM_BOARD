@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_261322"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:15:09)
+    (utime 2026-02-11-10:25:59)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C0603C101J5GACTU")
+)
+
+
+(pinAssign "ECS_261322"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:15:09)
+    (utime 2026-02-11-10:25:59)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_261322")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C0603C101J5GACTU")
+)
+
+
+(part "C0603C101J5GACTU"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:15:09)
+    (utime 2026-02-11-10:25:59)
+    (packageRef "C0603C101J5GACTU")
+    (pinAssignRef "ECS_261322")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "SMD Comm C0G, Ceramic, 100 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120")
+    (property "Mouser_Part_Number" "80-C0603C101J5G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C101J5GACTU?qs=4pif%2FGVLGwfJAvnAsx%252B3rw%3D%3D")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "C0603C101J5GACTU")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf")
+    (property "compAreaTopHeight" 0.87)
+)
+
+

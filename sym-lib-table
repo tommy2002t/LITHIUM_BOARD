@@ -47,4 +47,7 @@
   (lib (name "C0603C151J5GACTU")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C151J5GACTU/C0603C151J5GACTU/KiCad/C0603C151J5GACTU.kicad_sym")(options "")(descr ""))
   (lib (name "C0603C223K5RACTU")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C223K5RACTU/C0603C223K5RACTU/KiCad/C0603C223K5RACTU.kicad_sym")(options "")(descr ""))
   (lib (name "MMBT5551LT1G")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_MMBT5551LT1G/MMBT5551LT1G/KiCad/MMBT5551LT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "RC0603FR-0710ML")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710ML/RC0603FR-0710ML/KiCad/RC0603FR-0710ML.kicad_sym")(options "")(descr ""))
+  (lib (name "RC0603FR-07150RL")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07150RL/RC0603FR-07150RL/KiCad/RC0603FR-07150RL.kicad_sym")(options "")(descr ""))
+  (lib (name "C0603C101J5GACTU")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C101J5GACTU/C0603C101J5GACTU/KiCad/C0603C101J5GACTU.kicad_sym")(options "")(descr ""))
 )

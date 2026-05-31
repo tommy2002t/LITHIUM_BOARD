@@ -1,0 +1,16 @@
+.RC0603FR-0710ML :1 ;Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10M +/-1% 0.1W +/-100ppm/C
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RC0603FR-0710ML
+~!Mouser Part Number (603-RC0603FR-0710ML)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710ML?qs=uM1JSSdPjOCKkeKs5xUTUQ%3D%3D)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (RC0603FR-0710ML)
+~!Link Datasheet (http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf)
+~!Height (0.55mm)
+~!3D_Model (RC0603FR-0710ML)
+RC0603FR-0710ML
+1.1!U 2.1!U 

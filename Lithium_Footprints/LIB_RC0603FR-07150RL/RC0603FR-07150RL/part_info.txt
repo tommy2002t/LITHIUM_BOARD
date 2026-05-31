@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=RC0603FR-07150RL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2023-03-07 10:37:27
+Downloaded=2026-05-31 14:33:36
+3D=Y
