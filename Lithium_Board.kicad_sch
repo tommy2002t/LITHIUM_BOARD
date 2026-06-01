@@ -6992,6 +6992,17 @@
 		)
 		(uuid b2ea860e-f4a0-41f9-b94e-44cfee113b8e)
 	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 55.626 327.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "009e6203-45fd-47db-ae40-d157f73cf1a3")
+	)
 	(text "TEMPERATURE MEASUREMENT"
 		(exclude_from_sim no)
 		(at 39.624 300.99 0)
@@ -7001,6 +7012,17 @@
 			)
 		)
 		(uuid "02b769c2-42ee-40ae-97d8-834045c2ff7f")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 403.606 147.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "04d12791-cbf3-49dc-8c0b-f17ca0d42601")
 	)
 	(text "ACUV/ACOV LIMITS"
 		(exclude_from_sim no)
@@ -7012,6 +7034,28 @@
 		)
 		(uuid "08247716-31ba-4ded-8484-853c17dece27")
 	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 260.35 125.984 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "0cb1f9ca-e20d-4f03-8088-8c95e30bd724")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 394.208 273.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "0daf2f30-457a-4b14-b145-111ce3709085")
+	)
 	(text "PULL-UP RESISTORS"
 		(exclude_from_sim no)
 		(at 244.602 244.094 0)
@@ -7021,6 +7065,83 @@
 			)
 		)
 		(uuid "0f918087-982f-437e-8fbb-9a1245a6ea85")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 182.88 79.502 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "0f94abac-16f5-4acc-9130-cfdd35182a22")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 295.656 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "11edfcc4-aeae-4350-a186-f6127e718e97")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 440.436 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "16ba8bc5-7bf1-4af2-bc13-033d65a44024")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 268.732 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "1a3249ab-0089-480a-b84b-fc16150955bd")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 98.552 329.946 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "1ad69de5-73bd-4d5e-bc3b-31de29ebe442")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 86.36 259.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "1b2e1cfb-395d-47a3-a3ab-7ab23dc2ede4")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 35.306 270.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "1c32990c-3d09-4ade-a5ff-be3992829775")
 	)
 	(text "DEBUG PINS"
 		(exclude_from_sim no)
@@ -7032,6 +7153,50 @@
 		)
 		(uuid "1edf2f8a-38c6-4e41-ae76-f1409d5d4b87")
 	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 530.352 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "24c11701-e3e2-45db-acd1-1c7afee7cb82")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 214.63 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "2cd32ae2-2956-42b0-8f4a-09738074bef9")
+	)
+	(text "7.5A"
+		(exclude_from_sim no)
+		(at 317.5 78.486 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "320a0b16-6ca8-4564-bfc2-0c9af27b200e")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 403.606 130.048 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "375849cb-5248-47d5-a13f-3e9eeb10ee6d")
+	)
 	(text "3.3V REGULATOR"
 		(exclude_from_sim no)
 		(at 353.06 253.492 0)
@@ -7041,6 +7206,171 @@
 			)
 		)
 		(uuid "38f57f14-55c2-4b65-9631-6be9d9902207")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 392.176 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "3c4ffc67-68c7-4857-a92e-f5aaa26e4456")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 40.64 327.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "3cbebd7a-1962-4ec1-9445-a08ebce0b497")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 282.956 268.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "52d8d31b-2006-4062-83b0-f523dd30dc53")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 381 178.816 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "53ec93c1-1003-4ffa-89ca-28677c4fc77e")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 415.036 178.816 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "565d2109-7671-45be-9208-7681ae74d3f9")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 106.68 259.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "5bedbfaa-191c-4c87-a9da-717a251a61c7")
+	)
+	(text "1W"
+		(exclude_from_sim no)
+		(at 204.47 70.358 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "5cf6d021-6eda-4db0-9085-e95d7b74268f")
+	)
+	(text "35V"
+		(exclude_from_sim no)
+		(at 479.806 136.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "6eca44bd-abb0-41f3-a49f-5961045c9e6d")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 204.724 119.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "6f7b5ddf-48af-4eb1-87b4-38d170a97c08")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 515.366 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "7ae565ae-c60a-46d1-b190-6995940b5a23")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 125.73 259.334 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "7b0568bf-6807-4e13-abd4-154c7bf31074")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 39.116 283.972 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "7b72ba92-79ff-4338-9012-7fc8d5d355cd")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 72.39 326.644 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "804c62a3-631e-40e2-b99c-4cd994d419b7")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 148.082 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "875f4c8c-b5e6-4a0a-bb5f-3701205c3288")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 199.644 262.636 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "90e2b6c2-135f-42e4-8feb-0491767a9578")
 	)
 	(text "Decoupling Capacitors"
 		(exclude_from_sim no)
@@ -7052,6 +7382,28 @@
 		)
 		(uuid "968e2906-8fc8-4b47-b0f7-9c4342d77923")
 	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 331.216 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "9c7a5b06-b81a-46c3-927d-69f265c13a22")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 247.396 268.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "a4fb7469-2f69-46d6-ae81-70c0985f0f5d")
+	)
 	(text "SYS_CAPACITORS"
 		(exclude_from_sim no)
 		(at 77.978 231.394 0)
@@ -7062,6 +7414,39 @@
 		)
 		(uuid "b04592ac-b922-47e7-a858-06f2e6bb8358")
 	)
+	(text "0.25W"
+		(exclude_from_sim no)
+		(at 39.624 230.378 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "b4f269bd-4199-432c-a6cf-d94a5485d8b7")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 382.524 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "b84f4305-9fff-40cf-b5f0-d49fd137f6e6")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 422.402 276.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "be2cce7a-bda9-4bf8-a33d-0e43400e5f5e")
+	)
 	(text "BQ25750 CONFIGURATION"
 		(exclude_from_sim no)
 		(at 42.418 40.386 0)
@@ -7071,6 +7456,160 @@
 			)
 		)
 		(uuid "be325aa9-ed8e-4a94-b12c-23799fed9e53")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 77.216 77.978 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "c539a42e-d568-42d7-a3b5-d6a828de3edd")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 308.356 268.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "ce5655e5-28db-4aa1-ba7a-eb1a602ee07b")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 270.256 268.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "d0d3caa3-1589-43cd-a7bf-274ea1882f68")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 402.336 178.816 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "d68e44a4-f2ff-401a-b102-e08772ff6cc0")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 275.082 112.268 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "d9b51e75-c660-46f1-880c-b54cb6e641ab")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 35.56 247.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "da73c21e-0642-43f1-94d3-29ca5df11db2")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 309.88 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "e89f18d8-6720-40ee-b508-6acb5c77ebf5")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 369.316 178.816 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "eaf7bb74-cdd6-455c-83e1-eca027e18d8b")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 440.436 128.778 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "ecbdb974-e176-4ffe-b5b0-694af16e3445")
+	)
+	(text "50V"
+		(exclude_from_sim no)
+		(at 243.078 156.718 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "f51b7991-b781-4090-a6ab-9e74e992335e")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 195.58 98.552 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "f5cea774-ef51-4781-aa70-f13be18e15c4")
+	)
+	(text "2W"
+		(exclude_from_sim no)
+		(at 456.692 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "f96b26bc-0fcf-4a75-8671-1e4b9219048c")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 258.826 268.732 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "f9da0a0d-1167-4d25-baa5-87526f8304a3")
+	)
+	(text "100V"
+		(exclude_from_sim no)
+		(at 211.836 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "fba5d641-03ff-48b7-b8d6-5d10d6829dd7")
 	)
 	(junction
 		(at 486.41 77.47)
@@ -7395,6 +7934,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a887886e-c897-4f31-a3de-9aacb1cb2dc0")
+	)
+	(junction
+		(at 361.95 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acd33f1f-ce6c-44ab-b4d2-f17e5e740c06")
 	)
 	(junction
 		(at 219.71 67.31)
@@ -7866,6 +8411,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 144.78) (xy 353.06 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14ee3460-d342-41eb-b0a7-6803be2e0c9e")
+	)
+	(wire
+		(pts
 			(xy 397.51 100.33) (xy 397.51 102.87)
 		)
 		(stroke
@@ -8013,16 +8568,6 @@
 			(type default)
 		)
 		(uuid "1f6d397b-9f3f-4072-b735-06ee92533471")
-	)
-	(wire
-		(pts
-			(xy 353.06 144.78) (xy 361.95 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f916dd0-5f9e-453f-85f9-b128a20f3686")
 	)
 	(wire
 		(pts
@@ -8183,6 +8728,16 @@
 			(type default)
 		)
 		(uuid "2ae6a15c-8837-4aec-bd8a-e08eaffa564d")
+	)
+	(wire
+		(pts
+			(xy 490.22 101.6) (xy 486.41 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ba7a526-141b-44a9-b57d-17d6e85ac28e")
 	)
 	(wire
 		(pts
@@ -9506,7 +10061,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 144.78) (xy 361.95 156.21)
+			(xy 361.95 148.59) (xy 361.95 156.21)
 		)
 		(stroke
 			(width 0)
@@ -9683,6 +10238,16 @@
 			(type default)
 		)
 		(uuid "968e51ec-3827-4ffb-9d75-e90dfef6e230")
+	)
+	(wire
+		(pts
+			(xy 364.49 148.59) (xy 361.95 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97039f73-74cf-4920-a050-b23103542a78")
 	)
 	(wire
 		(pts
@@ -10073,6 +10638,16 @@
 			(type default)
 		)
 		(uuid "bae2c3f4-e4bd-4120-9438-15d48118c6b0")
+	)
+	(wire
+		(pts
+			(xy 361.95 148.59) (xy 361.95 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baf0a2c9-3ae0-422f-8b4e-917e73528a08")
 	)
 	(wire
 		(pts
@@ -10923,6 +11498,196 @@
 			(type default)
 		)
 		(uuid "fe967af5-ee0d-4e18-9eaa-312ad7922561")
+	)
+	(label "SW2"
+		(at 331.47 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "070db6b1-10d9-4fbf-b608-938ffc51b018")
+	)
+	(label "FSW_SYNC"
+		(at 354.33 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0bf8c137-ad59-4b6a-8b44-1c3f2a0373c3")
+	)
+	(label "FBG"
+		(at 364.49 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e5a60cb-33b2-4be6-96b5-36535ea02432")
+	)
+	(label "BTST2"
+		(at 335.28 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "18e71b69-a827-4197-9044-1f98a51a3170")
+	)
+	(label "ILIM_HIZ"
+		(at 354.33 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "264123ed-3244-428c-a8f6-8a81e977e65c")
+	)
+	(label "VAC"
+		(at 289.56 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "27d0384b-6240-4460-9bcd-eda1850dc35d")
+	)
+	(label "ACN"
+		(at 289.56 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "298fe80a-8076-409a-a299-8c5b3e2a8b90")
+	)
+	(label "HIDRV2"
+		(at 339.09 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3418144a-1683-47c2-ac0a-c89a3184cc19")
+	)
+	(label "Q7_DRAIN"
+		(at 490.22 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b1242db-2e2d-4db5-9df3-f648bab3555c")
+	)
+	(label "BTST1"
+		(at 306.07 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4ef83999-3940-4600-a9c5-600ce4f2f913")
+	)
+	(label "ACP"
+		(at 289.56 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "60c7e784-f315-4680-9741-dfb6c297654a")
+	)
+	(label "PGND_2"
+		(at 354.33 168.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "76286431-1828-4a1f-8c3b-66d980c3f89f")
+	)
+	(label "PGND_1"
+		(at 354.33 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8625db62-e3c2-4a8f-9999-1e31c1787931")
+	)
+	(label "ACDRV"
+		(at 289.56 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "89fbff52-782a-4382-87e9-f861502fe238")
+	)
+	(label "HIDRV1"
+		(at 302.26 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a75f6e66-e197-4b2c-861b-44fffdce8921")
+	)
+	(label "ICHG"
+		(at 354.33 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb30d123-d24a-46c4-b357-c9c5124683dc")
+	)
+	(label "SW1"
+		(at 309.88 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1d16964-37d5-40b3-bed6-d6f4752bb1fe")
+	)
+	(label "SRN"
+		(at 353.06 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da37c7ac-1fa9-4c08-83b9-5be6e6fe6437")
+	)
+	(label "SRP"
+		(at 353.06 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dda2a427-dc90-4d88-a38a-31deb37d5b96")
 	)
 	(global_label "BQ_SDA"
 		(shape input)
@@ -13665,10 +14430,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "281f4d28-9ace-4bde-98ab-b11a8f1fa259")
 		(property "Reference" "C23"
-			(at 180.9181 247.65 0)
+			(at 197.358 257.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13677,7 +14441,7 @@
 			)
 		)
 		(property "Value" "EEV-FK2A101V"
-			(at 180.9181 250.19 0)
+			(at 192.278 260.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
