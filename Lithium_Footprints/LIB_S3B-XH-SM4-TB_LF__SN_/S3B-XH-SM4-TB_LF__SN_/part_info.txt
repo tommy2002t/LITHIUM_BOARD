@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=S3B-XH-SM4-TB(LF)(SN)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=3.3
+Released=2016-12-29 14:53:27
+Downloaded=2026-03-12 09:42:20
+3D=Y

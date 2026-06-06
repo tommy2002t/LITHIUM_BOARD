@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM155R71H104KE14J'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM155R71H104KE14J" (!) = "", "GRM15x", "Other", "81-GRM155R71H104KE4J", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155R71H104KE14J?qs=hNud%2FORuBR3BfRpeqfu6lg%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01A.pdf", "0.33 mm"
+END_PART
+
+END.

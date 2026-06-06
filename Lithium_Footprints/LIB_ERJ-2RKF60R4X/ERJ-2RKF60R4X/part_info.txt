@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-2RKF60R4X
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=3.5
+Released=2023-03-07 11:07:47
+Downloaded=2026-03-11 21:25:17
+3D=Y

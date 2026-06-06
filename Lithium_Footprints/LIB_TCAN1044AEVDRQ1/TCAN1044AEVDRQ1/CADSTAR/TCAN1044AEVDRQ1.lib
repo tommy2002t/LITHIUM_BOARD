@@ -1,0 +1,16 @@
+.TCAN1044AEVDRQ1 :1 ;TCAN1044AEVDRQ1
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="NC, VIO" 6="CANL" 7="CANH" 8="STB"
+*MXP 8
+*DFN TCAN1044AEVDRQ1
+~!Mouser Part Number (595-TCAN1044AEVDRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1044AEVDRQ1?qs=Rp5uXu7WBW%2FghOnpfmkUbA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAN1044AEVDRQ1)
+~!Link Datasheet (https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftcan1044-q1)
+~!Height (1.75mm)
+~!3D_Model (TCAN1044AEVDRQ1)
+TCAN1044AEVDRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

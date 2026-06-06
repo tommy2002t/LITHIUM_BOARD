@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTST_C190KRKT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTST-C190KRKT" (!) = "", "LEDC1608X80N", "LEDs Chip", "859-LTST-C190KRKT", "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D", "LED,SMD,0603,Red,54mcd,130deg Lite-On LTST-C190KRKT Red LED, 631 nm, 1608 (0603), Rectangle Lens SMD Package", "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf", "0.8 mm"
+END_PART
+
+END.

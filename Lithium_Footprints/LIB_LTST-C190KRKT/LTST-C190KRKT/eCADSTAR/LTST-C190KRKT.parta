@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_290773"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-14-11:36:32)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LTST-C190KRKT")
+)
+
+
+(pinAssign "ECS_290773"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-14-11:36:32)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_290773")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LTST-C190KRKT")
+)
+
+
+(part "LTST-C190KRKT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-14-11:36:32)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "LTST-C190KRKT")
+    (pinAssignRef "ECS_290773")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "LED,SMD,0603,Red,54mcd,130deg Lite-On LTST-C190KRKT Red LED, 631 nm, 1608 (0603), Rectangle Lens SMD Package")
+    (property "Mouser_Part_Number" "859-LTST-C190KRKT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D")
+    (property "Manufacturer_Name" "Lite-On")
+    (property "Manufacturer_Part_Number" "LTST-C190KRKT")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf")
+    (property "compAreaTopHeight" 0.8)
+)
+
+

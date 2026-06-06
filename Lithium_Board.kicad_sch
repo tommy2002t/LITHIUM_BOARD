@@ -9061,6 +9061,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 168.91) (xy 356.87 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f1b9a66-e77f-41b2-bac7-132dee0ae962")
+	)
+	(wire
+		(pts
 			(xy 175.26 69.85) (xy 175.26 72.39)
 		)
 		(stroke
@@ -9891,16 +9901,6 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 168.91) (xy 356.87 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b104932-8e7a-419b-8033-c2435605661e")
-	)
-	(wire
-		(pts
 			(xy 142.24 276.86) (xy 142.24 281.94)
 		)
 		(stroke
@@ -9938,6 +9938,16 @@
 			(type default)
 		)
 		(uuid "7de66c4d-7592-4f52-8bbd-d65a19eaaef6")
+	)
+	(wire
+		(pts
+			(xy 356.87 168.91) (xy 356.87 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8087cc0a-a525-4330-8716-b7d50c7ea318")
 	)
 	(wire
 		(pts
@@ -11071,16 +11081,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 168.91) (xy 356.87 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2c20437-cfaf-4853-a31b-0843c076f74a")
-	)
-	(wire
-		(pts
 			(xy 353.06 137.16) (xy 367.03 137.16)
 		)
 		(stroke
@@ -11610,12 +11610,12 @@
 		(uuid "60c7e784-f315-4680-9741-dfb6c297654a")
 	)
 	(label "PGND_2"
-		(at 354.33 168.91 0)
+		(at 356.87 168.91 270)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "76286431-1828-4a1f-8c3b-66d980c3f89f")
 	)
@@ -24361,7 +24361,7 @@
 		)
 	)
 	(sheet
-		(at 118.11 311.15)
+		(at 114.935 309.245)
 		(size 73.66 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24377,7 +24377,7 @@
 		)
 		(uuid "160492a7-828d-4540-9766-a6c613c08096")
 		(property "Sheetname" "MCU"
-			(at 118.11 310.4384 0)
+			(at 114.935 308.5334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24386,7 +24386,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 118.11 348.5646 0)
+			(at 114.935 346.6596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24403,8 +24403,50 @@
 		)
 	)
 	(sheet
-		(at 203.2 309.88)
-		(size 71.755 37.465)
+		(at 272.415 309.245)
+		(size 64.135 37.465)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b9fdd8df-4b45-42b1-84e6-4aad11123e49")
+		(property "Sheetname" "CANBUS"
+			(at 272.415 308.5334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CANBUS.kicad_sch"
+			(at 272.415 347.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 197.485 309.245)
+		(size 71.755 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -24419,7 +24461,7 @@
 		)
 		(uuid "c4a855d5-ac6f-48c0-9386-1c7b76fc99f3")
 		(property "Sheetname" "CELL BALANCING IC"
-			(at 203.2 309.1684 0)
+			(at 197.485 308.5334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24428,7 +24470,7 @@
 			)
 		)
 		(property "Sheetfile" "Cell_Balancing.kicad_sch"
-			(at 203.2 347.9296 0)
+			(at 197.485 346.6596 0)
 			(effects
 				(font
 					(size 1.27 1.27)

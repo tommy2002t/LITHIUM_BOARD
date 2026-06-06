@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN1044AEVDRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN1044AEVDRQ1" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-TCAN1044AEVDRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1044AEVDRQ1?qs=Rp5uXu7WBW%2FghOnpfmkUbA%3D%3D", "TCAN1044AEVDRQ1", "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftcan1044-q1", "1.75 mm"
+END_PART
+
+END.

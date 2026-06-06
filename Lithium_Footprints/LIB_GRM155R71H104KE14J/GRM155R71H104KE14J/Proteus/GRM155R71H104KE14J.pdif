@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GRM155R71H104KE14J"
+   (description "Multilayer Ceramic Capacitors MLCC - SMD/SMT")
+   (family "CAP")
+   (package "GRM15x")
+   (attribute "Datasheet Link" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01A.pdf")
+   (attribute "Geometry.Height" "0.33mm")
+   (attribute "Mouser Part Number" "81-GRM155R71H104KE4J")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155R71H104KE14J?qs=hNud%2FORuBR3BfRpeqfu6lg%3D%3D")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "GRM155R71H104KE14J")
+   (gate
+    (symbol "GRM155R71H104KE14J")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "GRM155R71H104KE14J"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GRM15x"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.5 0.25)
+      (pt 0.5 0.25)
+      (pt 0.5 -0.25)
+      (pt -0.5 -0.25)
+      (pt -0.5 0.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.25 0.75)
+      (pt 1.25 0.75)
+      (pt 1.25 -0.75)
+      (pt -1.25 -0.75)
+      (pt -1.25 0.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.05)
+      (arc (pt -1.000 0.050) (pt -1.050 -0.050) (pt -0.950 0.050) (start 180.0) (sweep 90.0))
+      (pt -1 -0.05)
+      (arc (pt -1.000 -0.050) (pt -1.050 -0.050) (pt -0.950 0.050) (start 180.0) (sweep -90.0))
+      (pt -1 0.05))))
+   (leg 1 (pt -0.475 0.000) (padstack 0))
+   (leg 2 (pt 0.475 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.450 0.600 0 0 90.000))
+   )
+   (model "GRM155R71H104KE14J.stp"
+    (euler 0 0 0)
+    (offset 0 -0.2800000011920929 0.25)
+   )
+  )
+ )
+)

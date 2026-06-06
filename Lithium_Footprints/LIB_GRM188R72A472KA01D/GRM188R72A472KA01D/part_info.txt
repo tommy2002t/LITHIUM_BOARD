@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM188R72A472KA01D
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.1
+Released=2023-03-07 08:48:55
+Downloaded=2026-03-12 09:42:13
+3D=Y

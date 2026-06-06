@@ -1,0 +1,16 @@
+.LTST-C190KRKT :1 ;LED,SMD,0603,Red,54mcd,130deg Lite-On LTST-C190KRKT Red LED, 631 nm, 1608 (0603), Rectangle Lens SMD Package
+LEDC1608X80N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN LTST-C190KRKT
+~!Mouser Part Number (859-LTST-C190KRKT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D)
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTST-C190KRKT)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf)
+~!Height (0.8mm)
+~!3D_Model (LTST-C190KRKT)
+LTST-C190KRKT
+1.1!U 2.1!U 

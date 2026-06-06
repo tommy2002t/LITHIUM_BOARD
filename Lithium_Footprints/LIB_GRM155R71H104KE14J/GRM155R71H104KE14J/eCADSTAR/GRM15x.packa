@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GRM155R71H104KE14J"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-30-15:56:56)
+    (mountForm default
+        (footprintRef "GRM15x")
+        (spec "System")
+    )
+)

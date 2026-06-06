@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GRM15x"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GRM15x")
+        (spec "default")
+    )
+)

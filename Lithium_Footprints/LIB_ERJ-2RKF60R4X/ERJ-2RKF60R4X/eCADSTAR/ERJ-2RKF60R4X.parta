@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_393505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:07:47)
+    (utime 2023-03-07-11:07:47)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ERJ-2RKF60R4X")
+)
+
+
+(pinAssign "ECS_393505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:07:47)
+    (utime 2023-03-07-11:07:47)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_393505")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ERJ-2RKF60R4X")
+)
+
+
+(part "ERJ-2RKF60R4X"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:07:47)
+    (utime 2023-03-07-11:07:47)
+    (packageRef "ERJ-2RKF60R4X")
+    (pinAssignRef "ECS_393505")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Panasonic Thick Film Resistor 60.4 0.1W +/-100ppm/C")
+    (property "Mouser_Part_Number" "667-ERJ-2RKF60R4X")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-2RKF60R4X")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "ERJ-2RKF60R4X")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/ERJ-2RKF60R4X.pdf")
+    (property "compAreaTopHeight" 0.4)
+)
+
+

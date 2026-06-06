@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -644,6 +644,10 @@
     [
       "c4a855d5-ac6f-48c0-9386-1c7b76fc99f3",
       "CELL BALANCING IC"
+    ],
+    [
+      "b9fdd8df-4b45-42b1-84e6-4aad11123e49",
+      "CANBUS"
     ]
   ],
   "text_variables": {}

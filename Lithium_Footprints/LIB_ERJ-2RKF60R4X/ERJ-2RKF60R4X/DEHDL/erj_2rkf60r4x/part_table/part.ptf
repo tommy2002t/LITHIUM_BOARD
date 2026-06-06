@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_2RKF60R4X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-2RKF60R4X" (!) = "", "ERJ2RKD1004X", "Other", "667-ERJ-2RKF60R4X", "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-2RKF60R4X", "Panasonic Thick Film Resistor 60.4 0.1W +/-100ppm/C", "https://componentsearchengine.com/Datasheets/1/ERJ-2RKF60R4X.pdf", "0.4 mm"
+END_PART
+
+END.

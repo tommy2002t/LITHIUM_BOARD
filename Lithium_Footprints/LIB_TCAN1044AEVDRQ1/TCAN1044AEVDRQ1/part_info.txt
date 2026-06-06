@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCAN1044AEVDRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2021-11-21 07:17:40
+Downloaded=2026-03-10 21:30:49
+3D=Y
