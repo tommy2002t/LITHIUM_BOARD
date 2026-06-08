@@ -6957,18 +6957,6 @@
 		(uuid 3b5d40ca-16d0-4c5b-97c7-e7899439eb99)
 	)
 	(rectangle
-		(start 69.215 309.88)
-		(end 106.68 346.71)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 85720e31-bbf1-466a-9b73-eaf8c4d3702e)
-	)
-	(rectangle
 		(start 234.315 245.11)
 		(end 328.93 292.735)
 		(stroke
@@ -7109,17 +7097,6 @@
 			)
 		)
 		(uuid "1a3249ab-0089-480a-b84b-fc16150955bd")
-	)
-	(text "50V"
-		(exclude_from_sim no)
-		(at 98.552 329.946 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "1ad69de5-73bd-4d5e-bc3b-31de29ebe442")
 	)
 	(text "100V"
 		(exclude_from_sim no)
@@ -7339,17 +7316,6 @@
 		)
 		(uuid "7b72ba92-79ff-4338-9012-7fc8d5d355cd")
 	)
-	(text "50V"
-		(exclude_from_sim no)
-		(at 72.39 326.644 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "804c62a3-631e-40e2-b99c-4cd994d419b7")
-	)
 	(text "100V"
 		(exclude_from_sim no)
 		(at 148.082 274.32 0)
@@ -7371,16 +7337,6 @@
 			)
 		)
 		(uuid "90e2b6c2-135f-42e4-8feb-0491767a9578")
-	)
-	(text "Decoupling Capacitors"
-		(exclude_from_sim no)
-		(at 80.264 308.102 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "968e2906-8fc8-4b47-b0f7-9c4342d77923")
 	)
 	(text "50V"
 		(exclude_from_sim no)
@@ -8481,16 +8437,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 332.74) (xy 78.74 336.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1adf68fa-0c97-4471-bbd6-37424cc6f1da")
-	)
-	(wire
-		(pts
 			(xy 187.96 67.31) (xy 187.96 69.85)
 		)
 		(stroke
@@ -8898,16 +8844,6 @@
 			(type default)
 		)
 		(uuid "326d5649-1b43-484d-b3d3-b96d1b6ca374")
-	)
-	(wire
-		(pts
-			(xy 92.71 317.5) (xy 92.71 320.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32ca4ede-ebbb-43b0-854b-17f66790fe39")
 	)
 	(wire
 		(pts
@@ -10631,16 +10567,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 332.74) (xy 92.71 336.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9809581-3aee-42ad-8963-b8e56977901e")
-	)
-	(wire
-		(pts
 			(xy 375.92 161.29) (xy 375.92 166.37)
 		)
 		(stroke
@@ -10818,16 +10744,6 @@
 			(type default)
 		)
 		(uuid "ce051dfe-1e49-40c7-8fe8-009aad4b9e8f")
-	)
-	(wire
-		(pts
-			(xy 78.74 317.5) (xy 78.74 320.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce097699-4b50-47e7-8e25-0adafbbcb202")
 	)
 	(wire
 		(pts
@@ -14305,72 +14221,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 92.71 336.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23425929-deb3-4714-8a05-c6c615deb15f")
-		(property "Reference" "#PWR045"
-			(at 92.71 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 92.71 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ee8d387e-fa37-4feb-8ee8-a1faf08b0e60")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -18388,128 +18238,6 @@
 		)
 	)
 	(symbol
-		(lib_id "C2012X7R1H105K125AB:C2012X7R1H105K125AB")
-		(at 78.74 320.04 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "70311d00-99a0-461b-ba3b-e513a255cd5d")
-		(property "Reference" "C14"
-			(at 82.55 325.1199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 82.55 327.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "C2012X7R1H105K125AB:CAPC2012X145N"
-			(at -17.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-			(at -117.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-			(at 78.74 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.45"
-			(at -317.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "810-C2012X7R1H105K"
-			(at -417.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-			(at -517.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TDK"
-			(at -617.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-			(at -717.45 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30415dc5-c30d-4297-9591-451daaaa7213")
-		)
-		(pin "2"
-			(uuid "04266d21-12d4-40e7-a2ee-5aa0529c5c02")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SIR870ADP-T1-GE3:SIR870ADP-T1-GE3")
 		(at 146.05 67.31 0)
 		(unit 1)
@@ -18880,72 +18608,6 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 92.71 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76d3f400-6408-468a-9fdb-2c97f25d4956")
-		(property "Reference" "#PWR034"
-			(at 92.71 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 92.71 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 92.71 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c59db3a8-e0da-4059-80b2-8a5a7d958f2c")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -20605,72 +20267,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 78.74 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e6feac0-b475-4ed4-9bbe-dc5f64bcb270")
-		(property "Reference" "#PWR033"
-			(at 78.74 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 78.74 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 78.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ebb696b-8d29-41a7-b1fa-2e46a6dcf73c")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "RC0603FR-0734K8L:RC0603FR-0734K8L")
 		(at 375.92 184.15 90)
 		(unit 1)
@@ -20793,72 +20389,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 78.74 336.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "905a8902-c110-40ad-88ab-c5dc8c2ca972")
-		(property "Reference" "#PWR044"
-			(at 78.74 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.74 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e26097c0-bad5-41a1-b0d0-0477bd67d0fb")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 317.5 254 0)
 		(unit 1)
@@ -20919,128 +20449,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CC0603KRX7R9BB104:CC0603KRX7R9BB104")
-		(at 92.71 320.04 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94db79da-658c-42ce-98e8-db1ef85ffe74")
-		(property "Reference" "C15"
-			(at 96.52 325.1199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 96.52 327.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CC0603KRX7R9BB104:CAPC1608X90N"
-			(at -3.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R9BB104/2103082"
-			(at -103.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1 F +/-10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 92.71 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.9"
-			(at -303.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "603-CC603KRX7R9BB104"
-			(at -403.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"
-			(at -503.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yageo Group"
-			(at -603.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "CC0603KRX7R9BB104"
-			(at -703.48 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "519f7a28-5ff6-4bc8-a241-646db4ced621")
-		)
-		(pin "2"
-			(uuid "3dafddaa-e80a-473e-ad14-4088c8128c7a")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -24361,7 +23769,7 @@
 		)
 	)
 	(sheet
-		(at 114.935 309.245)
+		(at 64.77 309.88)
 		(size 73.66 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24377,7 +23785,7 @@
 		)
 		(uuid "160492a7-828d-4540-9766-a6c613c08096")
 		(property "Sheetname" "MCU"
-			(at 114.935 308.5334 0)
+			(at 64.77 309.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24386,7 +23794,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 114.935 346.6596 0)
+			(at 64.77 347.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24403,7 +23811,7 @@
 		)
 	)
 	(sheet
-		(at 272.415 309.245)
+		(at 220.345 309.88)
 		(size 64.135 37.465)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24419,7 +23827,7 @@
 		)
 		(uuid "b9fdd8df-4b45-42b1-84e6-4aad11123e49")
 		(property "Sheetname" "CANBUS"
-			(at 272.415 308.5334 0)
+			(at 220.345 309.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24428,7 +23836,7 @@
 			)
 		)
 		(property "Sheetfile" "CANBUS.kicad_sch"
-			(at 272.415 347.2946 0)
+			(at 220.345 347.9296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24445,7 +23853,7 @@
 		)
 	)
 	(sheet
-		(at 197.485 309.245)
+		(at 143.51 309.88)
 		(size 71.755 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24461,7 +23869,7 @@
 		)
 		(uuid "c4a855d5-ac6f-48c0-9386-1c7b76fc99f3")
 		(property "Sheetname" "CELL BALANCING IC"
-			(at 197.485 308.5334 0)
+			(at 143.51 309.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24470,7 +23878,7 @@
 			)
 		)
 		(property "Sheetfile" "Cell_Balancing.kicad_sch"
-			(at 197.485 346.6596 0)
+			(at 143.51 347.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
