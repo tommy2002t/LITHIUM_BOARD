@@ -1,0 +1,5 @@
+(version 1)
+(rule "BQ25750 EP local clearance"
+    (condition "A.Footprint == 'BQ25750RRVR:QFN50P500X600X100-37N-D' || B.Footprint == 'BQ25750RRVR:QFN50P500X600X100-37N-D'")
+    (constraint clearance (min 0.15mm))
+)
