@@ -1,6 +1,0 @@
-(version 1)
-
-(rule "BQ25750 local pad clearance"
-    (condition "A.Pad_Number != '' || B.Pad_Number != ''")
-    (constraint clearance (min 0.15mm))
-)
