@@ -1,0 +1,16 @@
+.CDBMT2100-HF :1 ;Schottky Diodes & Rectifiers Schottky 2A 100V
+SODFL3516X100N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CDBMT2100-HF
+~!Mouser Part Number (750-CDBMT2100-HF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBMT2100-HF?qs=1bLIX8ysQDALloA%2Fk2OVqg%3D%3D)
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (CDBMT2100-HF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/CDBMT2100-HF.pdf)
+~!Height (1mm)
+~!3D_Model (CDBMT2100-HF)
+CDBMT2100-HF
+1.1!U 2.1!U 

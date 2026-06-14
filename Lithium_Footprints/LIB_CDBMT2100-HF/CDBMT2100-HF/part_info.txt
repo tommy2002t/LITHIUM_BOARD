@@ -1,0 +1,9 @@
+Manufacturer=Comchip Technology
+PartNumber=CDBMT2100-HF
+PartCategory=Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2017-07-02 09:14:36
+Downloaded=2026-06-14 15:01:21
+3D=Y

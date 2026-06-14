@@ -5,198 +5,6 @@
 	(uuid "444f1384-8a77-4a2b-be96-c0a6bd501bc7")
 	(paper "A4")
 	(lib_symbols
-		(symbol "C2012X7R1H105K125AB:C2012X7R1H105K125AB"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "C2012X7R1H105K125AB"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "CAPC2012X145N"
-				(at 8.89 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-				(at 8.89 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.45"
-				(at 8.89 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "810-C2012X7R1H105K"
-				(at 8.89 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-				(at 8.89 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "TDK"
-				(at 8.89 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-				(at 8.89 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "C2012X7R1H105K125AB_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "CC0603KRX7R9BB104:CC0603KRX7R9BB104"
 			(pin_names
 				(hide yes)
@@ -2004,6 +1812,198 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "UMJ325AB7475KMHP:UMJ325AB7475KMHP"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "UMJ325AB7475KMHP"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "CAPC3225X280N"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=MCJCU32MAB7475KPPA01"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "4.7 F +/-10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "2.8"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "963-UMJ325AB7475KMHP"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/UMJ325AB7475KMHP?qs=sBf%2Fb4nBSlehnKp%252BnIaW0Q%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "TAIYO YUDEN"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "UMJ325AB7475KMHP"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "UMJ325AB7475KMHP_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -2267,14 +2267,14 @@
 	)
 	(text "50V"
 		(exclude_from_sim no)
-		(at 104.14 161.544 0)
+		(at 103.378 161.798 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(color 255 4 0 1)
 			)
 		)
-		(uuid "4819dea0-ee48-4599-80f0-3d1e26870685")
+		(uuid "511e947d-4e98-46f0-ae2d-e356ac23a4e7")
 	)
 	(text "50V"
 		(exclude_from_sim no)
@@ -2340,8 +2340,8 @@
 		(uuid "11b4d209-d863-44b4-a650-dfb6a2137c02")
 	)
 	(no_connect
-		(at 137.16 97.79)
-		(uuid "120dbf14-ce46-40b5-81ea-a9059694c6eb")
+		(at 152.4 97.79)
+		(uuid "207b7fe5-5b5e-471c-8af1-ca5a748c37da")
 	)
 	(no_connect
 		(at 152.4 39.37)
@@ -2364,16 +2364,8 @@
 		(uuid "519f2706-bf17-49f6-87cf-a3aa1156f5c5")
 	)
 	(no_connect
-		(at 134.62 97.79)
-		(uuid "5d1ac5a7-e042-45be-990a-c43ab6957260")
-	)
-	(no_connect
 		(at 149.86 39.37)
 		(uuid "6a463033-3b3d-43e3-a7d9-8de956879e43")
-	)
-	(no_connect
-		(at 154.94 97.79)
-		(uuid "721b199e-f289-453d-8078-bd369e3f4f48")
 	)
 	(no_connect
 		(at 154.94 39.37)
@@ -2386,6 +2378,10 @@
 	(no_connect
 		(at 167.64 82.55)
 		(uuid "a84a18ef-8c5a-4cbc-a559-66eba9ead399")
+	)
+	(no_connect
+		(at 149.86 97.79)
+		(uuid "ad762a36-d474-4dda-9d8b-8e406522035f")
 	)
 	(no_connect
 		(at 167.64 62.23)
@@ -2835,7 +2831,7 @@
 			)
 		)
 	)
-	(global_label "BQ2_HDQ"
+	(global_label "BQ2_MOSI"
 		(shape input)
 		(at 139.7 97.79 270)
 		(fields_autoplaced yes)
@@ -2847,7 +2843,7 @@
 		)
 		(uuid "3b934916-c91e-45f6-abff-e3c7d1e32f80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7 109.4838 90)
+			(at 139.7 110.149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2879,6 +2875,28 @@
 			)
 		)
 	)
+	(global_label "BQ2_CS"
+		(shape input)
+		(at 154.94 97.79 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4af55f9c-c94a-4a76-bea8-b45f6d3af1a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.94 108.0323 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED1_RED"
 		(shape input)
 		(at 81.28 149.86 0)
@@ -2901,6 +2919,28 @@
 			)
 		)
 	)
+	(global_label "BQ2_SCLK"
+		(shape input)
+		(at 134.62 97.79 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "87cba57f-6366-44c3-8082-1a18b3f355d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.62 110.3304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SWCLK"
 		(shape input)
 		(at 167.64 54.61 0)
@@ -2919,28 +2959,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BQ2_SDA"
-		(shape input)
-		(at 152.4 97.79 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ada9dd1b-d354-4a08-a179-fdb689c08901")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.4 109.1209 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -3099,28 +3117,6 @@
 			)
 		)
 	)
-	(global_label "BQ2_SCL"
-		(shape input)
-		(at 149.86 97.79 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "eaf02b62-5c2c-4d90-babb-a3ee2c4755cc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.86 109.0604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BQ_INT"
 		(shape input)
 		(at 116.84 80.01 180)
@@ -3134,6 +3130,28 @@
 		(uuid "f78a954f-d40e-45f4-986c-349612949bd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 107.3838 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ2_MISO"
+		(shape input)
+		(at 137.16 97.79 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc502674-063a-46b8-b497-31ca06fa49d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.16 110.149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3802,128 +3820,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/160492a7-828d-4540-9766-a6c613c08096"
 					(reference "#PWR073")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "C2012X7R1H105K125AB:C2012X7R1H105K125AB")
-		(at 110.49 154.94 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "70311d00-99a0-461b-ba3b-e513a255cd5d")
-		(property "Reference" "C14"
-			(at 114.3 160.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 114.3 162.5599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "C2012X7R1H105K125AB:CAPC2012X145N"
-			(at 14.3 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-			(at -85.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-			(at 110.49 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.45"
-			(at -285.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "810-C2012X7R1H105K"
-			(at -385.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-			(at -485.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TDK"
-			(at -585.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-			(at -685.7 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30415dc5-c30d-4297-9591-451daaaa7213")
-		)
-		(pin "2"
-			(uuid "04266d21-12d4-40e7-a2ee-5aa0529c5c02")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/160492a7-828d-4540-9766-a6c613c08096"
-					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -4938,6 +4834,128 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/160492a7-828d-4540-9766-a6c613c08096"
 					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UMJ325AB7475KMHP:UMJ325AB7475KMHP")
+		(at 110.49 154.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e64c7ed3-9918-4c75-a4ed-230578c22b4d")
+		(property "Reference" "C14"
+			(at 114.3 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 114.3 162.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UMJ325AB7475KMHP:CAPC3225X280N"
+			(at 14.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=MCJCU32MAB7475KPPA01"
+			(at -85.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "4.7 F +/-10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)"
+			(at 110.49 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.8"
+			(at -285.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "963-UMJ325AB7475KMHP"
+			(at -385.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/UMJ325AB7475KMHP?qs=sBf%2Fb4nBSlehnKp%252BnIaW0Q%3D%3D"
+			(at -485.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TAIYO YUDEN"
+			(at -585.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UMJ325AB7475KMHP"
+			(at -685.7 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "561c20d2-d0de-40b6-879a-05544ff6e3aa")
+		)
+		(pin "1"
+			(uuid "db0273e1-8bfe-4528-a9cc-8ed7a9ec51c5")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/160492a7-828d-4540-9766-a6c613c08096"
+					(reference "C14")
 					(unit 1)
 				)
 			)

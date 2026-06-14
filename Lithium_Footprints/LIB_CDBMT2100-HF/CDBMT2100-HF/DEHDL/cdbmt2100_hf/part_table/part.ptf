@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDBMT2100_HF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Comchip Technology", "CDBMT2100-HF" (!) = "", "SODFL3516X100N", "Small Outline Diode Flat Lead", "750-CDBMT2100-HF", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBMT2100-HF?qs=1bLIX8ysQDALloA%2Fk2OVqg%3D%3D", "Schottky Diodes & Rectifiers Schottky 2A 100V", "https://componentsearchengine.com/Datasheets/1/CDBMT2100-HF.pdf", "1 mm"
+END_PART
+
+END.

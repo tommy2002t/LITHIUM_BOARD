@@ -3575,161 +3575,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RC0603FR-074K7L:RC0603FR-074K7L"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 13.97 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "RC0603FR-074K7L"
-				(at 13.97 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "RESC1608X55N"
-				(at 13.97 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-				(at 13.97 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "YAGEO (PHYCOMP) - RC0603FR-074K7L. - RES, THICK FILM, 4K7, 1%, 0.1W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "0.55"
-				(at 13.97 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "603-RC0603FR-074K7L"
-				(at 13.97 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D"
-				(at 13.97 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Yageo Group"
-				(at 13.97 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "RC0603FR-074K7L"
-				(at 13.97 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "RC0603FR-074K7L_1_1"
-				(rectangle
-					(start 5.08 1.27)
-					(end 12.7 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 17.78 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -4114,17 +3959,6 @@
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
-		(at 198.374 129.794 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "751d2af0-2f97-4b9f-a8dc-afd29d615d3f")
-	)
-	(text "0.1W"
-		(exclude_from_sim no)
 		(at 92.964 147.32 0)
 		(effects
 			(font
@@ -4158,18 +3992,7 @@
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
-		(at 28.194 231.394 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "9aeb79df-7e4d-48e5-ba7e-d0559605425f")
-	)
-	(text "0.1W"
-		(exclude_from_sim no)
-		(at 56.642 231.14 0)
+		(at 52.832 229.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4191,7 +4014,7 @@
 	)
 	(text "50V"
 		(exclude_from_sim no)
-		(at 212.09 128.778 0)
+		(at 212.09 125.984 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4244,6 +4067,17 @@
 		)
 		(uuid "d718ad6e-a23d-46e6-bc37-e35622a36d29")
 	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 26.924 230.124 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "d7732b50-035e-4aa3-b781-ffd4815bdbeb")
+	)
 	(text "THERMISTOR CONNECTOR"
 		(exclude_from_sim no)
 		(at 155.194 212.852 0)
@@ -4253,17 +4087,6 @@
 			)
 		)
 		(uuid "d838f1ee-c64b-468f-a1bf-8526e0445bec")
-	)
-	(text "0.1W"
-		(exclude_from_sim no)
-		(at 42.926 231.394 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "da52d31a-ce0c-4e9a-8bdc-941ec44215b4")
 	)
 	(text "50V"
 		(exclude_from_sim no)
@@ -4366,12 +4189,6 @@
 		(uuid "bb128da9-1d74-4bb5-864b-2dca518081be")
 	)
 	(junction
-		(at 203.2 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0a4e531-245b-4057-a523-343ade1d0410")
-	)
-	(junction
 		(at 113.03 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4456,10 +4273,6 @@
 		(uuid "c95c73c7-2175-4237-9ba3-28d0962d1a6c")
 	)
 	(no_connect
-		(at 179.07 149.86)
-		(uuid "ceee5ad4-1f3f-483c-8711-852778c0e283")
-	)
-	(no_connect
 		(at 179.07 100.33)
 		(uuid "d7c55dea-ad93-4a46-bf8f-b2e7a717a253")
 	)
@@ -4509,7 +4322,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 132.08) (xy 217.17 133.35)
+			(xy 205.74 132.08) (xy 205.74 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4589,16 +4402,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 240.03) (xy 33.02 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b5870c4-3ed3-49c3-b631-d9e9136a970f")
-	)
-	(wire
-		(pts
 			(xy 113.03 82.55) (xy 113.03 83.82)
 		)
 		(stroke
@@ -4626,26 +4429,6 @@
 			(type default)
 		)
 		(uuid "20520a80-0a4c-47fe-9544-6a6cd13205db")
-	)
-	(wire
-		(pts
-			(xy 203.2 119.38) (xy 203.2 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23cc8d8d-ceb5-4fec-b357-19568685dbfc")
-	)
-	(wire
-		(pts
-			(xy 33.02 219.71) (xy 33.02 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e6f32ef-fc9a-4a59-937a-59f681c16b97")
 	)
 	(wire
 		(pts
@@ -4779,7 +4562,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 219.71) (xy 46.99 222.25)
+			(xy 31.75 218.44) (xy 31.75 220.98)
 		)
 		(stroke
 			(width 0)
@@ -4829,7 +4612,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 119.38) (xy 203.2 119.38)
+			(xy 179.07 119.38) (xy 205.74 119.38)
 		)
 		(stroke
 			(width 0)
@@ -5119,7 +4902,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 240.03) (xy 46.99 242.57)
+			(xy 31.75 238.76) (xy 31.75 241.3)
 		)
 		(stroke
 			(width 0)
@@ -5169,7 +4952,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 219.71) (xy 60.96 222.25)
+			(xy 57.15 218.44) (xy 57.15 220.98)
 		)
 		(stroke
 			(width 0)
@@ -5196,16 +4979,6 @@
 			(type default)
 		)
 		(uuid "b43eb4ab-fffa-4ed4-9d87-c2bcfc2fb3c2")
-	)
-	(wire
-		(pts
-			(xy 203.2 139.7) (xy 203.2 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba63451e-82fa-4540-adda-cfc17b6d53b7")
 	)
 	(wire
 		(pts
@@ -5269,7 +5042,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 240.03) (xy 60.96 242.57)
+			(xy 57.15 238.76) (xy 57.15 241.3)
 		)
 		(stroke
 			(width 0)
@@ -5286,16 +5059,6 @@
 			(type default)
 		)
 		(uuid "d4f0495e-01ec-4753-a017-3b28422b313b")
-	)
-	(wire
-		(pts
-			(xy 179.07 119.38) (xy 203.2 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d90e246d-d5d2-4213-b53d-69a373c4a685")
 	)
 	(wire
 		(pts
@@ -5589,28 +5352,6 @@
 			)
 		)
 	)
-	(global_label "BQ2_SCL"
-		(shape input)
-		(at 33.02 242.57 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "33273d50-3186-41c3-884a-79ac692938ff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.02 253.8404 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BAT3{slash}PACK+"
 		(shape input)
 		(at 208.28 92.71 0)
@@ -5646,28 +5387,6 @@
 		(uuid "40ed64be-2205-486c-99fa-152032e39a36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 65.9576 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BQ2_ALERT"
-		(shape input)
-		(at 203.2 139.7 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "50905661-d466-40b2-a841-95a5043fc8cb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.2 152.9661 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5723,7 +5442,7 @@
 	)
 	(global_label "BQ2_ALERT"
 		(shape input)
-		(at 60.96 242.57 270)
+		(at 57.15 241.3 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5733,7 +5452,7 @@
 		)
 		(uuid "6b367ae3-20dc-472f-8543-19b86c0a6348")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.96 255.8361 90)
+			(at 57.15 254.5661 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,9 +5506,9 @@
 			)
 		)
 	)
-	(global_label "BQ2_SDA"
+	(global_label "BQ2_CS"
 		(shape input)
-		(at 46.99 242.57 270)
+		(at 31.75 241.3 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5799,7 +5518,7 @@
 		)
 		(uuid "94ec8e0a-c7f7-419b-82bc-34937e103b28")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.99 253.9009 90)
+			(at 31.75 251.5423 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5897,7 +5616,29 @@
 			)
 		)
 	)
-	(global_label "BQ2_HDQ"
+	(global_label "BQ2_CS"
+		(shape input)
+		(at 179.07 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a93dfc34-66d0-4bc0-9dea-fe61515f467d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.3123 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ2_MOSI"
 		(shape input)
 		(at 179.07 158.75 0)
 		(fields_autoplaced yes)
@@ -5909,7 +5650,7 @@
 		)
 		(uuid "ab28326b-5f23-402c-b19b-a1d8488f3fb5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.7638 158.75 0)
+			(at 191.429 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5919,7 +5660,7 @@
 			)
 		)
 	)
-	(global_label "BQ2_SDA"
+	(global_label "BQ2_MISO"
 		(shape input)
 		(at 179.07 161.29 0)
 		(fields_autoplaced yes)
@@ -5931,7 +5672,7 @@
 		)
 		(uuid "ac49263a-ee40-4e2e-a76c-f6bf2d9222da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.4009 161.29 0)
+			(at 191.429 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6073,7 +5814,7 @@
 			)
 		)
 	)
-	(global_label "BQ2_SCL"
+	(global_label "BQ2_SCLK"
 		(shape input)
 		(at 179.07 163.83 0)
 		(fields_autoplaced yes)
@@ -6085,7 +5826,7 @@
 		)
 		(uuid "fcedeaec-489b-4960-b448-58654e81d9cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.3404 163.83 0)
+			(at 191.6104 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6366,128 +6107,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
 					(reference "#PWR087")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0603FR-074K7L:RC0603FR-074K7L")
-		(at 46.99 240.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11c9e658-4541-4d30-bc9c-eaa5e710303d")
-		(property "Reference" "R32"
-			(at 49.53 229.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 49.53 232.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "RC0603FR-074K7L:RESC1608X55N"
-			(at 143.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 243.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "YAGEO (PHYCOMP) - RC0603FR-074K7L. - RES, THICK FILM, 4K7, 1%, 0.1W, 0603"
-			(at 46.99 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.55"
-			(at 443.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "603-RC0603FR-074K7L"
-			(at 543.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D"
-			(at 643.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yageo Group"
-			(at 743.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "RC0603FR-074K7L"
-			(at 843.18 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9edaf1ba-9fa0-4efd-985e-0fe86d18a0b5")
-		)
-		(pin "1"
-			(uuid "c187775c-af23-49e5-9d15-2f4fab1662c6")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
-					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -6867,6 +6486,128 @@
 		)
 	)
 	(symbol
+		(lib_id "RC0603FR-0710KL:RC0603FR-0710KL")
+		(at 31.75 220.98 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "392198ee-22fc-418c-844b-a8afc75e7062")
+		(property "Reference" "R28"
+			(at 34.29 228.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 34.29 231.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RC0603FR-0710KL:RESC1608X55N"
+			(at -64.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
+			(at -164.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10k"
+			(at 31.75 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -364.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at -464.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D"
+			(at -564.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yageo Group"
+			(at -664.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
+			(at -764.44 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b09b9e7f-db25-4962-8fe3-3f60311bce36")
+		)
+		(pin "1"
+			(uuid "ce9a8e81-a32f-49dc-bcbb-9c45192be641")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 80.01 158.75 0)
 		(unit 1)
@@ -7066,7 +6807,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 60.96 219.71 0)
+		(at 57.15 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7075,7 +6816,7 @@
 		(fields_autoplaced yes)
 		(uuid "3cd15f72-e405-4e58-b514-417db7b2ac96")
 		(property "Reference" "#PWR058"
-			(at 60.96 223.52 0)
+			(at 57.15 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7084,7 +6825,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 60.96 214.63 0)
+			(at 57.15 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7092,7 +6833,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 219.71 0)
+			(at 57.15 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7101,7 +6842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 219.71 0)
+			(at 57.15 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7110,7 +6851,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 60.96 219.71 0)
+			(at 57.15 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,72 +8121,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 33.02 219.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7af9d203-f8dd-42ba-9b41-11ee8f045322")
-		(property "Reference" "#PWR051"
-			(at 33.02 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 33.02 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 33.02 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 33.02 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "44baea38-0fd0-4fc8-94a8-0b06e8e6f98e")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
-					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "RC0603FR-07100RL:RC0603FR-07100RL")
 		(at 90.17 68.58 0)
 		(unit 1)
@@ -8566,7 +8241,7 @@
 	)
 	(symbol
 		(lib_id "RC0603FR-0710KL:RC0603FR-0710KL")
-		(at 60.96 240.03 90)
+		(at 57.15 238.76 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8575,7 +8250,7 @@
 		(fields_autoplaced yes)
 		(uuid "829bcf74-603e-4a68-a72c-f8d810259de9")
 		(property "Reference" "R33"
-			(at 63.5 229.8699 90)
+			(at 59.69 228.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8584,7 +8259,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 63.5 232.4099 90)
+			(at 59.69 231.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8593,7 +8268,7 @@
 			)
 		)
 		(property "Footprint" "RC0603FR-0710KL:RESC1608X55N"
-			(at 157.15 226.06 0)
+			(at 153.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,7 +8278,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 257.15 226.06 0)
+			(at 253.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,7 +8288,7 @@
 			)
 		)
 		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10k"
-			(at 60.96 240.03 0)
+			(at 57.15 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8622,7 +8297,7 @@
 			)
 		)
 		(property "Height" "0.55"
-			(at 457.15 226.06 0)
+			(at 453.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8632,7 +8307,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RC0603FR-0710KL"
-			(at 557.15 226.06 0)
+			(at 553.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8642,7 +8317,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D"
-			(at 657.15 226.06 0)
+			(at 653.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8652,7 +8327,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at 757.15 226.06 0)
+			(at 753.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8662,7 +8337,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
-			(at 857.15 226.06 0)
+			(at 853.34 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10061,128 +9736,6 @@
 		)
 	)
 	(symbol
-		(lib_id "RC0603FR-074K7L:RC0603FR-074K7L")
-		(at 33.02 240.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d509bd32-ee22-4dfa-8a65-6fffd51bd29a")
-		(property "Reference" "R28"
-			(at 35.56 229.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 35.56 232.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "RC0603FR-074K7L:RESC1608X55N"
-			(at 129.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 229.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "YAGEO (PHYCOMP) - RC0603FR-074K7L. - RES, THICK FILM, 4K7, 1%, 0.1W, 0603"
-			(at 33.02 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.55"
-			(at 429.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "603-RC0603FR-074K7L"
-			(at 529.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D"
-			(at 629.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yageo Group"
-			(at 729.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "RC0603FR-074K7L"
-			(at 829.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c021ecdc-fd98-4be9-88ba-ffed1a53676a")
-		)
-		(pin "1"
-			(uuid "7cf496e0-067d-4bb9-b6cf-1fd26bc42abf")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
-					(reference "R28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "1N4148WQ-7-F:1N4148WQ-7-F")
 		(at 86.36 68.58 180)
 		(unit 1)
@@ -10303,7 +9856,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 133.35 0)
+		(at 205.74 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10312,7 +9865,7 @@
 		(fields_autoplaced yes)
 		(uuid "da89f771-c40d-4021-a40b-fb5ae6aa5462")
 		(property "Reference" "#PWR080"
-			(at 217.17 139.7 0)
+			(at 205.74 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10321,7 +9874,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 138.43 0)
+			(at 205.74 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10329,7 +9882,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 133.35 0)
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10338,7 +9891,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 133.35 0)
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10347,7 +9900,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 133.35 0)
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10369,7 +9922,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 46.99 219.71 0)
+		(at 31.75 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10378,7 +9931,7 @@
 		(fields_autoplaced yes)
 		(uuid "e385129b-105b-4649-86a1-27bff5435dd1")
 		(property "Reference" "#PWR052"
-			(at 46.99 223.52 0)
+			(at 31.75 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10387,7 +9940,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 46.99 214.63 0)
+			(at 31.75 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10395,7 +9948,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 219.71 0)
+			(at 31.75 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10404,7 +9957,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 219.71 0)
+			(at 31.75 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10413,7 +9966,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 46.99 219.71 0)
+			(at 31.75 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10435,7 +9988,7 @@
 	)
 	(symbol
 		(lib_id "C2012X7R1H105K125AB:C2012X7R1H105K125AB")
-		(at 217.17 119.38 270)
+		(at 205.74 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10443,7 +9996,7 @@
 		(dnp no)
 		(uuid "ed36e6f1-26af-4b21-a990-d10b84d5a317")
 		(property "Reference" "C40"
-			(at 209.804 124.206 90)
+			(at 198.374 124.206 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10452,7 +10005,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 210.058 126.238 90)
+			(at 198.628 126.238 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,7 +10014,7 @@
 			)
 		)
 		(property "Footprint" "C2012X7R1H105K125AB:CAPC2012X145N"
-			(at 120.98 128.27 0)
+			(at 109.55 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10471,7 +10024,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-			(at 20.98 128.27 0)
+			(at 9.55 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10481,7 +10034,7 @@
 			)
 		)
 		(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-			(at 217.17 119.38 0)
+			(at 205.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10490,7 +10043,7 @@
 			)
 		)
 		(property "Height" "1.45"
-			(at -179.02 128.27 0)
+			(at -190.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10500,7 +10053,7 @@
 			)
 		)
 		(property "Mouser Part Number" "810-C2012X7R1H105K"
-			(at -279.02 128.27 0)
+			(at -290.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10510,7 +10063,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-			(at -379.02 128.27 0)
+			(at -390.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10520,7 +10073,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "TDK"
-			(at -479.02 128.27 0)
+			(at -490.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10530,7 +10083,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-			(at -579.02 128.27 0)
+			(at -590.45 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10671,128 +10224,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
 					(reference "C43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0603FR-0710KL:RC0603FR-0710KL")
-		(at 203.2 120.65 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2104a92-fad1-41e7-9ccd-96958f45d2ca")
-		(property "Reference" "R48"
-			(at 205.74 128.2699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 205.74 130.8099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "RC0603FR-0710KL:RESC1608X55N"
-			(at 107.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 7.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10k"
-			(at 203.2 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.55"
-			(at -192.99 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "603-RC0603FR-0710KL"
-			(at -292.99 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D"
-			(at -392.99 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yageo Group"
-			(at -492.99 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
-			(at -592.99 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9d98676a-9505-4fc7-b313-f05d45ef2f49")
-		)
-		(pin "1"
-			(uuid "2bd09ade-5d54-4bd9-9d39-fb3530a79a18")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
-					(reference "R48")
 					(unit 1)
 				)
 			)
