@@ -4482,17 +4482,6 @@
 			(uuid "710356cf-d697-4a7c-b81a-989be8a43090")
 		)
 		(embedded_fonts no)
-		(model "EEE-FT1V101AP.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 -180)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_EEE-FT1V101AP/EEE-FT1V101AP/3D/EEE-FT1V101AP.stp"
 			(offset
 				(xyz 0 0 0)
@@ -7322,17 +7311,6 @@
 			(uuid "6a3bec2f-8210-4d81-9298-7fc696912e98")
 		)
 		(embedded_fonts no)
-		(model "BQ7694204PFBR.stp"
-			(offset
-				(xyz 0 0 0.5199999731)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_BQ7694204PFBR/BQ7694204PFBR/3D/BQ7694204PFBR.stp"
 			(offset
 				(xyz 0 0 0)
@@ -9386,17 +9364,6 @@
 			(uuid "14a3b2c6-0124-4be3-8161-79ac42f8ea0c")
 		)
 		(embedded_fonts no)
-		(model "STM32G0B1CBT6N.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_STM32G0B1CBT6N/STM32G0B1CBT6N/3D/STM32G0B1CBT6N.stp"
 			(offset
 				(xyz 0 0 0)
@@ -10175,17 +10142,6 @@
 			(uuid "d04e6e8f-c08a-47db-9993-b2e5862dcbec")
 		)
 		(embedded_fonts no)
-		(model "SRP1038A-100M.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SRP1038A-100M/SRP1038A-100M/3D/SRP1038A-100M.stp"
 			(offset
 				(xyz 0 0 0)
@@ -10524,17 +10480,6 @@
 			(uuid "5c9abae2-68c8-42b3-9ffd-59ef66ad5874")
 		)
 		(embedded_fonts no)
-		(model "XT30PW-F.stp"
-			(offset
-				(xyz 2.499999962 7.929999709 0.2099999903)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 -180)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-F/XT30PW-F/3D/XT30PW-F.stp"
 			(offset
 				(xyz 2.5 8 0.5)
@@ -11522,17 +11467,6 @@
 			(uuid "8e3c6e0a-1751-46a8-9db9-38e9ddac5ed7")
 		)
 		(embedded_fonts no)
-		(model "XT30PW-M.stp"
-			(offset
-				(xyz 0 -1.759999964 2.559999904)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 -180)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-M/XT30PW-M/3D/XT30PW-M.stp"
 			(offset
 				(xyz 0 -2 0.5)
@@ -20146,17 +20080,6 @@
 			(uuid "e6733c65-a790-4527-b29b-55a5e8648045")
 		)
 		(embedded_fonts no)
-		(model "BQ25750RRVR.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_BQ25750RRVR/BQ25750RRVR/3D/BQ25750RRVR.stp"
 			(offset
 				(xyz 0 0 0)
@@ -23717,17 +23640,6 @@
 			(uuid "cb19b778-1d00-422f-a6f5-975d871407d7")
 		)
 		(embedded_fonts no)
-		(model "S3B-XH-SM4-TB_LF__SN_.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 -180)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_S3B-XH-SM4-TB_LF__SN_/S3B-XH-SM4-TB_LF__SN_/3D/S3B-XH-SM4-TB_LF__SN_.stp"
 			(offset
 				(xyz 0 -1 0)
@@ -29419,17 +29331,6 @@
 			(uuid "45500f3e-8cdb-465f-8fae-0ce6259f3453")
 		)
 		(embedded_fonts no)
-		(model "XT30PW-M.stp"
-			(offset
-				(xyz 0 -1.759999964 2.559999904)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 -180)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-M/XT30PW-M/3D/XT30PW-M.stp"
 			(offset
 				(xyz 0 -2 0)
@@ -31643,17 +31544,6 @@
 			(uuid "380a61f2-f832-40a7-839c-8abae2a62b53")
 		)
 		(embedded_fonts no)
-		(model "EEV-FK2A101V.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 -90)
-			)
-		)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_EEV-FK2A101V/EEV-FK2A101V/3D/EEV-FK2A101V.stp"
 			(offset
 				(xyz 0 0 0)
