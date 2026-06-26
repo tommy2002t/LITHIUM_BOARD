@@ -8452,16 +8452,6 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 254) (xy 317.5 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a252b62-8f97-410a-82be-7c5feeb71237")
-	)
-	(wire
-		(pts
 			(xy 83.82 86.36) (xy 83.82 83.82)
 		)
 		(stroke
@@ -9159,6 +9149,16 @@
 			(type default)
 		)
 		(uuid "3d488e54-4155-4d88-a5ec-d9994db0bbbe")
+	)
+	(wire
+		(pts
+			(xy 317.5 275.59) (xy 317.5 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e6f0612-c0fc-4a16-a2e4-44949f42a114")
 	)
 	(wire
 		(pts
@@ -10562,16 +10562,6 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 274.32) (xy 317.5 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a52edd22-e608-4318-a631-7682ee9eb58d")
-	)
-	(wire
-		(pts
 			(xy 290.83 274.32) (xy 290.83 276.86)
 		)
 		(stroke
@@ -11219,6 +11209,16 @@
 			(type default)
 		)
 		(uuid "e6ee5df5-ebe9-4e54-adb0-e0797c9d8efa")
+	)
+	(wire
+		(pts
+			(xy 317.5 256.54) (xy 317.5 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8e0455b-527e-41a8-b6e7-de367d6e4a9b")
 	)
 	(wire
 		(pts
@@ -12120,22 +12120,22 @@
 	)
 	(global_label "BQ_CE"
 		(shape input)
-		(at 317.5 276.86 270)
+		(at 317.5 256.54 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "594ad642-524e-4988-8d50-d302126102d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 317.5 285.8323 90)
+			(at 317.5 247.5677 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -14478,7 +14478,7 @@
 	)
 	(symbol
 		(lib_id "RC0603FR-07100KL:RC0603FR-07100KL")
-		(at 317.5 274.32 90)
+		(at 317.5 275.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14487,7 +14487,7 @@
 		(fields_autoplaced yes)
 		(uuid "32595ede-3575-4b01-ba5b-6bf7a2a26f49")
 		(property "Reference" "R19"
-			(at 320.04 264.1599 90)
+			(at 320.04 265.4299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14496,7 +14496,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 320.04 266.6999 90)
+			(at 320.04 267.9699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14505,7 +14505,7 @@
 			)
 		)
 		(property "Footprint" "RC0603FR-07100KL:RESC1608X55N"
-			(at 413.69 260.35 0)
+			(at 413.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14515,7 +14515,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 513.69 260.35 0)
+			(at 513.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14525,7 +14525,7 @@
 			)
 		)
 		(property "Description" "100 kOhms +/-1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
-			(at 317.5 274.32 0)
+			(at 317.5 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14534,7 +14534,7 @@
 			)
 		)
 		(property "Height" "0.55"
-			(at 713.69 260.35 0)
+			(at 713.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14544,7 +14544,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RC0603FR-07100KL"
-			(at 813.69 260.35 0)
+			(at 813.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14554,7 +14554,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100KL?qs=e1ok2LiJcmaihem8Va5%2Fsw%3D%3D"
-			(at 913.69 260.35 0)
+			(at 913.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14564,7 +14564,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at 1013.69 260.35 0)
+			(at 1013.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14574,7 +14574,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0603FR-07100KL"
-			(at 1113.69 260.35 0)
+			(at 1113.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19847,6 +19847,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 317.5 279.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "832cde82-39c2-4846-89c3-8260f310eec5")
+		(property "Reference" "#PWR019"
+			(at 317.5 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 317.5 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 317.5 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f88654f-5171-453d-870f-111e9f2d81be")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RC0603FR-0710KL:RC0603FR-0710KL")
 		(at 265.43 274.32 90)
 		(unit 1)
@@ -20735,72 +20801,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 317.5 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "945750d2-a064-4ad8-a0e1-a9e2fa6630bf")
-		(property "Reference" "#PWR019"
-			(at 317.5 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 317.5 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 317.5 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 317.5 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 317.5 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "37ca7d13-f0a2-4cb7-84f0-99bfc0e57400")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
