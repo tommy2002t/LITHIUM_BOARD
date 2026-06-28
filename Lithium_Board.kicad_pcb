@@ -7873,7 +7873,7 @@
 		(descr "SOD-123H")
 		(tags "Diode")
 		(property "Reference" "D2"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "d80f65de-13bb-4086-a09c-651b644f35cd")
 			(effects
@@ -8100,7 +8100,7 @@
 			(uuid "298c223a-1074-46b1-b069-272dfa7be096")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "65c856cb-9170-4946-8b2c-8745d6e24cb5")
 			(effects
@@ -9949,7 +9949,7 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-M/XT30PW-M/3D/XT30PW-M.stp"
 			(offset
-				(xyz 0 -2 0.5)
+				(xyz 0 -2 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15792,7 +15792,7 @@
 		(descr "RC0603")
 		(tags "Resistor")
 		(property "Reference" "R32"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(layer "B.SilkS")
 			(uuid "b8a8b6b4-9c7c-469e-8560-67bf8fabe885")
 			(effects
@@ -15999,7 +15999,7 @@
 			(uuid "5dc1db99-7f31-4f84-84a7-4ccca1402d3b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(layer "B.Fab")
 			(uuid "54d8ee64-dd46-4c53-94b1-5a94f0d817e9")
 			(effects
@@ -26287,7 +26287,7 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-M/XT30PW-M/3D/XT30PW-M.stp"
 			(offset
-				(xyz 0 -2 0)
+				(xyz 0 -2 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -31506,7 +31506,7 @@
 		(descr "SOD-123H")
 		(tags "Diode")
 		(property "Reference" "D5"
-			(at 0 0 -180)
+			(at 0 0 180)
 			(layer "B.SilkS")
 			(uuid "bd948b3c-30df-4d93-a569-2d2c75394f28")
 			(effects
@@ -31733,7 +31733,7 @@
 			(uuid "dab349b3-87cc-485f-babc-a770b73e5509")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -180)
+			(at 0 0 180)
 			(layer "B.Fab")
 			(uuid "de81d534-7221-4dcb-b1dd-99190e524279")
 			(effects
