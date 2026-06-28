@@ -3948,17 +3948,6 @@
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
-		(at 92.964 119.634 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 4 0 1)
-			)
-		)
-		(uuid "7503f306-7b58-47d6-af6c-1857193dc75c")
-	)
-	(text "0.1W"
-		(exclude_from_sim no)
 		(at 92.964 147.32 0)
 		(effects
 			(font
@@ -3981,7 +3970,7 @@
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
-		(at 92.964 108.966 0)
+		(at 92.71 113.792 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4141,6 +4130,12 @@
 		(uuid "6155af17-3b35-4f83-9e93-cd5d287125bc")
 	)
 	(junction
+		(at 114.3 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "790e3ea1-29e1-48de-8945-e88202217ea4")
+	)
+	(junction
 		(at 226.06 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4159,16 +4154,16 @@
 		(uuid "8c3a82de-2d51-4d98-8025-dace8e7be0c4")
 	)
 	(junction
+		(at 114.3 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90304cc8-1305-42fb-86c2-6be7b3c1da71")
+	)
+	(junction
 		(at 123.19 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91b21de1-178f-4ef2-a29d-a50a1838ba9d")
-	)
-	(junction
-		(at 114.3 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6eb2c6b-1e97-41b8-bf26-bdb2c4e7da3e")
 	)
 	(junction
 		(at 129.54 99.06)
@@ -4302,16 +4297,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 114.3) (xy 114.3 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06a6f6c5-386a-4023-9184-a3ed0e616bb7")
-	)
-	(wire
-		(pts
 			(xy 129.54 101.6) (xy 135.89 101.6)
 		)
 		(stroke
@@ -4319,6 +4304,16 @@
 			(type default)
 		)
 		(uuid "084ba925-71e6-4bcd-bce8-fd8177f552ab")
+	)
+	(wire
+		(pts
+			(xy 80.01 109.22) (xy 83.82 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08ad652d-e8ae-4ebd-ba36-c12ba0007f79")
 	)
 	(wire
 		(pts
@@ -4512,7 +4507,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 104.14) (xy 114.3 104.14)
+			(xy 101.6 109.22) (xy 114.3 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4529,16 +4524,6 @@
 			(type default)
 		)
 		(uuid "40ebdf50-d3a7-4929-bfea-59543248df46")
-	)
-	(wire
-		(pts
-			(xy 81.28 114.3) (xy 83.82 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45e5e5b6-053e-4415-91f9-d6418bb5867a")
 	)
 	(wire
 		(pts
@@ -4562,6 +4547,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 109.22) (xy 114.3 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49c3eb70-a1ac-43ef-839c-ec5e72f9a5d0")
+	)
+	(wire
+		(pts
 			(xy 31.75 218.44) (xy 31.75 220.98)
 		)
 		(stroke
@@ -4579,6 +4574,16 @@
 			(type default)
 		)
 		(uuid "4cbeaaa7-f14f-4305-aecd-56f020eb0ea3")
+	)
+	(wire
+		(pts
+			(xy 114.3 109.22) (xy 114.3 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc5c455-c8bd-405f-80d1-99daf1efd637")
 	)
 	(wire
 		(pts
@@ -4639,16 +4644,6 @@
 			(type default)
 		)
 		(uuid "55e95aa5-3252-4489-b689-42300a955891")
-	)
-	(wire
-		(pts
-			(xy 81.28 104.14) (xy 83.82 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58869175-20e6-47e4-b7ff-0046c4d36e8e")
 	)
 	(wire
 		(pts
@@ -5484,28 +5479,6 @@
 			)
 		)
 	)
-	(global_label "BAT2"
-		(shape input)
-		(at 81.28 114.3 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8d63eb62-ddd9-4552-a8f4-2e243b62f881")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.7591 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BQ2_CS"
 		(shape input)
 		(at 31.75 241.3 270)
@@ -5750,7 +5723,7 @@
 	)
 	(global_label "BAT2"
 		(shape input)
-		(at 81.28 104.14 180)
+		(at 80.01 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5760,7 +5733,7 @@
 		)
 		(uuid "d543d4a3-c422-4867-a1b4-5908c2ee016c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.7591 104.14 0)
+			(at 72.4891 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6114,7 +6087,7 @@
 	)
 	(symbol
 		(lib_id "RC0603FR-07100RL:RC0603FR-07100RL")
-		(at 83.82 104.14 0)
+		(at 83.82 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6122,7 +6095,7 @@
 		(dnp no)
 		(uuid "19b93950-0853-49ca-9377-c937f75f5e18")
 		(property "Reference" "R44"
-			(at 93.218 106.68 0)
+			(at 93.218 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,7 +6103,7 @@
 			)
 		)
 		(property "Value" "100Ω"
-			(at 92.964 101.346 0)
+			(at 92.964 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6138,7 +6111,7 @@
 			)
 		)
 		(property "Footprint" "RC0603FR-07100RL:RESC1608X55N"
-			(at 97.79 200.33 0)
+			(at 97.79 205.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,7 +6121,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 97.79 300.33 0)
+			(at 97.79 305.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6158,7 +6131,7 @@
 			)
 		)
 		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100"
-			(at 83.82 104.14 0)
+			(at 83.82 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6167,7 +6140,7 @@
 			)
 		)
 		(property "Height" "0.55"
-			(at 97.79 500.33 0)
+			(at 97.79 505.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6177,7 +6150,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RC0603FR-07100RL"
-			(at 97.79 600.33 0)
+			(at 97.79 605.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6187,7 +6160,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D"
-			(at 97.79 700.33 0)
+			(at 97.79 705.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6197,7 +6170,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at 97.79 800.33 0)
+			(at 97.79 805.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6207,7 +6180,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0603FR-07100RL"
-			(at 97.79 900.33 0)
+			(at 97.79 905.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9304,125 +9277,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
 					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RC0603FR-07100RL:RC0603FR-07100RL")
-		(at 83.82 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c1e2983b-7579-488f-a9eb-aca262e6ded1")
-		(property "Reference" "R45"
-			(at 92.456 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100Ω"
-			(at 92.71 117.348 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "RC0603FR-07100RL:RESC1608X55N"
-			(at 97.79 210.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 97.79 310.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100"
-			(at 83.82 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.55"
-			(at 97.79 510.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "603-RC0603FR-07100RL"
-			(at 97.79 610.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D"
-			(at 97.79 710.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yageo Group"
-			(at 97.79 810.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "RC0603FR-07100RL"
-			(at 97.79 910.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b1047996-deaf-41aa-a7ab-12a6ff5357a2")
-		)
-		(pin "1"
-			(uuid "9476083e-00c8-42d3-9ff9-b810eee886f0")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
-					(reference "R45")
 					(unit 1)
 				)
 			)

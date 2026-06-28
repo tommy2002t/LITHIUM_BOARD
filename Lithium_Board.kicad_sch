@@ -7053,7 +7053,7 @@
 	)
 	(rectangle
 		(start 26.035 302.26)
-		(end 59.69 347.345)
+		(end 84.455 347.345)
 		(stroke
 			(width 0)
 			(type default)
@@ -7112,8 +7112,8 @@
 		(uuid 3b5d40ca-16d0-4c5b-97c7-e7899439eb99)
 	)
 	(rectangle
-		(start 292.735 306.705)
-		(end 377.825 347.345)
+		(start 333.375 309.245)
+		(end 418.465 349.885)
 		(stroke
 			(width 0)
 			(type default)
@@ -7253,6 +7253,17 @@
 			)
 		)
 		(uuid "16ba8bc5-7bf1-4af2-bc13-033d65a44024")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 72.136 327.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "17c447e3-6e14-4acf-98ba-d7fe85643e11")
 	)
 	(text "50V"
 		(exclude_from_sim no)
@@ -7430,7 +7441,7 @@
 	)
 	(text "DIODES"
 		(exclude_from_sim no)
-		(at 296.672 304.292 0)
+		(at 337.312 306.832 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7459,6 +7470,17 @@
 			)
 		)
 		(uuid "6f7b5ddf-48af-4eb1-87b4-38d170a97c08")
+	)
+	(text "0.1W"
+		(exclude_from_sim no)
+		(at 322.58 270.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 4 0 1)
+			)
+		)
+		(uuid "701048f0-e6f6-41e3-b4c4-fa7af6dc1626")
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
@@ -8599,6 +8621,16 @@
 			(type default)
 		)
 		(uuid "1817a989-9664-4e9d-b416-860da5d65fd6")
+	)
+	(wire
+		(pts
+			(xy 67.31 332.74) (xy 67.31 334.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "199907a5-671b-44a8-8f57-1b3462e8786b")
 	)
 	(wire
 		(pts
@@ -10272,7 +10304,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 337.82) (xy 309.88 335.28)
+			(xy 350.52 340.36) (xy 350.52 337.82)
 		)
 		(stroke
 			(width 0)
@@ -11082,7 +11114,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 337.82) (xy 336.55 335.28)
+			(xy 377.19 340.36) (xy 377.19 337.82)
 		)
 		(stroke
 			(width 0)
@@ -11731,7 +11763,7 @@
 		(uuid "89fbff52-782a-4382-87e9-f861502fe238")
 	)
 	(label "BTST1"
-		(at 309.88 337.82 270)
+		(at 350.52 340.36 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11741,7 +11773,7 @@
 		(uuid "9bbbe9e5-c048-415e-8014-dd575e26de51")
 	)
 	(label "BTST2"
-		(at 336.55 337.82 270)
+		(at 377.19 340.36 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12340,7 +12372,7 @@
 	)
 	(global_label "BQ_REGN"
 		(shape input)
-		(at 336.55 320.04 90)
+		(at 377.19 322.58 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12350,7 +12382,7 @@
 		)
 		(uuid "7d391771-d126-45d6-a557-da2e8574dad7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 336.55 308.4672 90)
+			(at 377.19 311.0072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12690,6 +12722,28 @@
 			)
 		)
 	)
+	(global_label "BQ_TS"
+		(shape input)
+		(at 67.31 314.96 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dcd7c1e4-af9f-4fb5-8996-44a990d9c398")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 306.2296 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BQ_REGN"
 		(shape input)
 		(at 256.54 142.24 90)
@@ -12736,7 +12790,7 @@
 	)
 	(global_label "BQ_REGN"
 		(shape input)
-		(at 309.88 320.04 90)
+		(at 350.52 322.58 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12746,7 +12800,7 @@
 		)
 		(uuid "e6c8bc3c-1aab-4355-ac58-05fcbbdfadf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 309.88 308.4672 90)
+			(at 350.52 311.0072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15483,7 +15537,7 @@
 	)
 	(symbol
 		(lib_id "CDBMT2100-HF:CDBMT2100-HF")
-		(at 336.55 335.28 90)
+		(at 377.19 337.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15492,7 +15546,7 @@
 		(fields_autoplaced yes)
 		(uuid "4370dc40-caaa-4b56-bd32-bf49565a2bec")
 		(property "Reference" "D5"
-			(at 340.36 326.3899 90)
+			(at 381 328.9299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15501,7 +15555,7 @@
 			)
 		)
 		(property "Value" "CDBMT2100-HF"
-			(at 340.36 328.9299 90)
+			(at 381 331.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15510,7 +15564,7 @@
 			)
 		)
 		(property "Footprint" "SODFL3516X100N"
-			(at 434.01 323.85 0)
+			(at 474.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15520,7 +15574,7 @@
 			)
 		)
 		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/CDBMT2100-HF.pdf"
-			(at 534.01 323.85 0)
+			(at 574.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15530,7 +15584,7 @@
 			)
 		)
 		(property "Description" "Schottky Diodes & Rectifiers Schottky 2A 100V"
-			(at 336.55 335.28 0)
+			(at 377.19 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15539,7 +15593,7 @@
 			)
 		)
 		(property "Height" "1"
-			(at 734.01 323.85 0)
+			(at 774.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15549,7 +15603,7 @@
 			)
 		)
 		(property "Mouser Part Number" "750-CDBMT2100-HF"
-			(at 834.01 323.85 0)
+			(at 874.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15559,7 +15613,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBMT2100-HF?qs=1bLIX8ysQDALloA%2Fk2OVqg%3D%3D"
-			(at 934.01 323.85 0)
+			(at 974.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15569,7 +15623,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Comchip Technology"
-			(at 1034.01 323.85 0)
+			(at 1074.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15579,7 +15633,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CDBMT2100-HF"
-			(at 1134.01 323.85 0)
+			(at 1174.65 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22291,7 +22345,7 @@
 	)
 	(symbol
 		(lib_id "CDBMT2100-HF:CDBMT2100-HF")
-		(at 309.88 335.28 90)
+		(at 350.52 337.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22300,7 +22354,7 @@
 		(fields_autoplaced yes)
 		(uuid "d04dbee5-b973-46fc-9989-8627a6306d09")
 		(property "Reference" "D2"
-			(at 313.69 326.3899 90)
+			(at 354.33 328.9299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22309,7 +22363,7 @@
 			)
 		)
 		(property "Value" "CDBMT2100-HF"
-			(at 313.69 328.9299 90)
+			(at 354.33 331.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22318,7 +22372,7 @@
 			)
 		)
 		(property "Footprint" "SODFL3516X100N"
-			(at 407.34 323.85 0)
+			(at 447.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22328,7 +22382,7 @@
 			)
 		)
 		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/CDBMT2100-HF.pdf"
-			(at 507.34 323.85 0)
+			(at 547.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22338,7 +22392,7 @@
 			)
 		)
 		(property "Description" "Schottky Diodes & Rectifiers Schottky 2A 100V"
-			(at 309.88 335.28 0)
+			(at 350.52 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22347,7 +22401,7 @@
 			)
 		)
 		(property "Height" "1"
-			(at 707.34 323.85 0)
+			(at 747.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22357,7 +22411,7 @@
 			)
 		)
 		(property "Mouser Part Number" "750-CDBMT2100-HF"
-			(at 807.34 323.85 0)
+			(at 847.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22367,7 +22421,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBMT2100-HF?qs=1bLIX8ysQDALloA%2Fk2OVqg%3D%3D"
-			(at 907.34 323.85 0)
+			(at 947.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22377,7 +22431,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Comchip Technology"
-			(at 1007.34 323.85 0)
+			(at 1047.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22387,7 +22441,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CDBMT2100-HF"
-			(at 1107.34 323.85 0)
+			(at 1147.98 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22472,6 +22526,72 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 67.31 334.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2b6c776-10aa-489b-ab5e-d8db82353780")
+		(property "Reference" "#PWR051"
+			(at 67.31 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 67.31 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 67.31 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a4bd123-2405-4e39-ae8f-4aab76351c3f")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -23592,6 +23712,128 @@
 		)
 	)
 	(symbol
+		(lib_id "RC0603FR-0710KL:RC0603FR-0710KL")
+		(at 67.31 314.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f03f3da6-d269-48bf-b2ed-617d1172ed7d")
+		(property "Reference" "R32"
+			(at 69.85 322.5799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 69.85 325.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RC0603FR-0710KL:RESC1608X55N"
+			(at -28.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
+			(at -128.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10k"
+			(at 67.31 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -328.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at -428.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D"
+			(at -528.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yageo Group"
+			(at -628.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
+			(at -728.88 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f5e60cae-16a5-4330-be18-1b32105e37e0")
+		)
+		(pin "1"
+			(uuid "16acb5e2-43c9-4062-a9b3-8e271d210864")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RC0603FR-072RL:RC0603FR-072RL")
 		(at 142.24 262.89 90)
 		(unit 1)
@@ -24242,7 +24484,7 @@
 		)
 	)
 	(sheet
-		(at 64.77 309.88)
+		(at 95.25 310.515)
 		(size 73.66 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24258,7 +24500,7 @@
 		)
 		(uuid "160492a7-828d-4540-9766-a6c613c08096")
 		(property "Sheetname" "MCU"
-			(at 64.77 309.1684 0)
+			(at 95.25 309.8034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24267,7 +24509,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 64.77 347.2946 0)
+			(at 95.25 347.9296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24284,7 +24526,7 @@
 		)
 	)
 	(sheet
-		(at 220.345 309.88)
+		(at 258.445 309.245)
 		(size 64.135 37.465)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24300,7 +24542,7 @@
 		)
 		(uuid "b9fdd8df-4b45-42b1-84e6-4aad11123e49")
 		(property "Sheetname" "CANBUS"
-			(at 220.345 309.1684 0)
+			(at 258.445 308.5334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24309,7 +24551,7 @@
 			)
 		)
 		(property "Sheetfile" "CANBUS.kicad_sch"
-			(at 220.345 347.9296 0)
+			(at 258.445 347.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24326,7 +24568,7 @@
 		)
 	)
 	(sheet
-		(at 143.51 309.88)
+		(at 176.53 309.88)
 		(size 71.755 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24342,7 +24584,7 @@
 		)
 		(uuid "c4a855d5-ac6f-48c0-9386-1c7b76fc99f3")
 		(property "Sheetname" "CELL BALANCING IC"
-			(at 143.51 309.1684 0)
+			(at 176.53 309.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24351,7 +24593,7 @@
 			)
 		)
 		(property "Sheetfile" "Cell_Balancing.kicad_sch"
-			(at 143.51 347.2946 0)
+			(at 176.53 347.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
