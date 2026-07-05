@@ -22,7 +22,7 @@
   (fp_line (start 0 -0.3) (end 0 0.3) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -0.8 0 0) (size 0.8 0.95) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.8 0 0) (size 0.8 0.95) (layers F.Cu F.Paste F.Mask))
-  (model RC0603FR-07150RL.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07150RL/RC0603FR-07150RL/3D/RC0603FR-07150RL.stp"
     (at (xyz 0 0 0.009055118274501))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

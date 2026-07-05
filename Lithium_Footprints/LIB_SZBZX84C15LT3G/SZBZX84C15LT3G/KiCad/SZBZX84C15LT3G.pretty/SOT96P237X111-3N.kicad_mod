@@ -28,7 +28,7 @@
   (pad 1 smd rect (at -1.05 -0.955 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.05 0.955 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.05 0 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
-  (model SZBZX84C15LT3G.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_SZBZX84C15LT3G/SZBZX84C15LT3G/3D/SZBZX84C15LT3G.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

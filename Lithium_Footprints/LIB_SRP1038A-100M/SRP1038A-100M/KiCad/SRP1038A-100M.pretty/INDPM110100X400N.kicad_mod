@@ -23,7 +23,7 @@
   (fp_line (start -5.5 5) (end 5.5 5) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -4.5 0 90) (size 3.2 3.55) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.5 0 90) (size 3.2 3.55) (layers F.Cu F.Paste F.Mask))
-  (model SRP1038A-100M.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_SRP1038A-100M/SRP1038A-100M/3D/SRP1038A-100M.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

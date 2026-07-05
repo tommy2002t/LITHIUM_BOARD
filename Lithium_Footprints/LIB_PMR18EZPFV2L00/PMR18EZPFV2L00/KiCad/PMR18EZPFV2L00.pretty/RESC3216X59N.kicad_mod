@@ -21,7 +21,7 @@
   (fp_line (start -1.6 0.8) (end -1.6 -0.8) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -1.1 0 90) (size 1.8 1.85) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.1 0 90) (size 1.8 1.85) (layers F.Cu F.Paste F.Mask))
-  (model PMR18EZPFV2L00.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_PMR18EZPFV2L00/PMR18EZPFV2L00/3D/PMR18EZPFV2L00.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

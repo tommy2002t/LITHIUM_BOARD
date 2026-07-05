@@ -22,7 +22,7 @@
   (fp_line (start 0 -1.5) (end 0 1.5) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -2.2 0 0) (size 3 3.45) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.2 0 0) (size 3 3.45) (layers F.Cu F.Paste F.Mask))
-  (model PMR100HZPFU5L00.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_PMR100HZPFU5L00/PMR100HZPFU5L00/3D/PMR100HZPFU5L00.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -22,7 +22,7 @@
   (fp_line (start 0 -0.7) (end 0 0.7) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -1.5 0 0) (size 0.82 1.82) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0 0) (size 0.82 1.82) (layers F.Cu F.Paste F.Mask))
-  (model CGA5L2X7R2A474K160AA.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_CGA5L2X7R2A474K160AA/CGA5L2X7R2A474K160AA/3D/CGA5L2X7R2A474K160AA.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

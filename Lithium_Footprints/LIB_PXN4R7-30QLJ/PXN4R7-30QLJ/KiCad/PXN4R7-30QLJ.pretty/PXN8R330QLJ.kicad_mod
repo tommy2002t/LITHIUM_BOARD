@@ -36,7 +36,7 @@
   (pad 7 smd rect (at -0.325 -1.613 0) (size 0.400 0.550) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.975 -1.613 0) (size 0.400 0.550) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0.000 -0.323 90) (size 2.030 2.650) (layers F.Cu F.Paste F.Mask))
-  (model PXN4R7-30QLJ.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_PXN4R7-30QLJ/PXN4R7-30QLJ/3D/PXN4R7-30QLJ.stp"
     (at (xyz -0.068503937383336 0.091732280460868 -0.065748029806483))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

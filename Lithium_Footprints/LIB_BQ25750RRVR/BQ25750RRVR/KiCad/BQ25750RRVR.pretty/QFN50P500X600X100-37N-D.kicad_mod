@@ -58,7 +58,7 @@
   (pad 35 smd rect (at -1.25 -2.95 0) (size 0.3 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 36 smd rect (at -1.75 -2.95 0) (size 0.3 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 37 smd rect (at 0 0 0) (size 3.7 4.7) (layers F.Cu F.Paste F.Mask))
-  (model BQ25750RRVR.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_BQ25750RRVR/BQ25750RRVR/3D/BQ25750RRVR.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

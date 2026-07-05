@@ -540,7 +540,7 @@
 			(uuid "3efe5785-f1ab-4778-aa52-f7eca2d98971")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710RL/RC0603FR-0710RL/3D/RC0603FR-0710RL.stp"
 			(offset
 				(xyz 0 0 0.5500000037)
 			)
@@ -796,7 +796,7 @@
 			(uuid "25fd1adc-05d0-4aec-b4e1-701fc737f123")
 		)
 		(embedded_fonts no)
-		(model "VT1206BRD071ML.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_VT1206BRD071ML/VT1206BRD071ML/3D/VT1206BRD071ML.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1041,7 +1041,7 @@
 			(uuid "8df17ccd-5cd5-4205-856c-bf62a84f0950")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -1287,7 +1287,7 @@
 			(uuid "857e4e99-577b-448a-8c5f-facdb65be3dc")
 		)
 		(embedded_fonts no)
-		(model "C0603C104K1RACAUTO.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C104K1RACAUTO/C0603C104K1RACAUTO/3D/C0603C104K1RACAUTO.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -1543,7 +1543,7 @@
 			(uuid "82f9bd9e-dcd1-423a-8b07-608c5b0efed9")
 		)
 		(embedded_fonts no)
-		(model "C2012X7R1H105K125AB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C2012X7R1H105K125AB/C2012X7R1H105K125AB/3D/C2012X7R1H105K125AB.stp"
 			(offset
 				(xyz -0.9599999641 0 0.6299999858)
 			)
@@ -1799,7 +1799,7 @@
 			(uuid "57cdee17-9f9c-4562-8c2d-75b1cb1252e8")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100KL/RC0603FR-07100KL/3D/RC0603FR-07100KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2045,7 +2045,7 @@
 			(uuid "340afe18-3e49-4dfe-b50f-ef6f0601b431")
 		)
 		(embedded_fonts no)
-		(model "C0603C104K1RACAUTO.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C104K1RACAUTO/C0603C104K1RACAUTO/3D/C0603C104K1RACAUTO.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -2301,7 +2301,7 @@
 			(uuid "ba3a18c0-6964-4388-8b06-617cb5ecb0f4")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710RL/RC0603FR-0710RL/3D/RC0603FR-0710RL.stp"
 			(offset
 				(xyz 0 0 0.5500000037)
 			)
@@ -2616,7 +2616,7 @@
 			(uuid "789038e8-df3f-405d-9892-ebd1bda1e852")
 		)
 		(embedded_fonts no)
-		(model "CDSOT23-T24CAN.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CDSOT23-T24CAN/CDSOT23-T24CAN/3D/CDSOT23-T24CAN.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2872,7 +2872,7 @@
 			(uuid "78f1b47b-6d27-47ed-aad4-8486b2f47f15")
 		)
 		(embedded_fonts no)
-		(model "CL31B225KCHSNNE.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CL31B225KCHSNNE/CL31B225KCHSNNE/3D/CL31B225KCHSNNE.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3015,7 +3015,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9d8e1a21-8b9a-43f8-b373-98c3364143ba")
+			(uuid "8d4d1c39-b7c3-442b-acb6-2f5c27cb4c4b")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -3025,7 +3025,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "828e3373-695d-4a32-960d-96777a96955b")
+			(uuid "8b93dbb4-103d-4c73-898c-8a51f6ea4ac9")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -3035,7 +3035,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "da0f6f33-bf7a-40d0-ba92-943271271311")
+			(uuid "fc05ea2d-f8ff-4b81-960e-cb0e775b233c")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -3045,7 +3045,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eb311f1a-4e08-44cc-9182-f8bc7f5bcd91")
+			(uuid "76f55842-8b93-45d1-bcb9-8a11e8ae73cc")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -3055,7 +3055,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3d2d4870-38dc-4164-b3b3-40d9c08fc05f")
+			(uuid "bddabf06-87de-44bd-ae91-b18a9bc64c81")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -3065,7 +3065,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d8a10a90-f9d7-4cca-a7d6-a17413021654")
+			(uuid "c02fdd7e-8b38-4431-8565-d73b88cbecd5")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -3075,7 +3075,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "25ae8e9e-38dc-44f4-8582-175a78f3e1f1")
+			(uuid "b0700241-4011-4635-bf6a-25ae20234e0f")
 		)
 		(fp_line
 			(start 0 0)
@@ -3085,7 +3085,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c888fc5f-ffc5-4e71-bcea-0109cac4ca84")
+			(uuid "9f52444a-d549-49c0-833b-071be54843c6")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -3096,7 +3096,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "20b0af62-be76-4451-b674-ae55d2e62560")
+			(uuid "2458855c-a722-4db0-b454-cbe944a4f2a6")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -3106,7 +3106,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "acd67310-f6e3-4944-a278-0bd7966acff4")
+			(uuid "c005931f-3a68-4115-b02c-283e6c9b3e8d")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -3116,7 +3116,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ec827a59-d7d1-4a28-a7e0-024b32c12e91")
+			(uuid "87b4798a-c428-400d-85c7-449764cf3513")
 		)
 		(fp_line
 			(start 0 0)
@@ -3126,7 +3126,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c08e6f7e-90fa-4964-afd2-7caf0ea2c9ca")
+			(uuid "5be7214b-d697-429d-9669-78831ded4c43")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -3136,7 +3136,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d340b76f-59c8-46f1-9662-943bc1ce7633")
+			(uuid "f051254c-f48f-480d-a9c8-10526d00b643")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -3187,22 +3187,13 @@
 			(uuid "30ca5a75-44f6-46ad-bce9-ee564bb35fe1")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 270)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 15 "BQ_SYS")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "d0895649-a452-4931-af48-e55558cc5003")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 15 "BQ_SYS")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "aa1dbe41-3e49-43a8-b80f-4e693a5f3d82")
+			(uuid "d0895649-a452-4931-af48-e55558cc5003")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085)
@@ -3231,7 +3222,24 @@
 			(pintype "passive")
 			(uuid "0a29549e-9743-4a53-8f14-a728692e442a")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 270)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "38aff340-07ff-44e9-a34c-4e89229d4865")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "UMJ325AB7475KMHP:CAPC3225X280N"
 		(layer "F.Cu")
@@ -3477,7 +3485,7 @@
 			(uuid "a01cbc82-d86c-4b1a-8ded-d1a639f593ce")
 		)
 		(embedded_fonts no)
-		(model "UMJ325AB7475KMHP.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_UMJ325AB7475KMHP/UMJ325AB7475KMHP/3D/UMJ325AB7475KMHP.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3837,7 +3845,7 @@
 			(uuid "78aae9a2-0eec-4ac5-b0b4-19f173247297")
 		)
 		(embedded_fonts no)
-		(model "TCAN3414DR.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_TCAN3414DR/TCAN3414DR/3D/TCAN3414DR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4481,7 +4489,7 @@
 			(uuid "2a01ce30-71ec-4956-ac94-d34dc92cd181")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100KL/RC0603FR-07100KL/3D/RC0603FR-07100KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4796,7 +4804,7 @@
 			(uuid "38c65225-1275-44ce-b961-128a90a305f4")
 		)
 		(embedded_fonts no)
-		(model "SZBZX84C15LT3G.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SZBZX84C15LT3G/SZBZX84C15LT3G/3D/SZBZX84C15LT3G.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5052,7 +5060,7 @@
 			(uuid "3f045bc5-af99-4fb4-b7a7-69739abf4262")
 		)
 		(embedded_fonts no)
-		(model "CL31B225KCHSNNE.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CL31B225KCHSNNE/CL31B225KCHSNNE/3D/CL31B225KCHSNNE.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5309,7 +5317,7 @@
 			(uuid "5d31e64e-7713-45c4-884a-28cfdf28fa3a")
 		)
 		(embedded_fonts no)
-		(model "C0805C224K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0805C224K5RACTU/C0805C224K5RACTU/3D/C0805C224K5RACTU.stp"
 			(offset
 				(xyz -1.100000007 -0.7300000081 0)
 			)
@@ -5565,7 +5573,7 @@
 			(uuid "01b8f4fa-c29e-4ff2-b096-04d77284eba6")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-075K23L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-075K23L/RC0603FR-075K23L/3D/RC0603FR-075K23L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -5821,7 +5829,7 @@
 			(uuid "442bf280-3807-410a-8c29-1187e17aabe5")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-072RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-072RL/RC0603FR-072RL/3D/RC0603FR-072RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -6077,7 +6085,7 @@
 			(uuid "921c53de-a2de-4a3c-a232-8e2b1c0ff443")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-074K7L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-074K7L/RC0603FR-074K7L/3D/RC0603FR-074K7L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -7086,7 +7094,7 @@
 			(uuid "f9e41064-1e35-4b15-a500-3f91c4d68018")
 		)
 		(embedded_fonts no)
-		(model "GRM155R71H104KE14J.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_GRM155R71H104KE14J/GRM155R71H104KE14J/3D/GRM155R71H104KE14J.stp"
 			(offset
 				(xyz 0 -0.279999997 0.2499999962)
 			)
@@ -7342,7 +7350,7 @@
 			(uuid "ed028091-2f92-4ba7-a4e5-77d9cb4de008")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-072RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-072RL/RC0603FR-072RL/3D/RC0603FR-072RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -7598,7 +7606,7 @@
 			(uuid "889cd049-00a2-4474-b540-0bedd43e13d6")
 		)
 		(embedded_fonts no)
-		(model "UMJ325AB7475KMHP.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_UMJ325AB7475KMHP/UMJ325AB7475KMHP/3D/UMJ325AB7475KMHP.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7854,7 +7862,7 @@
 			(uuid "33124d21-b64d-4ba2-a032-fd9a60c8f32c")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100RL/RC0603FR-07100RL/3D/RC0603FR-07100RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -8130,7 +8138,7 @@
 			(uuid "0f9d7996-46e2-4967-8a94-5ce2ad09531a")
 		)
 		(embedded_fonts no)
-		(model "CDBMT2100-HF.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CDBMT2100-HF/CDBMT2100-HF/3D/CDBMT2100-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8386,7 +8394,7 @@
 			(uuid "38edc662-e880-4fff-bb73-c7cc06297333")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0730K1L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0730K1L/RC0603FR-0730K1L/3D/RC0603FR-0730K1L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -8642,7 +8650,7 @@
 			(uuid "43cddaed-05c3-45cc-ae02-275fadd28f3b")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -9579,7 +9587,7 @@
 			(uuid "0f1d663b-46e6-4ab1-9238-93eddb87a6b7")
 		)
 		(embedded_fonts no)
-		(model "TPS70933DBVR.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_TPS70933DBVR/TPS70933DBVR/3D/TPS70933DBVR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10203,7 +10211,7 @@
 			(uuid "1e70963b-fbdb-4c7a-98a4-2554bd13dc45")
 		)
 		(embedded_fonts no)
-		(model "UMJ325AB7475KMHP.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_UMJ325AB7475KMHP/UMJ325AB7475KMHP/3D/UMJ325AB7475KMHP.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10459,7 +10467,7 @@
 			(uuid "4f0d26d9-dc13-4172-a010-55426cecea2f")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100RL/RC0603FR-07100RL/3D/RC0603FR-07100RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -11312,7 +11320,7 @@
 			(uuid "d6b761b3-6547-4284-8048-d938f408daa4")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07249KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07249KL/RC0603FR-07249KL/3D/RC0603FR-07249KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -11568,7 +11576,7 @@
 			(uuid "a6532974-dc29-4bb8-988e-57e5193a016b")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -11824,7 +11832,7 @@
 			(uuid "9f7330e0-d9f2-4083-b1bb-1b500f032d93")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100RL/RC0603FR-07100RL/3D/RC0603FR-07100RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -12069,7 +12077,7 @@
 			(uuid "d00e36a9-9eba-40de-90d8-e7fc9b51b202")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -12325,7 +12333,7 @@
 			(uuid "c8009f5b-9dcc-429c-ac68-03de7b81c1c1")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07150RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07150RL/RC0603FR-07150RL/3D/RC0603FR-07150RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -12581,7 +12589,7 @@
 			(uuid "913ffa6f-6c6b-4fb2-b60b-ebaa44c5abf4")
 		)
 		(embedded_fonts no)
-		(model "C2012X7R1H105K125AB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C2012X7R1H105K125AB/C2012X7R1H105K125AB/3D/C2012X7R1H105K125AB.stp"
 			(offset
 				(xyz -0.9599999641 0 0.6299999858)
 			)
@@ -12837,7 +12845,7 @@
 			(uuid "292c9eac-31f4-4174-b831-1b64aae62f54")
 		)
 		(embedded_fonts no)
-		(model "PMR100HZPFU5L00.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_PMR100HZPFU5L00/PMR100HZPFU5L00/3D/PMR100HZPFU5L00.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13171,15 +13179,15 @@
 			(uuid "a8d91940-037d-4225-ba6b-5cfba01c6d8e")
 		)
 		(embedded_fonts no)
-		(model "TSW-105-07-G-S.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_TSW-105-07-G-S/TSW-105-07-G-S/3D/TSW-105-07-G-S.stp"
 			(offset
-				(xyz 5.139999789 -0.1899999948 3.299999903)
+				(xyz 5.14 -0.19 -0.2)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -13427,7 +13435,7 @@
 			(uuid "aa39712b-17dd-40f1-a7e1-1119925ed8df")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-071KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-071KL/RC0603FR-071KL/3D/RC0603FR-071KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13683,7 +13691,7 @@
 			(uuid "2bf1d79f-6bda-46ba-ac42-3f5263453bff")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710ML.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710ML/RC0603FR-0710ML/3D/RC0603FR-0710ML.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -13929,7 +13937,7 @@
 			(uuid "a820fdbb-e24e-4253-a18f-47ef16c19e3c")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -14205,7 +14213,7 @@
 			(uuid "c1a35cfc-a6d7-4a10-82a9-01480521c75e")
 		)
 		(embedded_fonts no)
-		(model "1N4148WQ-7-F.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_1N4148WQ-7-F/1N4148WQ-7-F/3D/1N4148WQ-7-F.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14493,7 +14501,7 @@
 			(uuid "2d71a680-ca78-45be-a82d-df6ca9d38ec4")
 		)
 		(embedded_fonts no)
-		(model "ERJ-2RKF60R4X.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_ERJ-2RKF60R4X/ERJ-2RKF60R4X/3D/ERJ-2RKF60R4X.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14749,7 +14757,7 @@
 			(uuid "b4cdcfa7-61e3-4355-9bcc-0c79b3503b8c")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-074K7L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-074K7L/RC0603FR-074K7L/3D/RC0603FR-074K7L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -14995,7 +15003,7 @@
 			(uuid "80cc47d5-061c-41b1-b032-8014a8ce5ff8")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -15241,7 +15249,7 @@
 			(uuid "31674fda-12f2-4f24-9328-bb641c3f1218")
 		)
 		(embedded_fonts no)
-		(model "C0603C151J5GACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C151J5GACTU/C0603C151J5GACTU/3D/C0603C151J5GACTU.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -15497,7 +15505,7 @@
 			(uuid "451e0ff8-5b39-4d02-909f-c505bdfe6cf5")
 		)
 		(embedded_fonts no)
-		(model "CGA5L2X7R2A474K160AA.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CGA5L2X7R2A474K160AA/CGA5L2X7R2A474K160AA/3D/CGA5L2X7R2A474K160AA.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15773,7 +15781,7 @@
 			(uuid "08dc4320-1ad3-439d-9c89-a22cc31a1401")
 		)
 		(embedded_fonts no)
-		(model "1N4148WQ-7-F.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_1N4148WQ-7-F/1N4148WQ-7-F/3D/1N4148WQ-7-F.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16029,7 +16037,7 @@
 			(uuid "1b1dee90-0919-472b-a917-5e02525b7592")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -16172,7 +16180,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8b08935f-77fb-4a82-a955-c44c00d68460")
+			(uuid "59f23f8b-7bac-46bb-a691-780498ca44b1")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -16182,7 +16190,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "617d0d9a-9eea-4e9a-ae73-d89a5f252678")
+			(uuid "f627c781-6352-446c-aa2c-8c228766e97d")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -16192,7 +16200,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7350b042-28a6-4f34-b12e-fd3bb4afa5f3")
+			(uuid "894e882c-2a14-4130-a688-508b0a5bb41c")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -16202,7 +16210,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fd89e576-4d77-481c-bd34-4be283e0a6bd")
+			(uuid "2b476e5e-64df-472b-a739-d8675228270b")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -16212,7 +16220,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "aae85b29-6d1f-484d-86c1-0c507d8e8085")
+			(uuid "e1f46add-af95-411b-8c9c-826798c10850")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -16222,7 +16230,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fefcc1ac-ce74-42d3-a610-e38ff380c4a5")
+			(uuid "7b9d9c80-7024-4300-91ce-db6b4aaa6c23")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -16232,7 +16240,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eda03cf3-b11d-47a9-9bcc-ae5b23394e16")
+			(uuid "90fc5dba-083b-47ad-a114-8e7b3a501123")
 		)
 		(fp_line
 			(start 0 0)
@@ -16242,7 +16250,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "937f1858-15cf-429d-9a0d-8b271c1ff197")
+			(uuid "6fc83ce0-d13c-4194-907a-8d3176489a3c")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -16253,7 +16261,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "a747db54-2a35-48e5-a1b0-ca0f8beaddb5")
+			(uuid "ff4396f8-098c-4dd3-aa3e-a4b925a260b4")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -16263,7 +16271,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4bf942ef-adb5-4b12-9ee7-fbdf4ef5cc80")
+			(uuid "6b1a4c1c-c488-4bf9-af6c-2c8553d434a4")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -16273,7 +16281,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b4e64aa8-07bb-4c41-a43c-072538a0b31d")
+			(uuid "727a2d16-6053-428f-8133-48a089cf556e")
 		)
 		(fp_line
 			(start 0 0)
@@ -16283,7 +16291,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "88877ba8-dca1-49ec-8722-2cfcf034a542")
+			(uuid "f827e19d-1c01-42aa-b4d1-95b2c3d5d1ae")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -16293,7 +16301,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d6471533-aab8-4fe7-9def-62d3b753d8d6")
+			(uuid "8c68626d-6f79-4597-92a7-1e53954bfc48")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -16344,22 +16352,13 @@
 			(uuid "181d0532-f506-4a6b-b284-17d78eb77e12")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 270)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 6 "/SW1")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "6d40d18e-60e0-4c72-af0b-c8d1b4189bcc")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 6 "/SW1")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "6b42faad-730b-430f-9049-0c6ed6ad1879")
+			(uuid "6d40d18e-60e0-4c72-af0b-c8d1b4189bcc")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085)
@@ -16388,7 +16387,24 @@
 			(pintype "passive")
 			(uuid "06254d14-1891-4563-9556-4e22709b0688")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 270)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "2b44ee4e-fef9-44b9-bfbb-3f6559bc8bfb")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "SIR870ADP-T1-GE3:POWERPAK-SO-8"
 		(layer "F.Cu")
@@ -16521,7 +16537,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "83cea6a8-d43c-4c36-9cb4-2ec5c854ca0d")
+			(uuid "dcc055ba-d51d-4324-b64b-e780045e68af")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -16531,7 +16547,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f58fd212-b7f1-45e8-9fec-7cf468f9e884")
+			(uuid "2b5a0460-413d-4b8b-ac03-2b14e5f45258")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -16541,7 +16557,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2c9b39e-f33a-49b5-9eb6-b9e2d1921028")
+			(uuid "49029ebf-ffe4-4c07-bc32-471a6afa441b")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -16551,7 +16567,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d9bb5970-f121-4838-b552-728e41510171")
+			(uuid "49e242ad-3ada-4651-b463-6ed802bca9be")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -16561,7 +16577,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d1b2bed4-a372-4ff0-a2e3-1baf0163d9c0")
+			(uuid "a598cdf4-255d-40ce-9b2e-023bc492bfc6")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -16571,7 +16587,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f6c76381-9948-4d71-99a9-464245a9f5d7")
+			(uuid "67aa27c8-dcf2-4f46-abc3-a31ab78e877d")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -16581,7 +16597,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "64a3892f-95fb-4941-90d3-94aba5c7ea3c")
+			(uuid "ded04024-6313-43a0-8121-1faa463dd756")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -16591,7 +16607,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bead1fcb-1bf2-4c50-bf1f-e69113c53f8b")
+			(uuid "a4358c04-10df-4b4c-877d-e54dccf75304")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -16602,7 +16618,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "79350dcb-2418-4520-ae8b-210fa6b34ee5")
+			(uuid "dc0d0be5-a2b3-4a67-96c0-2aefba4bf4aa")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -16612,7 +16628,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e87470ae-195a-4ac9-896c-be8e3c58de5c")
+			(uuid "6dd6aca7-3cef-4ff1-bb53-c8d70a287e35")
 		)
 		(fp_line
 			(start 0 0)
@@ -16622,7 +16638,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bc9b8ccc-8acb-4171-89ae-aee1d712467d")
+			(uuid "f437f6db-6128-4ed8-b8e0-2b8697cabadd")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -16632,7 +16648,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7fc7be59-2d39-449e-a782-43347601d093")
+			(uuid "245dde32-f734-44f5-aeb6-b5c8ec1e07f1")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -16642,7 +16658,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a1ab2eaa-7072-49e9-b2a5-69ca633beb72")
+			(uuid "fd7fb8e6-33dd-47c4-9c92-13fb07b10bc2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -16693,22 +16709,13 @@
 			(uuid "4f6034f3-efdb-432a-a6bf-673347f08c1c")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 90)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 7 "/SW2")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "6ea1dd95-0876-489b-b1a2-88bb757bf2d4")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355 180)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 7 "/SW2")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "24ac1c60-3163-4320-88c0-340ae34c1988")
+			(uuid "6ea1dd95-0876-489b-b1a2-88bb757bf2d4")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085 180)
@@ -16737,7 +16744,24 @@
 			(pintype "passive")
 			(uuid "ff756e1f-085c-40c5-abdf-dbee207a8bd0")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 90)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "3332ac7e-6012-4d6e-a470-f46f3d6dbd44")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "C2012X7R1H105K125AB:CAPC2012X145N"
 		(layer "F.Cu")
@@ -16983,7 +17007,7 @@
 			(uuid "e22703ba-9d6b-400f-bf30-d8c49b97bee7")
 		)
 		(embedded_fonts no)
-		(model "C2012X7R1H105K125AB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C2012X7R1H105K125AB/C2012X7R1H105K125AB/3D/C2012X7R1H105K125AB.stp"
 			(offset
 				(xyz -0.9599999641 0 0.6299999858)
 			)
@@ -17709,7 +17733,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b3344fa1-f48a-43ad-9b36-53763aa63fe2")
+			(uuid "270e9a8d-61d2-467f-ab93-7ad65b9d15a0")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -17719,7 +17743,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "08c0b66f-4276-474b-acd2-9eabd5b969a3")
+			(uuid "b05b780f-5a07-496f-bea2-1737b82385c7")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -17729,7 +17753,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79270dc2-5159-41c7-a448-09402461121c")
+			(uuid "200876bb-24ff-47af-a3bb-6b0f657eb6db")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -17739,7 +17763,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7f02e798-a0e7-4f60-959b-a751f5eb327f")
+			(uuid "70982851-0e09-4c2b-96e0-f12942ea4bad")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -17749,7 +17773,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dd1fb5e8-7624-4c23-9a0b-b471507e4eda")
+			(uuid "a238eebc-fd0e-4a20-b17b-b63c4eb187c9")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -17759,7 +17783,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ecb77103-6d8c-40ef-ba53-63a78edd59b6")
+			(uuid "70448fe7-630a-47ac-89ad-6d5aa07eddb5")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -17769,7 +17793,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c47efd2b-f1f1-4dd8-8017-288d8671003d")
+			(uuid "4c3a2942-73e6-40fb-85db-e8f7c41dd5c3")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -17779,7 +17803,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c8332d5-b9fc-4f8d-90fe-5e13c2e6f8f9")
+			(uuid "832daa11-6260-499d-b17c-0125ef535315")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -17790,7 +17814,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "187a15b0-d842-4f92-b0cf-2e82eb9e3752")
+			(uuid "f828a390-e2f9-4807-9f05-f7b3ee3da1bc")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -17800,7 +17824,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5166666b-0bd7-4d0f-8bff-f128b8076c1f")
+			(uuid "ef8b087a-aa45-48a5-80c2-2a451437b7f6")
 		)
 		(fp_line
 			(start 0 0)
@@ -17810,7 +17834,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "05605ee8-6811-4bf4-9f21-fa3d8e3057c6")
+			(uuid "62d3f53f-5062-4d06-8265-6b391322f33b")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -17820,7 +17844,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "45590496-fb7e-450e-a827-b11be604d2bb")
+			(uuid "1bf568c4-a9eb-4b9b-808c-5b7ece1b0256")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -17830,7 +17854,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c87ec894-97aa-4bd5-ad20-83ee43c17b92")
+			(uuid "430d0764-224f-4d94-a90a-e7b5c09625fb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 270)
@@ -17881,22 +17905,13 @@
 			(uuid "c5638f36-c8f0-47ce-a3e3-8f0492e7e1b5")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 90)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 2 "+48V")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "786e86fa-f030-403c-919b-d592b992b4ed")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355 180)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 2 "+48V")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "4b094c96-d481-4170-8d3d-ea56e86691eb")
+			(uuid "786e86fa-f030-403c-919b-d592b992b4ed")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085 180)
@@ -17925,7 +17940,24 @@
 			(pintype "passive")
 			(uuid "c85904d4-749e-440f-9aae-6238da6761f1")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 90)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "cfc40c4d-8c9c-4f98-9581-99ffec9f411f")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "MMBT5551LT1G:SOT96P237X111-3N"
 		(layer "F.Cu")
@@ -18058,7 +18090,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9fc84262-4aab-4a82-8e7b-c216932a5cb6")
+			(uuid "cda88d21-1e63-46b0-a510-184f5b1c52ea")
 		)
 		(fp_line
 			(start 0.075 -1.46)
@@ -18068,7 +18100,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "310cc2d2-8086-43e4-8cab-638a1c3a1c8a")
+			(uuid "ab86073e-9182-4385-a2ea-698798ab3a56")
 		)
 		(fp_line
 			(start -0.075 -1.46)
@@ -18078,7 +18110,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "68b8838b-9723-4b23-aa3a-c3a01d90f506")
+			(uuid "59bc4d36-ad66-4a62-92a7-db0d7d1f2b3f")
 		)
 		(fp_line
 			(start 0.075 1.46)
@@ -18088,7 +18120,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ee301bc3-88a5-4bc5-9850-dd4fb2e9b044")
+			(uuid "114cc8ba-e168-485e-aae1-ad6d100cfcc3")
 		)
 		(fp_line
 			(start -0.075 1.46)
@@ -18098,7 +18130,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b80162b4-bf0f-4468-a25e-cb055e7e455a")
+			(uuid "f606d383-ef3f-419c-aba8-56c348a7d0b0")
 		)
 		(fp_line
 			(start 1.925 -1.77)
@@ -18108,7 +18140,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e5f2e936-bb8a-4b06-abd2-b82d2be79da5")
+			(uuid "06aa886c-1a3e-42e5-8f85-9efcfee187c4")
 		)
 		(fp_line
 			(start -1.925 -1.77)
@@ -18118,7 +18150,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f6759575-0eac-4843-bbcf-6178a9283542")
+			(uuid "048e7b66-75f5-4249-b325-b11cc5becb00")
 		)
 		(fp_line
 			(start 1.925 1.77)
@@ -18128,7 +18160,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "83711ffd-a505-4c83-9050-9d10d9514b77")
+			(uuid "655f8b45-003a-41c2-9fcd-90996e27c815")
 		)
 		(fp_line
 			(start -1.925 1.77)
@@ -18138,7 +18170,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1a63b6a0-9d84-4084-80b8-7dd5c10d9af5")
+			(uuid "b26349e6-49d0-4938-b18b-ec1489d53806")
 		)
 		(fp_line
 			(start 0.65 -1.46)
@@ -18148,7 +18180,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c4bb89b8-b53a-4aba-9b67-35593f16b318")
+			(uuid "21a510b9-7d37-4ca6-ba0c-58015f3b76bf")
 		)
 		(fp_line
 			(start -0.65 -1.46)
@@ -18158,7 +18190,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "48da7908-4f37-45b6-9fdb-1b3aa07a475a")
+			(uuid "457bb40d-31a8-4973-8ebf-85723964621d")
 		)
 		(fp_line
 			(start -0.65 -0.505)
@@ -18168,7 +18200,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0f65db8c-adb6-494c-9439-fd5ad72296db")
+			(uuid "1747274b-1cc7-4c29-ae3b-1ce051e195b8")
 		)
 		(fp_line
 			(start 0.65 1.46)
@@ -18178,7 +18210,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2d0ecd98-71e3-4560-9a1a-8ffce5b2d948")
+			(uuid "bf035e9b-b0cb-4a01-8a8e-420517c39b3c")
 		)
 		(fp_line
 			(start -0.65 1.46)
@@ -18188,7 +18220,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1886e4f2-7348-458a-8292-c4967325e067")
+			(uuid "4d472312-7c4e-4af9-a20f-9fef622c1b78")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -18230,7 +18262,7 @@
 			(uuid "12e31fc4-7abb-4be1-bab8-77d0d88b9056")
 		)
 		(embedded_fonts no)
-		(model "MMBT5551LT1G.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_MMBT5551LT1G/MMBT5551LT1G/3D/MMBT5551LT1G.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18486,7 +18518,7 @@
 			(uuid "d9fb09f9-01a5-4b96-806c-4fd27bcc4065")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -18629,7 +18661,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8051d90e-00ed-4cc8-ac6e-ab2c52b0f93a")
+			(uuid "d65ca494-0628-4dfa-862a-27b62c7b0c2e")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -18639,7 +18671,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "22500098-2dea-4935-9b3b-b6693844b2e4")
+			(uuid "2f6e53ed-6923-45cf-873d-ef5d932753d1")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -18649,7 +18681,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2070d44-fd0d-4077-afac-38e47e5b2cf9")
+			(uuid "18114ab5-8b48-4b85-8733-2996a03b681c")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -18659,7 +18691,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8876598e-8f25-4689-8bf3-ff8105bc1f72")
+			(uuid "0b863946-d1bd-4e26-9f17-856c45d0b7c6")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -18669,7 +18701,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "89ede0c9-f67d-4292-91d2-6cf7b7df8b21")
+			(uuid "89447860-9181-4ea8-a711-22daf097b22b")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -18679,7 +18711,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "791c8edf-c990-4866-a878-a209880fa778")
+			(uuid "03fbe20e-c0cc-48be-9983-c37a12f076ab")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -18689,7 +18721,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "61c6046a-777c-4030-a587-b77e2a13e349")
+			(uuid "1ce608e3-eee0-48f6-9ff4-32b88bfa10fc")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -18699,7 +18731,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a499146a-0206-4227-8f81-429cbb985ec2")
+			(uuid "353feee2-56a2-44f5-a638-f2651640003c")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -18710,7 +18742,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "d2da0640-8d42-4d76-b430-527e2e19020a")
+			(uuid "7020d4dc-05a4-451c-be4f-da3e191bd799")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -18720,7 +18752,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "075c6cba-5b0b-456a-a0f5-1500a6bbb0fb")
+			(uuid "3602dbc8-af5b-4431-86b7-ff370042d2f3")
 		)
 		(fp_line
 			(start 0 0)
@@ -18730,7 +18762,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5bb722a7-9e75-4125-97a3-72d79bf12e7b")
+			(uuid "aa4fbd4f-fa1b-4543-b0c0-8526fe283e70")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -18740,7 +18772,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "506ee3a7-6d84-4855-8dd5-0f9f51784116")
+			(uuid "8e1012ec-de83-4118-b322-b7c61b07b2b9")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -18750,7 +18782,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "33eb6d79-e503-4d6c-8091-f63d0b8140d5")
+			(uuid "677e5de2-169c-4c38-9ec4-7aec2f4091bc")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 270)
@@ -18801,22 +18833,13 @@
 			(uuid "54c70b32-c048-4b7f-a349-490a81d49f65")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 90)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 15 "BQ_SYS")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "e492bbdd-e75c-4ae9-a9c7-0293a8def0bb")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355 180)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 15 "BQ_SYS")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "97ca0d02-3423-45a8-9768-6e9506848f15")
+			(uuid "e492bbdd-e75c-4ae9-a9c7-0293a8def0bb")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085 180)
@@ -18845,7 +18868,24 @@
 			(pintype "passive")
 			(uuid "8e85f93c-0423-407e-b23b-558760d6ffcc")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 90)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "45cbd303-e74f-47b1-8931-3c922ac91dff")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "C0805C224K5RACTU:C0805"
 		(layer "F.Cu")
@@ -19092,7 +19132,7 @@
 			(uuid "f1204596-95a7-453a-8230-99b2800daa08")
 		)
 		(embedded_fonts no)
-		(model "C0805C224K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0805C224K5RACTU/C0805C224K5RACTU/3D/C0805C224K5RACTU.stp"
 			(offset
 				(xyz -1.100000007 -0.7300000081 0)
 			)
@@ -19348,7 +19388,7 @@
 			(uuid "e5e5de0e-a479-429c-93bd-26557fbe56cb")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0734K8L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0734K8L/RC0603FR-0734K8L/3D/RC0603FR-0734K8L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -19654,7 +19694,7 @@
 			(uuid "dbd1d05a-b1c3-4b04-b6f5-71631c791e2f")
 		)
 		(embedded_fonts no)
-		(model "ACT45B-101-2P-TL003.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_ACT45B-101-2P-TL003/ACT45B-101-2P-TL003/3D/ACT45B-101-2P-TL003.stp"
 			(offset
 				(xyz -0.02999999888 -0.1800000044 -2.999999955)
 			)
@@ -19910,7 +19950,7 @@
 			(uuid "6e528a87-e47e-4456-818a-348fc750e123")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -20053,7 +20093,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f9e37f2f-66e2-4896-87c5-513ece40ba21")
+			(uuid "8a18bb4e-4771-40a5-bd81-a6d53f5ec642")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -20063,7 +20103,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f50882b9-87db-45a3-bddf-7519f560f4f9")
+			(uuid "ccb191c5-d606-48ae-b6c6-e84c38d22ec4")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -20073,7 +20113,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f5f64531-4008-407b-925c-e2209580ae23")
+			(uuid "71a06f25-6106-41ed-bacf-e07a4533674e")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -20083,7 +20123,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "96ae495a-ad59-47e3-a553-e39c65ac138c")
+			(uuid "969ceee3-7870-45be-883b-a5b2b22068d3")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -20093,7 +20133,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a76b3286-e5e0-456e-ba30-72e0e567b640")
+			(uuid "8f43dbe3-c3e4-4132-a7e9-f4fb57ce1ad9")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -20103,7 +20143,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "67dd042b-c975-4c52-a3d9-7565101472f9")
+			(uuid "fe7aa431-7987-4ba3-b93c-254136eab2d8")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -20113,7 +20153,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e9d81d2a-3cac-4516-84d4-ffe0908f5811")
+			(uuid "d3977877-1e55-467a-b63b-d267e2d10667")
 		)
 		(fp_line
 			(start 0 0)
@@ -20123,7 +20163,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8682716c-4963-4fa0-804b-d1995355bd34")
+			(uuid "9c10df69-8104-4c44-927c-5229e40368dd")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -20134,7 +20174,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "5c411bad-e949-4b08-85ba-117c2d2bd39c")
+			(uuid "39df4bd5-490c-4bc2-a100-f9962f4ace47")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -20144,7 +20184,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bdf54656-d9a1-4d96-b306-76784dc7e8f9")
+			(uuid "7a1d64d0-ab89-4682-ac9a-d9dcea847a96")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -20154,7 +20194,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b76e470b-ef18-43e3-a8ed-d617a9cf90a3")
+			(uuid "078a23b1-c7e7-4601-9ac3-878e009749c3")
 		)
 		(fp_line
 			(start 0 0)
@@ -20164,7 +20204,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "866119a7-be02-491b-8887-93d6a2a10514")
+			(uuid "0820a3a9-1365-4281-a0f4-d0b9c0046a40")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -20174,7 +20214,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cb970ba4-438d-4f1b-ac44-5e248ee6e776")
+			(uuid "b8503ec3-315b-4bf9-b8d7-65bcf6589186")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -20225,22 +20265,13 @@
 			(uuid "105ac99a-fd92-4986-9153-10f93a008fa7")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 270)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 92 "/Q7_DRAIN")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "092382aa-79c0-43ea-bf15-b534dd4e02a2")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 92 "/Q7_DRAIN")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "c8b20f79-9546-4b58-83e0-2a084f55ee62")
+			(uuid "092382aa-79c0-43ea-bf15-b534dd4e02a2")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085)
@@ -20269,7 +20300,24 @@
 			(pintype "passive")
 			(uuid "fa79fc5d-3215-4d88-9707-af931ed26b5d")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 270)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "b36b3961-0c61-4905-a0c2-2544a95c63b0")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "RC0603FR-0710KL:RESC1608X55N"
 		(layer "F.Cu")
@@ -20515,7 +20563,7 @@
 			(uuid "c2670d17-ec55-425d-8db4-d5fa62b8cff4")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -21136,7 +21184,7 @@
 			(uuid "f4f04860-eeb2-4ed7-ae4e-84d21b51838b")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -21382,7 +21430,7 @@
 			(uuid "3b6a04cc-23b3-43f2-b0e4-0b02cc78b284")
 		)
 		(embedded_fonts no)
-		(model "C0603C101J5GACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C101J5GACTU/C0603C101J5GACTU/3D/C0603C101J5GACTU.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -21638,7 +21686,7 @@
 			(uuid "8e870174-542b-446c-969b-9f0a15f4bb07")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710RL/RC0603FR-0710RL/3D/RC0603FR-0710RL.stp"
 			(offset
 				(xyz 0 0 0.5500000037)
 			)
@@ -21895,7 +21943,7 @@
 			(uuid "b09bf150-f414-4b2c-b440-c61215fc726e")
 		)
 		(embedded_fonts no)
-		(model "C0805X474K5RECAUTO.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0805X474K5RECAUTO/C0805X474K5RECAUTO/3D/C0805X474K5RECAUTO.stp"
 			(offset
 				(xyz -1.149999959 -0.7799999597 0)
 			)
@@ -22151,7 +22199,7 @@
 			(uuid "43f94cc3-7d45-4d60-ac91-deb992868674")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100RL/RC0603FR-07100RL/3D/RC0603FR-07100RL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -22407,7 +22455,7 @@
 			(uuid "c70ee9ff-1f8f-41ca-ba48-81e8bd8bfbb5")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -24799,7 +24847,7 @@
 			(uuid "0638f4f1-e3b0-4294-8e38-14cc77d97d7a")
 		)
 		(embedded_fonts no)
-		(model "KAM32LR72A475KU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_KAM32LR72A475KU/KAM32LR72A475KU/3D/KAM32LR72A475KU.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25055,7 +25103,7 @@
 			(uuid "a641cf5c-e06d-4e01-acb2-76977870d361")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0780K6L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0780K6L/RC0603FR-0780K6L/3D/RC0603FR-0780K6L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -25311,7 +25359,7 @@
 			(uuid "71867c1e-90f7-4792-8ae1-7ccce50154ab")
 		)
 		(embedded_fonts no)
-		(model "C2012X7R1H105K125AB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C2012X7R1H105K125AB/C2012X7R1H105K125AB/3D/C2012X7R1H105K125AB.stp"
 			(offset
 				(xyz -0.9599999641 0 0.6299999858)
 			)
@@ -25568,7 +25616,7 @@
 			(uuid "aeae32ee-72ec-45ad-ae72-68f8fffe08ea")
 		)
 		(embedded_fonts no)
-		(model "C0805C224K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0805C224K5RACTU/C0805C224K5RACTU/3D/C0805C224K5RACTU.stp"
 			(offset
 				(xyz -1.100000007 -0.7300000081 0)
 			)
@@ -25711,7 +25759,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a86cbda5-562c-40c6-9481-899eff4ac61a")
+			(uuid "e0019404-ac03-4926-b610-9eff353b4cde")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -25721,7 +25769,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a953a092-865b-44e3-a49a-9cd0ea6e2407")
+			(uuid "19542848-ee94-43e6-93cf-e93edfa4d9cd")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -25731,7 +25779,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c6556da-5b10-4f0d-9ed1-e24a963ba34e")
+			(uuid "fc63b04a-a2ea-4452-a10c-cc8aeb2d68ef")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -25741,7 +25789,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a00bf69d-7c45-4159-a13d-cc2f95448206")
+			(uuid "e63fe12d-2bbe-4c37-ada9-083316085958")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -25751,7 +25799,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0df32a93-ce84-4f85-824a-756b911376f6")
+			(uuid "c971283b-ff2d-4c3b-b39c-7f1a34f9cda2")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -25761,7 +25809,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ba392340-bb28-4b0a-933e-2f4949737149")
+			(uuid "7175a9df-f26f-4b20-9868-520a16daa003")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -25771,7 +25819,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7eb764ee-65e6-43ee-a62c-6cb526fed301")
+			(uuid "ecfb2a7f-b028-4183-96d6-81d4dcd7c075")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -25781,7 +25829,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "29a614ce-5929-465a-8e7e-fe4f942bb05c")
+			(uuid "46173a3a-10f4-44af-af16-92e7555c1e5f")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -25792,7 +25840,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "ba266be7-e242-4b61-98a1-eb5af8caa101")
+			(uuid "155d004e-ceb2-4874-b3e6-13424d190a85")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -25802,7 +25850,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "044d23fe-132f-41d6-a0e1-a509aa372473")
+			(uuid "55fe0d68-89e8-453b-8e78-4e3725e4196e")
 		)
 		(fp_line
 			(start 0 0)
@@ -25812,7 +25860,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7e9efd6f-abd6-4e4a-b98d-d4673e872dcb")
+			(uuid "4ef6a6d4-83e9-430e-992b-5c92f37f65d1")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -25822,7 +25870,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5ae31f08-80a4-47d2-b579-88c4168668c8")
+			(uuid "a0f0e769-6d36-4b87-91e3-c25c0599ce68")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -25832,7 +25880,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3e459a4c-d210-4498-89de-cef9cd37a4bb")
+			(uuid "e2a9741d-0097-444d-bd4c-f1fc8ad4f1af")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -25883,22 +25931,13 @@
 			(uuid "02e8eaf8-4a8c-4dc8-a488-3b0c774e7034")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 90)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 92 "/Q7_DRAIN")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "3e00d845-ed77-42d8-9f47-288817267e7b")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355 180)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 92 "/Q7_DRAIN")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "c4df8994-9f61-4754-9226-ee89a530e437")
+			(uuid "3e00d845-ed77-42d8-9f47-288817267e7b")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085 180)
@@ -25927,7 +25966,24 @@
 			(pintype "passive")
 			(uuid "86c05c5a-e2f1-419c-961f-ec5dec8b88e0")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 90)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "23ee6b60-0a2f-4555-9905-708752379849")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "XT30PW-M:XT30PWM"
 		(layer "F.Cu")
@@ -26541,7 +26597,7 @@
 			(uuid "3f442295-c691-4199-83d1-38907317c170")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0734K8L.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0734K8L/RC0603FR-0734K8L/3D/RC0603FR-0734K8L.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -26864,7 +26920,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6aa70947-0b79-46f0-9a51-b2fb905464a4")
+			(uuid "9577dfac-6f3f-4e60-a21d-7ea78e354893")
 		)
 		(fp_line
 			(start 0 3.62)
@@ -26874,7 +26930,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "13609c27-c438-4cb5-8ab4-415f0a44046a")
+			(uuid "fb4fe486-51f7-4ef7-ba4c-9da25ba82442")
 		)
 		(fp_line
 			(start 5.89 3.62)
@@ -26884,7 +26940,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9cb16768-be56-47ea-9ae1-0d8256342081")
+			(uuid "355865fb-78b9-4b5c-8032-bdc9f44ab8ee")
 		)
 		(fp_line
 			(start 0 2.35)
@@ -26894,7 +26950,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2f783c2-0d5e-4731-b6a0-c41b51759c1d")
+			(uuid "2c2de855-35f1-45de-818d-dba62c37383c")
 		)
 		(fp_line
 			(start 5.89 2.35)
@@ -26904,7 +26960,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "26f022ae-ce5e-45c7-8a37-fb7c1907d6be")
+			(uuid "cef50fb9-8256-464b-bf09-fea7c90c70af")
 		)
 		(fp_line
 			(start 0 1.08)
@@ -26914,7 +26970,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6e761b57-d883-4c71-841d-ae77e7c8f7ad")
+			(uuid "ccf3de61-d342-4e62-a7af-6684a9ef5eed")
 		)
 		(fp_line
 			(start 5.89 1.08)
@@ -26924,7 +26980,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "583dfaaf-cfb0-471a-9524-ccba47b07aa9")
+			(uuid "b27341d5-b211-4535-bd85-d31f4b7a0d99")
 		)
 		(fp_line
 			(start 0 0)
@@ -26934,7 +26990,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "685e6e41-3902-4a00-b8af-ec506d8d572b")
+			(uuid "bb797853-a955-493d-935d-7b5d4f6e2e38")
 		)
 		(fp_circle
 			(center -0.867 -0.041)
@@ -26945,7 +27001,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "02838a07-c9b7-4e19-a917-e642aaf0cccf")
+			(uuid "c051fb0a-be3f-4e02-914a-e6aa7b8a71c6")
 		)
 		(fp_line
 			(start 0 4.9)
@@ -26955,7 +27011,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8fb3a011-4f4d-4343-8e8d-a2c73be4773a")
+			(uuid "e86dda35-dc24-44a0-a2da-2ebb5f090434")
 		)
 		(fp_line
 			(start 5.89 4.9)
@@ -26965,7 +27021,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8b99d7aa-69d6-4e87-8016-d6e1705822c5")
+			(uuid "ca92152c-02c8-4b5c-9435-bbcd558cafb9")
 		)
 		(fp_line
 			(start 0 0)
@@ -26975,7 +27031,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b786a5f5-b08c-49ba-8de8-fbe02860bb45")
+			(uuid "2bb2bc23-8b72-4db6-ae0d-a4b6ce4df0b9")
 		)
 		(fp_line
 			(start 5.89 0)
@@ -26985,7 +27041,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d6515652-c903-4357-b6d0-fb6c10735666")
+			(uuid "981e738b-f679-4496-b4f3-dd02c85d1ab0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.573805 2.3885 90)
@@ -27036,22 +27092,13 @@
 			(uuid "6f182bb3-ee96-46ba-9d2b-a6cb691ef051")
 		)
 		(pad "5" smd rect
-			(at 3.5725 2.44 270)
-			(size 3.81 3.91)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 93 "/Q1_D")
-			(pinfunction "D_1")
-			(pintype "passive")
-			(uuid "75e227c3-ed04-4d29-beac-c62d4896b731")
-		)
-		(pad "5" smd rect
 			(at 5.6775 4.355)
 			(size 0.61 1.02)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 93 "/Q1_D")
 			(pinfunction "D_1")
 			(pintype "passive")
-			(uuid "c3a44de3-82b4-4f62-9688-6d4ea9927109")
+			(uuid "75e227c3-ed04-4d29-beac-c62d4896b731")
 		)
 		(pad "6" smd rect
 			(at 5.6775 3.085)
@@ -27080,7 +27127,24 @@
 			(pintype "passive")
 			(uuid "76b467c4-00ab-4651-87e8-9c04bd3bbe66")
 		)
+		(pad "9" smd rect
+			(at 3.5725 2.44 270)
+			(size 3.81 3.91)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "7909b6f8-2243-4cb4-837e-3a78f0682318")
+		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
+			(offset
+				(xyz 2.8702 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "GRM188R72A472KA01D:CAPC1608X90N"
 		(layer "F.Cu")
@@ -27316,7 +27380,7 @@
 			(uuid "21e483b9-557d-4124-b2cb-8f6618ecb3c4")
 		)
 		(embedded_fonts no)
-		(model "GRM188R72A472KA01D.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_GRM188R72A472KA01D/GRM188R72A472KA01D/3D/GRM188R72A472KA01D.stp"
 			(offset
 				(xyz 0 0.4499999813 0.4)
 			)
@@ -27572,7 +27636,7 @@
 			(uuid "0ec4107f-c48a-41bb-b707-ddc705652158")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710RL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710RL/RC0603FR-0710RL/3D/RC0603FR-0710RL.stp"
 			(offset
 				(xyz 0 0 0.5500000037)
 			)
@@ -27828,7 +27892,7 @@
 			(uuid "57cb33a5-f94f-4780-835d-6174eaf7e675")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-07100KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-07100KL/RC0603FR-07100KL/3D/RC0603FR-07100KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28084,7 +28148,7 @@
 			(uuid "e9d158fa-94ca-4256-9b9a-5a709306b991")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -28744,7 +28808,7 @@
 			(uuid "2d93c515-95e7-4990-9139-6132a9e87b72")
 		)
 		(embedded_fonts no)
-		(model "PMR18EZPFV2L00.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_PMR18EZPFV2L00/PMR18EZPFV2L00/3D/PMR18EZPFV2L00.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29000,7 +29064,7 @@
 			(uuid "65ab3b50-517e-4fab-a2ff-ac00619e6152")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -29257,7 +29321,7 @@
 			(uuid "6832508b-4b92-44e6-92cd-ced06b7b37b0")
 		)
 		(embedded_fonts no)
-		(model "C1206C225K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C1206C225K5RACTU/C1206C225K5RACTU/3D/C1206C225K5RACTU.stp"
 			(offset
 				(xyz -1.700000022 -0.8999999626 0)
 			)
@@ -29513,7 +29577,7 @@
 			(uuid "69513f24-610b-4c6d-9898-be00f7960d2b")
 		)
 		(embedded_fonts no)
-		(model "C2012X7R1H105K125AB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C2012X7R1H105K125AB/C2012X7R1H105K125AB/3D/C2012X7R1H105K125AB.stp"
 			(offset
 				(xyz -0.9599999641 0 0.6299999858)
 			)
@@ -29769,7 +29833,7 @@
 			(uuid "c70711ff-36e4-4340-9b80-c995bb0b8e5a")
 		)
 		(embedded_fonts no)
-		(model "KAM32LR72A475KU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_KAM32LR72A475KU/KAM32LR72A475KU/3D/KAM32LR72A475KU.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30015,7 +30079,7 @@
 			(uuid "fc99fcc2-c83a-4cb0-91f9-0ab1b6495526")
 		)
 		(embedded_fonts no)
-		(model "C0603C104K1RACAUTO.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C104K1RACAUTO/C0603C104K1RACAUTO/3D/C0603C104K1RACAUTO.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -30271,7 +30335,7 @@
 			(uuid "bf767084-1d3a-4484-b94c-e11abecf7c54")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -30528,7 +30592,7 @@
 			(uuid "1449fc27-4467-4430-8a0b-e717200d7cf3")
 		)
 		(embedded_fonts no)
-		(model "C0805C224K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0805C224K5RACTU/C0805C224K5RACTU/3D/C0805C224K5RACTU.stp"
 			(offset
 				(xyz -1.100000007 -0.7300000081 0)
 			)
@@ -30943,7 +31007,7 @@
 			(uuid "5f68d39c-0796-4285-9e10-e57db2e03485")
 		)
 		(embedded_fonts no)
-		(model "C0603C223K5RACTU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_C0603C223K5RACTU/C0603C223K5RACTU/3D/C0603C223K5RACTU.stp"
 			(offset
 				(xyz -0.8699999917 -0.4799999821 0)
 			)
@@ -31199,7 +31263,7 @@
 			(uuid "f8c7d7fd-d27d-45ea-be5d-dcb59ef2b4f6")
 		)
 		(embedded_fonts no)
-		(model "KAM32LR72A475KU.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_KAM32LR72A475KU/KAM32LR72A475KU/3D/KAM32LR72A475KU.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31487,7 +31551,7 @@
 			(uuid "40286ab5-4d19-4081-990b-23434812ace6")
 		)
 		(embedded_fonts no)
-		(model "ERJ-2RKF60R4X.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_ERJ-2RKF60R4X/ERJ-2RKF60R4X/3D/ERJ-2RKF60R4X.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31763,7 +31827,7 @@
 			(uuid "fecd7b1f-c16f-4dda-bb7d-a870efdc34cd")
 		)
 		(embedded_fonts no)
-		(model "CDBMT2100-HF.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CDBMT2100-HF/CDBMT2100-HF/3D/CDBMT2100-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32027,7 +32091,7 @@
 			(uuid "10de816b-8dbf-418d-9044-965e87dd7625")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-071KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-071KL/RC0603FR-071KL/3D/RC0603FR-071KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32291,7 +32355,7 @@
 			(uuid "c6a8232e-b541-4f77-aced-feea7b96d55a")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-0710KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-0710KL/RC0603FR-0710KL/3D/RC0603FR-0710KL.stp"
 			(offset
 				(xyz 0 0 0.2300000007)
 			)
@@ -33314,7 +33378,7 @@
 			(uuid "2696561e-4d99-4985-8cfa-e1274a1016e6")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190KGKT.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_LTST-C190KGKT/LTST-C190KGKT/3D/LTST-C190KGKT.stp"
 			(offset
 				(xyz -0.02999999888 0 0.279999997)
 			)
@@ -33578,7 +33642,7 @@
 			(uuid "ff36759b-4823-4c75-84b9-70ffda0ed0c7")
 		)
 		(embedded_fonts no)
-		(model "RC0603FR-071KL.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_RC0603FR-071KL/RC0603FR-071KL/3D/RC0603FR-071KL.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33842,7 +33906,7 @@
 			(uuid "1a2a2a92-c9db-4786-ae32-9828bf825f04")
 		)
 		(embedded_fonts no)
-		(model "UMJ325AB7475KMHP.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_UMJ325AB7475KMHP/UMJ325AB7475KMHP/3D/UMJ325AB7475KMHP.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34096,7 +34160,7 @@
 			(uuid "3a66fe27-9c7e-448b-9e56-cdbb5b619740")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -34937,7 +35001,7 @@
 			(uuid "c1671df4-b931-4190-af6c-7552fa4ada0b")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -35191,7 +35255,7 @@
 			(uuid "a879087c-bbcf-4a0d-ae21-9fa2ee33255f")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -35445,7 +35509,7 @@
 			(uuid "3aba2030-e153-4bee-8d88-1512c5d99e11")
 		)
 		(embedded_fonts no)
-		(model "CC0603KRX7R9BB104.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_CC0603KRX7R9BB104/CC0603KRX7R9BB104/3D/CC0603KRX7R9BB104.stp"
 			(offset
 				(xyz -0.009999999626 0 0.3799999895)
 			)
@@ -35739,7 +35803,7 @@
 			(uuid "2f3ca2ac-b2b3-40a0-a1ab-2fa10963b35f")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190KRKT.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_LTST-C190KRKT/LTST-C190KRKT/3D/LTST-C190KRKT.stp"
 			(offset
 				(xyz -0.02999999888 0 0.279999997)
 			)

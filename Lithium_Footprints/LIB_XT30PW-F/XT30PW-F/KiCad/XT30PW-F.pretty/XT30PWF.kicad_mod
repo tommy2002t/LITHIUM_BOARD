@@ -26,7 +26,7 @@
   (pad 2 thru_hole circle (at 5.000 -0) (size 2.550 2.550) (drill 1.7) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -3.000 -5) (size 1.500 1.500) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 8.000 -5) (size 1.500 1.500) (drill 1) (layers *.Cu *.Mask))
-  (model XT30PW-F.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-F/XT30PW-F/3D/XT30PW-F.stp"
     (at (xyz 0.098425196850394 0.31220471765113 0.0082677162773027))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

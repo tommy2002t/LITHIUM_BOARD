@@ -28,7 +28,7 @@
   (pad 1 smd rect (at -1.05 -0.955 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.05 0.955 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.05 0 90) (size 0.6 1.25) (layers F.Cu F.Paste F.Mask))
-  (model MMBT5551LT1G.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_MMBT5551LT1G/MMBT5551LT1G/3D/MMBT5551LT1G.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

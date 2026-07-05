@@ -22,7 +22,7 @@
   (fp_circle (center -2.55 0) (end -2.55 0.05) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -1.5 0 0) (size 1.15 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0 0) (size 1.15 2.7) (layers F.Cu F.Paste F.Mask))
-  (model C1210C154K5RACTU.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_C1210C154K5RACTU/C1210C154K5RACTU/3D/C1210C154K5RACTU.stp"
     (at (xyz -0.066929135735579 -0.053149607237868 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

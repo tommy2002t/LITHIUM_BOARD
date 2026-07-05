@@ -27,7 +27,7 @@
   (pad 2 smd rect (at -2.275 1.25 90) (size 0.900 1.350) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.275 1.25 90) (size 0.900 1.350) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2.275 -1.25 90) (size 0.900 1.350) (layers F.Cu F.Paste F.Mask))
-  (model ACT45B-101-2P-TL003.stp
+  (model "${KIPRJMOD}/Lithium_Footprints/LIB_ACT45B-101-2P-TL003/ACT45B-101-2P-TL003/3D/ACT45B-101-2P-TL003.stp"
     (at (xyz -0.001181102335805 -0.0070866144548251 -0.11811023622047))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
