@@ -6,7 +6,7 @@
 	(descr "PowerPAK-SO-8")
 	(tags "MOSFET (N-Channel)")
 	(property "Reference" "Q**"
-		(at 2.606 2.385 0)
+		(at 2.606 -0.75 0)
 		(layer "F.SilkS")
 		(uuid "8b73ca75-29f1-4135-b23d-b0c1193db8fd")
 		(effects
@@ -238,16 +238,16 @@
 		(uuid "bad60415-67df-4450-8887-a866d88239ca")
 	)
 	(pad "8" smd rect
-		(at 5.6775 0.545 90)
-		(size 0.61 1.02)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "f37a5cd4-fa83-42ab-8df9-6522b1f2334f")
-	)
-	(pad "9" smd rect
 		(at 3.5725 2.44)
 		(size 3.81 3.91)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "17f079d8-bc33-4076-914a-67a38ce0333c")
+	)
+	(pad "8" smd rect
+		(at 5.6775 0.545 90)
+		(size 0.61 1.02)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f37a5cd4-fa83-42ab-8df9-6522b1f2334f")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/Lithium_Footprints/LIB_SIR870ADP-T1-GE3/SIR870ADP-T1-GE3/3D/POWERPAK_SO-8_SINGLE_VIS.step"
