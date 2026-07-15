@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-TP1K391V
+PartCategory=Capacitor Polarised (6-Pin Vibration Proof)
+PackageCategory=Other
+PinCount=6
+Version=10.3
+Released=2019-02-16 12:47:40
+Downloaded=2026-07-15 16:56:47
+3D=Y

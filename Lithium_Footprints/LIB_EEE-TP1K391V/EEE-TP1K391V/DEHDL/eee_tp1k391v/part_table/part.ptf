@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEE_TP1K391V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEE-TP1K391V" (!) = "", "EEEFK0J682AV", "Other", "667-EEE-TP1K391V", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TP1K391V?qs=XFmntM7Yc9dUeO1BN5vyvw%3D%3D", "Aluminum Electrolytic Capacitors - SMD 80VDC 390uF 20% SMD AEC-Q200 Vibe Proof", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf", "16.8 mm"
+END_PART
+
+END.

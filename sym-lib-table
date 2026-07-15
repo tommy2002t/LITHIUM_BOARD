@@ -66,4 +66,5 @@
   (lib (name "RT0603BRD0735K2L")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RT0603BRD0735K2L/RT0603BRD0735K2L/KiCad/RT0603BRD0735K2L.kicad_sym")(options "")(descr ""))
   (lib (name "RT0603BRD07249KL")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RT0603BRD07249KL/RT0603BRD07249KL/KiCad/RT0603BRD07249KL.kicad_sym")(options "")(descr ""))
   (lib (name "TPS70933DRVR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TPS70933DRVR/TPS70933DRVR/KiCad/TPS70933DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "EEE-TP1K391V")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_EEE-TP1K391V/EEE-TP1K391V/KiCad/EEE-TP1K391V.kicad_sym")(options "")(descr ""))
 )

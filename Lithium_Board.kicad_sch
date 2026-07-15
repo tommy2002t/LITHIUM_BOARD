@@ -2346,7 +2346,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "EEV-FK2A101V:EEV-FK2A101V"
+		(symbol "EEE-TP1K391V:EEE-TP1K391V"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2359,7 +2359,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "EEV-FK2A101V"
+			(property "Value" "EEE-TP1K391V"
 				(at 21.59 12.7 0)
 				(effects
 					(font
@@ -2378,7 +2378,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf"
 				(at 21.59 -187.3 0)
 				(effects
 					(font
@@ -2388,7 +2388,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Aluminium Electroyltic Capacitor, Radial, Vibration-Proof"
+			(property "Description" "Aluminum Electrolytic Capacitors - SMD 80VDC 390uF 20% SMD AEC-Q200 Vibe Proof"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2407,7 +2407,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "667-EEV-FK2A101V"
+			(property "Mouser Part Number" "667-EEE-TP1K391V"
 				(at 21.59 -487.3 0)
 				(effects
 					(font
@@ -2417,7 +2417,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEV-FK2A101V?qs=MtOUKumLmnaVkoWQWMGNWA%3D%3D"
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TP1K391V?qs=XFmntM7Yc9dUeO1BN5vyvw%3D%3D"
 				(at 21.59 -587.3 0)
 				(effects
 					(font
@@ -2437,7 +2437,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "EEV-FK2A101V"
+			(property "Manufacturer_Part_Number" "EEE-TP1K391V"
 				(at 21.59 -787.3 0)
 				(effects
 					(font
@@ -2447,7 +2447,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "EEV-FK2A101V_1_1"
+			(symbol "EEE-TP1K391V_1_1"
 				(rectangle
 					(start 5.08 10.16)
 					(end 20.32 -12.7)
@@ -14652,139 +14652,6 @@
 		)
 	)
 	(symbol
-		(lib_id "EEV-FK2A101V:EEV-FK2A101V")
-		(at 190.5 265.43 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "281f4d28-9ace-4bde-98ab-b11a8f1fa259")
-		(property "Reference" "C23"
-			(at 197.358 257.556 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "EEV-FK2A101V"
-			(at 192.278 260.096 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "EEV-FK2A101V:EEEFK0J682AV"
-			(at 168.91 178.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
-			(at 168.91 78.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Aluminium Electroyltic Capacitor, Radial, Vibration-Proof"
-			(at 190.5 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "16.8"
-			(at 168.91 -121.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "667-EEV-FK2A101V"
-			(at 168.91 -221.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEV-FK2A101V?qs=MtOUKumLmnaVkoWQWMGNWA%3D%3D"
-			(at 168.91 -321.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Panasonic"
-			(at 168.91 -421.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "EEV-FK2A101V"
-			(at 168.91 -521.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cf3bfa4d-cffd-4cb2-be5d-fbe6f00d3e82")
-		)
-		(pin "4"
-			(uuid "da8602e7-b9f5-4f8c-908e-8e2d79cc2a11")
-		)
-		(pin "1"
-			(uuid "df3bb9dc-00df-45a1-b1e0-3b2e39329611")
-		)
-		(pin "3"
-			(uuid "ab2381d4-5ef8-4da8-891b-9ac6c50f655b")
-		)
-		(pin "6"
-			(uuid "61cc393b-2809-492d-9675-11f1b126e587")
-		)
-		(pin "5"
-			(uuid "c5ec4868-059f-4b2c-97c7-43ce3d513b81")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 494.03 337.82 0)
 		(unit 1)
@@ -16742,7 +16609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON65P200X200X80-7N"
+		(property "Footprint" "TPS70933DRVR:SON65P200X200X80-7N"
 			(at 383.54 352.73 0)
 			(effects
 				(font
@@ -17156,6 +17023,139 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE-TP1K391V:EEE-TP1K391V")
+		(at 190.5 265.43 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5461b0c7-ca2f-4913-8966-443fcdd1d40a")
+		(property "Reference" "C23"
+			(at 198.12 256.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "EEE-TP1K391V"
+			(at 193.802 259.588 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "EEE-TP1K391V:EEEFK0J682AV"
+			(at 168.91 178.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf"
+			(at 168.91 78.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Aluminum Electrolytic Capacitors - SMD 80VDC 390uF 20% SMD AEC-Q200 Vibe Proof"
+			(at 190.5 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "16.8"
+			(at 168.91 -121.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-EEE-TP1K391V"
+			(at 168.91 -221.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TP1K391V?qs=XFmntM7Yc9dUeO1BN5vyvw%3D%3D"
+			(at 168.91 -321.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 168.91 -421.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE-TP1K391V"
+			(at 168.91 -521.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "4b0fc5a8-bea2-4771-8f54-445fdd2b6809")
+		)
+		(pin "3"
+			(uuid "058478c6-aa0a-46ec-b19b-118d1da3d00d")
+		)
+		(pin "6"
+			(uuid "4b685a5c-49f9-4d79-ba8c-45b6b3b11d15")
+		)
+		(pin "4"
+			(uuid "df97c44b-fdbf-4d3f-8ad1-ced03dffab0a")
+		)
+		(pin "2"
+			(uuid "f0732cf4-cd03-4498-8de1-8fa46bb48e57")
+		)
+		(pin "1"
+			(uuid "47477ae3-4c2c-443a-806b-b239d5dee4f3")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "C23")
 					(unit 1)
 				)
 			)

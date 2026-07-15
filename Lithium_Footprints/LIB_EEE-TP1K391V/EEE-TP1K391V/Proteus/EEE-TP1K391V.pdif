@@ -1,0 +1,147 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EEE-TP1K391V"
+   (description "Aluminum Electrolytic Capacitors - SMD 80VDC 390uF 20% SMD AEC-Q200 Vibe Proof")
+   (family "ANA")
+   (package "EEEFK0J682AV")
+   (attribute "Datasheet Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf")
+   (attribute "Geometry.Height" "16.8mm")
+   (attribute "Mouser Part Number" "667-EEE-TP1K391V")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TP1K391V?qs=XFmntM7Yc9dUeO1BN5vyvw%3D%3D")
+   (attribute "Manufacturer_Name" "Panasonic")
+   (attribute "Manufacturer_Part_Number" "EEE-TP1K391V")
+   (gate
+    (symbol "EEE-TP1K391V")
+    (pin "+_1" 1 PS)
+    (pin "-_1" 2 PS)
+    (pin "+_2" 3 PS)
+    (pin "+_3" 4 PS)
+    (pin "-_2" 5 PS)
+    (pin "-_3" 6 PS)
+   )
+  )
+  (symbol "EEE-TP1K391V"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 400) (pt 800 400) (pt 800 -500) (pt 200 -500) (pt 200 400) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 500 -700) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EEEFK0J682AV"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.5 -10.7)
+      (pt 9.5 -10.7)
+      (pt 9.5 10.7)
+      (pt -9.5 10.7)
+      (pt -9.5 -10.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.1 -10.2)
+      (arc (pt -0.100 -10.200) (pt -0.100 -10.100) (pt 0.100 -10.300) (start 180.0) (sweep 180.0))
+      (pt 0.1 -10.2)
+      (arc (pt 0.100 -10.200) (pt -0.100 -10.100) (pt 0.100 -10.300) (start 180.0) (sweep .0))
+      (pt -0.1 -10.2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -4 -8.5)
+      (pt -8.5 -4)
+      (pt -8.5 8.5)
+      (pt 8.5 8.5)
+      (pt 8.5 -4)
+      (pt 4 -8.5)
+      (pt -4 -8.5)
+      (pt -8.5 -4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4 -8.5)
+      (pt -8.5 -4)
+      (pt -8.5 8.5)
+      (pt -4 8.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4 -8.5)
+      (pt 8.5 -4)
+      (pt 8.5 8.5)
+      (pt 4 8.5))))
+   (leg 1 (pt 0.000 -6.300) (padstack 1))
+   (leg 2 (pt 0.000 6.300) (padstack 2))
+   (leg 3 (pt -2.250 -6.000) (padstack 0))
+   (leg 4 (pt 2.250 -6.000) (padstack 0))
+   (leg 5 (pt -2.250 6.000) (padstack 0))
+   (leg 6 (pt 2.250 6.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.700 3.600 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 2.800 6.800 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 2.800 6.800 0 0 90.000))
+   )
+   (model "EEE-TP1K391V.stp"
+    (euler 90 0 90)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

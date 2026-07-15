@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEE-TP1K391V
+D Aluminum Electrolytic Capacitors - SMD 80VDC 390uF 20% SMD AEC-Q200 Vibe Proof
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf
+$ENDCMP
+#
+#End Doc Library
