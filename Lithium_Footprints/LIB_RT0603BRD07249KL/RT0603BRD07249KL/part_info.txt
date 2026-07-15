@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=RT0603BRD07249KL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2025-10-24 04:01:28
+Downloaded=2026-07-15 14:45:15
+3D=Y

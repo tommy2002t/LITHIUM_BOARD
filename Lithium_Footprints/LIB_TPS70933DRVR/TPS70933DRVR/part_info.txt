@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS70933DRVR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=2.1
+Released=2019-02-04 05:09:56
+Downloaded=2026-07-15 14:52:36
+3D=Y

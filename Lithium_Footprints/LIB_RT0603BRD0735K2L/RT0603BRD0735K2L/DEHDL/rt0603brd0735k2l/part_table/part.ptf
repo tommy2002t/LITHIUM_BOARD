@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT0603BRD0735K2L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "RT0603BRD0735K2L" (!) = "", "RESC1608X55N", "Resistor Chip", "", "", "35.2 kOhms +/-0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a1f8f48f216d234b3e6a96d43a77a0c1.pdf", "0.55 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=RT0603BRD0735K2L
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2020-04-07 14:30:48
+Downloaded=2026-07-15 14:46:54
+3D=Y

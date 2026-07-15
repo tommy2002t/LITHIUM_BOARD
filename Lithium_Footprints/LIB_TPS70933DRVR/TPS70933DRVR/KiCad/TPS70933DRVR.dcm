@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS70933DRVR
+D 150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection
+K
+F http://www.ti.com/lit/gpn/tps709
+$ENDCMP
+#
+#End Doc Library

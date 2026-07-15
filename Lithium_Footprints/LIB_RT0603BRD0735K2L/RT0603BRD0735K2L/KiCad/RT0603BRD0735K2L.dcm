@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT0603BRD0735K2L
+D 35.2 kOhms +/-0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a1f8f48f216d234b3e6a96d43a77a0c1.pdf
+$ENDCMP
+#
+#End Doc Library

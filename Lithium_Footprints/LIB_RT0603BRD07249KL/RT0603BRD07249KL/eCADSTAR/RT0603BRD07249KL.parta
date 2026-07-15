@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_21151137"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-10-24-04:01:28)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RT0603BRD07249KL")
+)
+
+
+(pinAssign "ECS_21151137"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-10-24-04:01:28)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_21151137")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RT0603BRD07249KL")
+)
+
+
+(part "RT0603BRD07249KL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-10-24-04:01:28)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "RT0603BRD07249KL")
+    (pinAssignRef "ECS_21151137")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Thin Film Resistors - SMD 1/10W 249K ohm .1% 25ppm")
+    (property "Mouser_Part_Number" "603-RT0603BRD07249KL")
+    (property "Mouser_Price/Stock" "http://www.mouser.com/Search/ProductDetail.aspx?qs=gY0y7AQI9SOcSWSW5jI5dg%3d%3d")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "RT0603BRD07249KL")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/RT0603BRD07249KL.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

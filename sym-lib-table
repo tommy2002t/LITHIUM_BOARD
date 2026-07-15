@@ -63,4 +63,7 @@
   (lib (name "TCAN3414DR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TCAN3414DR/TCAN3414DR/KiCad/TCAN3414DR.kicad_sym")(options "")(descr ""))
   (lib (name "S3B-XH-SM4-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_S3B-XH-SM4-TB_LF__SN_/S3B-XH-SM4-TB_LF__SN_/KiCad/S3B-XH-SM4-TB_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "CDBMT2100-HF")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_CDBMT2100-HF/CDBMT2100-HF/KiCad/CDBMT2100-HF.kicad_sym")(options "")(descr ""))
+  (lib (name "RT0603BRD0735K2L")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RT0603BRD0735K2L/RT0603BRD0735K2L/KiCad/RT0603BRD0735K2L.kicad_sym")(options "")(descr ""))
+  (lib (name "RT0603BRD07249KL")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_RT0603BRD07249KL/RT0603BRD07249KL/KiCad/RT0603BRD07249KL.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS70933DRVR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TPS70933DRVR/TPS70933DRVR/KiCad/TPS70933DRVR.kicad_sym")(options "")(descr ""))
 )

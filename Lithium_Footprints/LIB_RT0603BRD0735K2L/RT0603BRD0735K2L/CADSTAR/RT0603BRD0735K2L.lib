@@ -1,0 +1,16 @@
+.RT0603BRD0735K2L :1 ;35.2 kOhms +/-0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thin Film
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RT0603BRD0735K2L
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (RT0603BRD0735K2L)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a1f8f48f216d234b3e6a96d43a77a0c1.pdf)
+~!Height (0.55mm)
+~!3D_Model (RT0603BRD0735K2L)
+RT0603BRD0735K2L
+1.1!U 2.1!U 

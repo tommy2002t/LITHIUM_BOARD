@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS70933DRVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS70933DRVR" (!) = "", "SON65P200X200X80-7N", "Small Outline No-lead", "595-TPS70933DRVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS70933DRVR?qs=R0RaSr%2FznUQFEcQCz0C0iw%3D%3D", "150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection", "http://www.ti.com/lit/gpn/tps709", "0.8 mm"
+END_PART
+
+END.
