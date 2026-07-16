@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP1792T-3302H/DB
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=3.1
+Released=2021-02-05 06:06:17
+Downloaded=2026-07-15 20:47:03
+3D=Y

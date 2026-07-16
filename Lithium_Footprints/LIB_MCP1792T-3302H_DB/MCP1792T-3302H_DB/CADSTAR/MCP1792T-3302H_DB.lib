@@ -1,0 +1,16 @@
+.MCP1792T-3302H_DB :1 ;LDO Voltage Regulators High input voltage regulator 3.3V 3Ld SOT-223 TR
+SOT230P700X180-4N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND_1" 3="VOUT" 4="GND_2"
+*MXP 4
+*DFN MCP1792T-3302H_DB
+~!Mouser Part Number (579-MCP1792T-3302HDB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1792T-3302H-DB?qs=mAH9sUMRCtvBzBqedLa7iA%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP1792T-3302H/DB)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/268/MCP1792-Family-Data-Sheet-DS20006229C-1840172.pdf)
+~!Height (1.8mm)
+~!3D_Model (MCP1792T-3302H_DB)
+MCP1792T-3302H_DB
+1.1!U 2.1!U 3.1!U 4.1!U 

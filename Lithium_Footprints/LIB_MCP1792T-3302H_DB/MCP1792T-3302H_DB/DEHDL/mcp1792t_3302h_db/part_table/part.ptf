@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP1792T_3302H_DB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP1792T-3302H/DB" (!) = "", "SOT230P700X180-4N", "SOT223 (3-Pin)", "579-MCP1792T-3302HDB", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1792T-3302H-DB?qs=mAH9sUMRCtvBzBqedLa7iA%3D%3D", "LDO Voltage Regulators High input voltage regulator 3.3V 3Ld SOT-223 TR", "https://www.mouser.de/datasheet/2/268/MCP1792-Family-Data-Sheet-DS20006229C-1840172.pdf", "1.8 mm"
+END_PART
+
+END.

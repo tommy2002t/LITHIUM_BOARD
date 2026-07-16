@@ -1171,198 +1171,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "C2012X7R1H105K125AB:C2012X7R1H105K125AB"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "C2012X7R1H105K125AB"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "CAPC2012X145N"
-				(at 8.89 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-				(at 8.89 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.45"
-				(at 8.89 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "810-C2012X7R1H105K"
-				(at 8.89 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-				(at 8.89 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "TDK"
-				(at 8.89 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-				(at 8.89 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "C2012X7R1H105K125AB_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "CC0603KRX7R9BB104:CC0603KRX7R9BB104"
 			(pin_names
 				(hide yes)
@@ -2131,221 +1939,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "EEE-FT1V101AP:EEE-FT1V101AP"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "EEE-FT1V101AP"
-				(at 8.89 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "EEE1AA101SP"
-				(at 8.89 -96.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf"
-				(at 8.89 -196.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Aluminum Electrolytic Capacitors - SMD 100uF 35volts 6.3x5.8mm SMD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "7.8"
-				(at 8.89 -396.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "667-EEE-FT1V101AP"
-				(at 8.89 -496.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FT1V101AP?qs=CMJjuEs1%252BuEsbOqam%2FkTqg%3D%3D"
-				(at 8.89 -596.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Panasonic"
-				(at 8.89 -696.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "EEE-FT1V101AP"
-				(at 8.89 -796.19 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "EEE-FT1V101AP_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.064 1.778) (xy 4.064 0.762)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.572 1.27) (xy 3.556 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 2.54)
-					(end 5.842 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "EEE-TP1K391V:EEE-TP1K391V"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2570,6 +2163,221 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "EEH-ZL1E151P:EEH-ZL1E151P"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "EEH-ZL1E151P"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "EEEHP1H4R7P"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-303928.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Series/Type: ZL (High temp. reflow), Rated voltage (V): 25, Capacitance (F): 150, Leakage current (max.) (A): 37.5, Category temperature range (C): -55 to +135, Body diameter (mm): 6.3, Body length (mm): 5.8, Rated ripple current-1 (mA): 1500, E.S.R.-1 (max. value) (m): 38, Endurance (h): 2000"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Panasonic"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "EEH-ZL1E151P"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "EEH-ZL1E151P_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.064 1.778) (xy 4.064 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 1.27) (xy 3.556 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 2.54)
+					(end 5.842 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "KAM32LR72A475KU:KAM32LR72A475KU"
 			(pin_names
 				(hide yes)
@@ -2752,6 +2560,192 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MCP1792T-3302H_DB:MCP1792T-3302H_DB"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC2"
+				(at 15.24 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MCP1792T-3302H_DB"
+				(at 15.24 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SOT230P700X180-4N"
+				(at 26.67 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.de/datasheet/2/268/MCP1792-Family-Data-Sheet-DS20006229C-1840172.pdf"
+				(at 26.67 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "LDO Voltage Regulators High input voltage regulator 3.3V 3Ld SOT-223 TR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.8"
+				(at 26.67 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "579-MCP1792T-3302HDB"
+				(at 26.67 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1792T-3302H-DB?qs=mAH9sUMRCtvBzBqedLa7iA%3D%3D"
+				(at 26.67 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Microchip"
+				(at 26.67 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "MCP1792T-3302H/DB"
+				(at 26.67 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "MCP1792T-3302H_DB_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 25.4 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "GND_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "GND_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5554,248 +5548,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TPS70933DRVR:TPS70933DRVR"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "IC"
-				(at 26.67 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "TPS70933DRVR"
-				(at 26.67 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SON65P200X200X80-7N"
-				(at 26.67 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.ti.com/lit/gpn/tps709"
-				(at 26.67 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "0.8"
-				(at 26.67 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "595-TPS70933DRVR"
-				(at 26.67 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS70933DRVR?qs=R0RaSr%2FznUQFEcQCz0C0iw%3D%3D"
-				(at 26.67 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Texas Instruments"
-				(at 26.67 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "TPS70933DRVR"
-				(at 26.67 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "TPS70933DRVR_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 25.4 -17.78)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "NC_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "GND_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 -22.86 90)
-					(length 5.08)
-					(name "GND_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 30.48 0 180)
-					(length 5.08)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 30.48 -2.54 180)
-					(length 5.08)
-					(name "NC_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 30.48 -5.08 180)
-					(length 5.08)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "TSW-105-07-G-S:TSW-105-07-G-S"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6765,6 +6517,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+24V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+24V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+24V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+24V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+24V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -7241,6 +7118,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(rectangle
 		(start 26.035 302.26)
@@ -7684,7 +7662,7 @@
 		)
 		(uuid "6b60638a-37fa-4170-99d7-6d62f45c0d0b")
 	)
-	(text "35V"
+	(text "25V"
 		(exclude_from_sim no)
 		(at 479.806 136.144 0)
 		(effects
@@ -7761,9 +7739,9 @@
 		)
 		(uuid "875f4c8c-b5e6-4a0a-bb5f-3701205c3288")
 	)
-	(text "100V"
+	(text "80V"
 		(exclude_from_sim no)
-		(at 199.644 262.636 0)
+		(at 196.342 266.192 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8158,6 +8136,12 @@
 		(uuid "56961e3f-a748-4a76-80b6-30045932a3c5")
 	)
 	(junction
+		(at 468.63 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57cb80da-ed72-44aa-8fea-f631fb354208")
+	)
+	(junction
 		(at 241.3 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8326,6 +8310,12 @@
 		(uuid "b048c4e8-83ce-4d5c-b678-b159eab48dfc")
 	)
 	(junction
+		(at 320.04 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b18e041c-8cbc-49f2-a6c7-53f262be4ad0")
+	)
+	(junction
 		(at 364.49 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8446,6 +8436,12 @@
 		(uuid "eb59d48b-898f-4f34-a6ab-525dbfd4b05a")
 	)
 	(junction
+		(at 83.82 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecd15414-da8a-4047-bcf2-808771964108")
+	)
+	(junction
 		(at 274.32 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8470,18 +8466,6 @@
 	(no_connect
 		(at 458.47 181.61)
 		(uuid "29f6fbeb-802b-4a67-a92d-da64f08c2958")
-	)
-	(no_connect
-		(at 387.35 262.89)
-		(uuid "3203ed3d-e1d9-49c2-b950-c384be0a020c")
-	)
-	(no_connect
-		(at 356.87 260.35)
-		(uuid "469f9eda-b018-4d0b-8078-d94b2e58d7ca")
-	)
-	(no_connect
-		(at 387.35 260.35)
-		(uuid "a4d0246c-8524-4553-b64c-d242056b7cc1")
 	)
 	(no_connect
 		(at 530.86 63.5)
@@ -8715,16 +8699,6 @@
 	)
 	(wire
 		(pts
-			(xy 354.33 262.89) (xy 354.33 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0db16be6-fe76-41d7-ae4d-9017e33875f8")
-	)
-	(wire
-		(pts
 			(xy 240.03 121.92) (xy 254 121.92)
 		)
 		(stroke
@@ -8795,6 +8769,16 @@
 	)
 	(wire
 		(pts
+			(xy 320.04 181.61) (xy 320.04 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157691df-bba4-4a03-84a4-a4f101b591d9")
+	)
+	(wire
+		(pts
 			(xy 397.51 102.87) (xy 402.59 102.87)
 		)
 		(stroke
@@ -8822,16 +8806,6 @@
 			(type default)
 		)
 		(uuid "16accc65-7fb7-4e2f-b5a9-2547ba00f1d0")
-	)
-	(wire
-		(pts
-			(xy 356.87 262.89) (xy 354.33 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "173a6037-ec81-4874-81da-75ebe504d593")
 	)
 	(wire
 		(pts
@@ -9035,7 +9009,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 67.31) (xy 102.87 67.31)
+			(xy 71.12 67.31) (xy 83.82 67.31)
 		)
 		(stroke
 			(width 0)
@@ -9082,6 +9056,16 @@
 			(type default)
 		)
 		(uuid "282ca0e2-71ca-491d-ad8a-38c3113c254f")
+	)
+	(wire
+		(pts
+			(xy 320.04 176.53) (xy 320.04 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "284c6071-6bdc-4b2f-9c12-457a6c6574df")
 	)
 	(wire
 		(pts
@@ -9645,6 +9629,16 @@
 	)
 	(wire
 		(pts
+			(xy 468.63 158.75) (xy 478.79 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c8c9b45-8866-46fe-8b0b-ae06d2ba9703")
+	)
+	(wire
+		(pts
 			(xy 102.87 72.39) (xy 107.95 72.39)
 		)
 		(stroke
@@ -9672,26 +9666,6 @@
 			(type default)
 		)
 		(uuid "51988a91-79b6-4fd1-9ba5-225559ff1e92")
-	)
-	(wire
-		(pts
-			(xy 387.35 257.81) (xy 391.16 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "526107a6-0ef3-48b6-8515-0aebf70a0efe")
-	)
-	(wire
-		(pts
-			(xy 356.87 257.81) (xy 353.06 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52d53fbb-1c28-4349-a67d-b35fca757088")
 	)
 	(wire
 		(pts
@@ -9815,6 +9789,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 274.32) (xy 356.87 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a5f360a-5704-4a9f-a03a-0ff66530b6bc")
+	)
+	(wire
+		(pts
 			(xy 102.87 69.85) (xy 107.95 69.85)
 		)
 		(stroke
@@ -9822,6 +9806,16 @@
 			(type default)
 		)
 		(uuid "5c9191c7-46c4-4e82-a12f-11706aaa4956")
+	)
+	(wire
+		(pts
+			(xy 356.87 274.32) (xy 356.87 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d5d8eb2-7aec-46c2-ba5f-ba24abe13309")
 	)
 	(wire
 		(pts
@@ -9842,6 +9836,16 @@
 			(type default)
 		)
 		(uuid "5da3f1fa-0a02-4a91-8f05-fe71fc7472e7")
+	)
+	(wire
+		(pts
+			(xy 356.87 264.16) (xy 356.87 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e8f6835-4090-4e25-ac24-fb6d1c9d3ed8")
 	)
 	(wire
 		(pts
@@ -10515,16 +10519,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 257.81) (xy 353.06 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8afa6330-694f-46f6-b78f-b84139ba753b")
-	)
-	(wire
-		(pts
 			(xy 274.32 77.47) (xy 274.32 74.93)
 		)
 		(stroke
@@ -10612,6 +10606,16 @@
 			(type default)
 		)
 		(uuid "90e93a74-bcc0-40c3-87dd-c92ef0c12c6f")
+	)
+	(wire
+		(pts
+			(xy 391.16 264.16) (xy 394.97 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93c49126-b1ac-49fd-8682-119e070df039")
 	)
 	(wire
 		(pts
@@ -10725,6 +10729,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 264.16) (xy 356.87 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a6a63a1-da07-4f11-9b99-209aee8d44a0")
+	)
+	(wire
+		(pts
 			(xy 177.8 243.84) (xy 177.8 246.38)
 		)
 		(stroke
@@ -10752,6 +10766,16 @@
 			(type default)
 		)
 		(uuid "9c458a03-e3ad-4ccd-b7cc-18da4b301d61")
+	)
+	(wire
+		(pts
+			(xy 350.52 266.7) (xy 350.52 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca04d82-020e-472e-88f9-7240c083a4b0")
 	)
 	(wire
 		(pts
@@ -10855,7 +10879,7 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 158.75) (xy 469.9 158.75)
+			(xy 461.01 158.75) (xy 468.63 158.75)
 		)
 		(stroke
 			(width 0)
@@ -10885,16 +10909,6 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 280.67) (xy 372.11 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac073428-6646-4114-9e50-57d262eed395")
-	)
-	(wire
-		(pts
 			(xy 190.5 265.43) (xy 190.5 280.67)
 		)
 		(stroke
@@ -10912,6 +10926,16 @@
 			(type default)
 		)
 		(uuid "ace7cf3a-162a-47b6-b52c-86fca11794c6")
+	)
+	(wire
+		(pts
+			(xy 83.82 63.5) (xy 83.82 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af2774ef-4238-43b0-9451-1003c4002d44")
 	)
 	(wire
 		(pts
@@ -11022,6 +11046,16 @@
 			(type default)
 		)
 		(uuid "baf0a2c9-3ae0-422f-8b4e-917e73528a08")
+	)
+	(wire
+		(pts
+			(xy 394.97 264.16) (xy 394.97 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb3c6bcd-1089-4243-b997-b2da69f78194")
 	)
 	(wire
 		(pts
@@ -11385,6 +11419,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 266.7) (xy 350.52 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db18a7b5-0c44-43c3-bca0-1f7f5a01317b")
+	)
+	(wire
+		(pts
 			(xy 274.32 80.01) (xy 274.32 77.47)
 		)
 		(stroke
@@ -11515,7 +11559,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 158.75) (xy 469.9 156.21)
+			(xy 478.79 158.75) (xy 478.79 157.48)
 		)
 		(stroke
 			(width 0)
@@ -11565,16 +11609,6 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 257.81) (xy 391.16 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eeb3edb2-7001-4acc-bc41-3e498b58a979")
-	)
-	(wire
-		(pts
 			(xy 278.13 274.32) (xy 278.13 276.86)
 		)
 		(stroke
@@ -11585,6 +11619,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 269.24) (xy 360.68 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef7536f5-72dd-44c6-b387-4c49486f2f03")
+	)
+	(wire
+		(pts
 			(xy 30.48 233.68) (xy 38.1 233.68)
 		)
 		(stroke
@@ -11592,6 +11636,16 @@
 			(type default)
 		)
 		(uuid "f05d165c-f6e5-4b3e-a96c-04f316ecb0d8")
+	)
+	(wire
+		(pts
+			(xy 83.82 67.31) (xy 102.87 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1448dbb-a2f5-4746-b1f0-3a385997be0d")
 	)
 	(wire
 		(pts
@@ -11662,16 +11716,6 @@
 			(type default)
 		)
 		(uuid "f612d84d-85b6-48f5-8ba1-8eecba1c33ae")
-	)
-	(wire
-		(pts
-			(xy 320.04 176.53) (xy 320.04 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6364b33-5418-4375-9f73-169aeb06818d")
 	)
 	(wire
 		(pts
@@ -13338,72 +13382,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+48V")
-		(at 71.12 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0c7cbe46-cabb-4932-80ab-4b276ebfd64e")
-		(property "Reference" "#PWR01"
-			(at 71.12 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VIN"
-			(at 71.12 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+48V\""
-			(at 71.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e840c12c-342f-4ac0-9189-7fa7b1bd461b")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 100.33 265.43 0)
 		(unit 1)
@@ -13662,72 +13640,6 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR094")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 372.11 284.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "138b6562-ddae-4790-8e02-86263e2a250e")
-		(property "Reference" "#PWR041"
-			(at 372.11 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 372.11 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 372.11 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 372.11 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 372.11 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "085bad62-26e2-4e28-9bb7-27234500c601")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -13994,6 +13906,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 356.87 273.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16cbe090-f8bc-4960-8ae7-870aacdc4db1")
+		(property "Reference" "#PWR099"
+			(at 356.87 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 356.87 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 356.87 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 356.87 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9d0abee-e38c-489e-8102-ea54c2a044dd")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BQ25750RRVR:BQ25750RRVR")
 		(at 346.71 140.97 0)
 		(unit 1)
@@ -14214,128 +14192,6 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "IC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EEE-FT1V101AP:EEE-FT1V101AP")
-		(at 486.41 129.54 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ca211c0-90e5-4fb2-b974-969c599c1223")
-		(property "Reference" "C8"
-			(at 490.22 134.6199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100uF"
-			(at 490.22 137.1599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "EEE-FT1V101AP:EEE1AA101SP"
-			(at 390.22 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf"
-			(at 290.22 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Aluminum Electrolytic Capacitors - SMD 100uF 35volts 6.3x5.8mm SMD"
-			(at 486.41 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "7.8"
-			(at 90.22 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "667-EEE-FT1V101AP"
-			(at -9.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FT1V101AP?qs=CMJjuEs1%252BuEsbOqam%2FkTqg%3D%3D"
-			(at -109.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Panasonic"
-			(at -209.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "EEE-FT1V101AP"
-			(at -309.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d71fcd69-7b05-45f0-b4c3-28b763dfae04")
-		)
-		(pin "2"
-			(uuid "82758f28-0259-4646-bdbe-5627ee19a401")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -14586,6 +14442,132 @@
 		)
 	)
 	(symbol
+		(lib_id "MCP1792T-3302H_DB:MCP1792T-3302H_DB")
+		(at 360.68 264.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "225f7ae0-97a1-4aff-ac22-e872e11ac88f")
+		(property "Reference" "IC2"
+			(at 375.92 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCP1792T-3302H_DB"
+			(at 375.92 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MCP1792T-3302H_DB:SOT230P700X180-4N"
+			(at 387.35 359.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/268/MCP1792-Family-Data-Sheet-DS20006229C-1840172.pdf"
+			(at 387.35 459.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "LDO Voltage Regulators High input voltage regulator 3.3V 3Ld SOT-223 TR"
+			(at 360.68 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.8"
+			(at 387.35 659.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "579-MCP1792T-3302HDB"
+			(at 387.35 759.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1792T-3302H-DB?qs=mAH9sUMRCtvBzBqedLa7iA%3D%3D"
+			(at 387.35 859.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Microchip"
+			(at 387.35 959.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MCP1792T-3302H/DB"
+			(at 387.35 1059.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f748bf8-b445-4b9f-994d-f7f2d4bfe72a")
+		)
+		(pin "2"
+			(uuid "32726266-7564-49b9-8f31-b936ceda784c")
+		)
+		(pin "4"
+			(uuid "648d6f85-d15c-4960-903d-6a23ba4bb815")
+		)
+		(pin "3"
+			(uuid "6c85d1d4-ee99-4780-a320-53f0dc6b54a6")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "IC2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 405.13 276.86 0)
 		(unit 1)
@@ -14778,6 +14760,194 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UMJ325AB7475KMHP:UMJ325AB7475KMHP")
+		(at 405.13 261.62 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3221e3e9-564e-40ca-a097-96cbfcfdfe28")
+		(property "Reference" "C16"
+			(at 408.94 266.6999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 408.94 269.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UMJ325AB7475KMHP:CAPC3225X280N"
+			(at 308.94 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=MCJCU32MAB7475KPPA01"
+			(at 208.94 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "4.7 F +/-10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)"
+			(at 405.13 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.8"
+			(at 8.94 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "963-UMJ325AB7475KMHP"
+			(at -91.06 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/UMJ325AB7475KMHP?qs=sBf%2Fb4nBSlehnKp%252BnIaW0Q%3D%3D"
+			(at -191.06 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TAIYO YUDEN"
+			(at -291.06 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UMJ325AB7475KMHP"
+			(at -391.06 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1d3f4ce8-3c59-4a71-ac12-6d232531d882")
+		)
+		(pin "1"
+			(uuid "a7898a88-6171-4388-874b-41fa96b70872")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 356.87 260.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "323573ef-285f-4b29-a476-927de6424048")
+		(property "Reference" "#PWR0100"
+			(at 356.87 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 356.87 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 356.87 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 356.87 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e12b89c6-c168-430a-aa57-eaef1b6817a2")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -15208,6 +15378,72 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 468.63 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3631aefa-cca4-4107-8733-0a97f6770a0b")
+		(property "Reference" "#FLG02"
+			(at 468.63 156.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 468.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 468.63 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 468.63 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 468.63 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80185264-3542-48c3-90d9-33371e4e7950")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -16519,7 +16755,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 469.9 156.21 0)
+		(at 478.79 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16528,7 +16764,7 @@
 		(fields_autoplaced yes)
 		(uuid "49856450-4562-4beb-86af-5b680a47fb9a")
 		(property "Reference" "#PWR012"
-			(at 469.9 160.02 0)
+			(at 478.79 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16537,7 +16773,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 469.9 151.13 0)
+			(at 478.79 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16545,7 +16781,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 469.9 156.21 0)
+			(at 478.79 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16554,7 +16790,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 469.9 156.21 0)
+			(at 478.79 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16563,7 +16799,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 469.9 156.21 0)
+			(at 478.79 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16578,141 +16814,6 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TPS70933DRVR:TPS70933DRVR")
-		(at 356.87 257.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "49d291ab-5aa4-40f1-a600-f98e299a5ca8")
-		(property "Reference" "IC2"
-			(at 372.11 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS70933DRVR"
-			(at 372.11 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TPS70933DRVR:SON65P200X200X80-7N"
-			(at 383.54 352.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/tps709"
-			(at 383.54 452.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection"
-			(at 356.87 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.8"
-			(at 383.54 652.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "595-TPS70933DRVR"
-			(at 383.54 752.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS70933DRVR?qs=R0RaSr%2FznUQFEcQCz0C0iw%3D%3D"
-			(at 383.54 852.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 383.54 952.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TPS70933DRVR"
-			(at 383.54 1052.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "19a8b956-304a-4834-aa11-f39b195753f5")
-		)
-		(pin "1"
-			(uuid "ef6cdaa7-7fe0-495e-ba3e-d5c91159a479")
-		)
-		(pin "2"
-			(uuid "99a219b4-ddcd-4a51-b026-abaaf2e5fb04")
-		)
-		(pin "6"
-			(uuid "1c3abe63-f3b8-4978-b0da-d85a631f503d")
-		)
-		(pin "3"
-			(uuid "1ad65b7f-3cfd-4a8e-8ed3-951073ee07e3")
-		)
-		(pin "5"
-			(uuid "c7354ddc-b38b-45a3-9984-0b0e978cac2e")
-		)
-		(pin "4"
-			(uuid "608f73b5-5d12-49cc-be13-a94fcf1771d3")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "IC2")
 					(unit 1)
 				)
 			)
@@ -17038,7 +17139,7 @@
 		(dnp no)
 		(uuid "5461b0c7-ca2f-4913-8966-443fcdd1d40a")
 		(property "Reference" "C23"
-			(at 198.12 256.794 0)
+			(at 194.31 261.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17046,8 +17147,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "EEE-TP1K391V"
-			(at 193.802 259.588 0)
+		(property "Value" "390uF"
+			(at 194.564 263.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17156,72 +17257,6 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 354.33 267.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "54dc93f6-545a-4a7a-b8a6-cc3e458c9b04")
-		(property "Reference" "#PWR096"
-			(at 354.33 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 354.33 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 354.33 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 354.33 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 354.33 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ca4a9e12-f225-40c5-a4bf-def7b2867839")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -18866,7 +18901,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 320.04 179.07 0)
+		(at 320.04 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18875,7 +18910,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ab61602-4869-4095-ba82-483a222a2132")
 		(property "Reference" "#PWR026"
-			(at 320.04 185.42 0)
+			(at 320.04 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18884,7 +18919,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 320.04 184.15 0)
+			(at 320.04 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18892,7 +18927,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 179.07 0)
+			(at 320.04 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18901,7 +18936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 179.07 0)
+			(at 320.04 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18910,7 +18945,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 320.04 179.07 0)
+			(at 320.04 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19871,6 +19906,128 @@
 		)
 	)
 	(symbol
+		(lib_id "EEH-ZL1E151P:EEH-ZL1E151P")
+		(at 486.41 129.54 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b7f1655-eee1-477f-91be-62d095a88dfd")
+		(property "Reference" "C8"
+			(at 490.22 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "150uF"
+			(at 490.22 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EEEHP1H4R7P"
+			(at 390.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-303928.pdf"
+			(at 290.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Series/Type: ZL (High temp. reflow), Rated voltage (V): 25, Capacitance (F): 150, Leakage current (max.) (A): 37.5, Category temperature range (C): -55 to +135, Body diameter (mm): 6.3, Body length (mm): 5.8, Rated ripple current-1 (mA): 1500, E.S.R.-1 (max. value) (m): 38, Endurance (h): 2000"
+			(at 486.41 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 90.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -9.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -109.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at -209.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEH-ZL1E151P"
+			(at -309.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c3b28b5-d360-4268-a7fc-4a7193b4d87d")
+		)
+		(pin "2"
+			(uuid "a56b8abd-7465-4a99-8356-4acd9bbbda87")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TSW-105-07-G-S:TSW-105-07-G-S")
 		(at 468.63 265.43 0)
 		(unit 1)
@@ -20482,6 +20639,72 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 394.97 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8200beef-5e42-4af4-8653-5910df08e341")
+		(property "Reference" "#PWR098"
+			(at 394.97 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 394.97 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 394.97 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 394.97 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 394.97 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e503ae08-0271-4a71-8324-1356a9927701")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -21702,6 +21925,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+24V")
+		(at 71.12 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d9aa96a-d474-4d3c-aec2-2376db2273d0")
+		(property "Reference" "#PWR037"
+			(at 71.12 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VIN"
+			(at 71.12 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1f98265-4fc5-485d-9714-deffdd6761f7")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 375.92 185.42 0)
 		(unit 1)
@@ -22291,128 +22580,6 @@
 		)
 	)
 	(symbol
-		(lib_id "C2012X7R1H105K125AB:C2012X7R1H105K125AB")
-		(at 405.13 261.62 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac633ec5-07cc-4b07-bebe-a43af68efb77")
-		(property "Reference" "C16"
-			(at 408.94 266.6999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 408.94 269.2399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "C2012X7R1H105K125AB:CAPC2012X145N"
-			(at 308.94 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
-			(at 208.94 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"
-			(at 405.13 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.45"
-			(at 8.94 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "810-C2012X7R1H105K"
-			(at -91.06 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C2012X7R1H105K125AB?qs=NRhsANhppD9AlYlb8kBg7Q%3D%3D"
-			(at -191.06 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TDK"
-			(at -291.06 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C2012X7R1H105K125AB"
-			(at -391.06 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8d4656be-f66b-4af1-b3bf-2dd7bc85e6ad")
-		)
-		(pin "1"
-			(uuid "173c0ceb-bf42-4da6-833f-1490b796310e")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "C16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 257.81 165.1 0)
 		(unit 1)
@@ -22601,17 +22768,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 353.06 255.27 0)
+		(lib_id "power:PWR_FLAG")
+		(at 320.04 179.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b35ff829-e959-4677-8a14-573554fac671")
-		(property "Reference" "#PWR038"
-			(at 353.06 259.08 0)
+		(uuid "b3bba407-0942-418b-9071-247969607098")
+		(property "Reference" "#FLG04"
+			(at 321.945 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22619,16 +22786,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 353.06 250.19 0)
+		(property "Value" "PWR_FLAG"
+			(at 323.85 179.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 353.06 255.27 0)
+			(at 320.04 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22636,8 +22804,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 353.06 255.27 0)
+		(property "Datasheet" "~"
+			(at 320.04 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22645,8 +22813,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 353.06 255.27 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 320.04 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22655,12 +22823,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "8cd76591-a9e6-4f36-871f-31118be0ba5a")
+			(uuid "f22a897c-3ee8-42d5-af21-5c2e127e67fc")
 		)
 		(instances
-			(project "Lithium_Board"
+			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR038")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -22799,6 +22967,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 83.82 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc57e653-d352-4d58-8d1b-678bd3da4c09")
+		(property "Reference" "#FLG01"
+			(at 83.82 61.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 83.82 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 83.82 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7967afbe-8952-47b6-bee6-8bbc3eff19b0")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RT0603BRD0735K2L:RT0603BRD0735K2L")
 		(at 397.51 184.15 90)
 		(unit 1)
@@ -22826,7 +23060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RESC1608X55N"
+		(property "Footprint" "RT0603BRD0735K2L:RESC1608X55N"
 			(at 493.7 170.18 0)
 			(effects
 				(font
@@ -23014,7 +23248,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RESC1608X55N"
+		(property "Footprint" "RT0603BRD07249KL:RESC1608X55N"
 			(at 506.4 170.18 0)
 			(effects
 				(font
@@ -23845,72 +24079,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 391.16 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d8306b04-a58a-4608-94e1-180964308853")
-		(property "Reference" "#PWR037"
-			(at 391.16 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 391.16 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 391.16 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 391.16 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 391.16 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "680fe761-fb5d-4745-b065-12d310921d0e")
-		)
-		(instances
-			(project "Lithium_Board"
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
-					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "XT30PW-M:XT30PW-M")
 		(at 461.01 161.29 270)
 		(unit 1)
@@ -24669,6 +24837,72 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 350.52 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee9f16c9-c1c1-4cb5-9fe8-9423b551b2b8")
+		(property "Reference" "#PWR097"
+			(at 350.52 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 350.52 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 350.52 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb7534bf-8f3f-4650-b4d7-d0c8dc5e794c")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547"
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1792T-3302H_DB
+D LDO Voltage Regulators High input voltage regulator 3.3V 3Ld SOT-223 TR
+K
+F https://www.mouser.de/datasheet/2/268/MCP1792-Family-Data-Sheet-DS20006229C-1840172.pdf
+$ENDCMP
+#
+#End Doc Library

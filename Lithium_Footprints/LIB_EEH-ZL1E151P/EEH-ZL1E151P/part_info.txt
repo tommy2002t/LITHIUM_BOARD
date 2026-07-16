@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEH-ZL1E151P
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=3.4
+Released=2024-03-15 09:51:38
+Downloaded=2026-07-16 13:22:29
+3D=Y
