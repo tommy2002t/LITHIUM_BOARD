@@ -3880,7 +3880,7 @@
 		(descr "D")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C8"
-			(at 0 0.2875 270)
+			(at 0 0.2875 90)
 			(layer "B.SilkS")
 			(uuid "27151b77-2a26-4a52-9a32-67fd66aa5d01")
 			(effects
@@ -4270,7 +4270,7 @@
 			(uuid "3fce1790-9a05-4419-92f3-d6d604cc4259")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0.2875 270)
+			(at 0 0.2875 90)
 			(layer "B.Fab")
 			(uuid "0e12b412-6014-44ff-ad2a-61b6c0312ad1")
 			(effects
@@ -4300,7 +4300,7 @@
 			(uuid "710356cf-d697-4a7c-b81a-989be8a43090")
 		)
 		(embedded_fonts no)
-		(model "EEH-ZL1E151P.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_EEH-ZL1E151P/EEH-ZL1E151P/3D/EEH-ZL1E151P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16815,7 +16815,7 @@
 			(uuid "aabd53b9-690c-49cd-b7a9-8db7ab422077")
 		)
 		(embedded_fonts no)
-		(model "MCP1792T-3302H_DB.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_MCP1792T-3302H_DB/MCP1792T-3302H_DB/3D/MCP1792T-3302H_DB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28641,7 +28641,7 @@
 			(uuid "380a61f2-f832-40a7-839c-8abae2a62b53")
 		)
 		(embedded_fonts no)
-		(model "EEE-TP1K391V.stp"
+		(model "${KIPRJMOD}/Lithium_Footprints/LIB_EEE-TP1K391V/EEE-TP1K391V/3D/EEE-TP1K391V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
