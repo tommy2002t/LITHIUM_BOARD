@@ -3948,7 +3948,7 @@
 	)
 	(text "0.1W"
 		(exclude_from_sim no)
-		(at 92.964 147.32 0)
+		(at 92.964 160.274 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3992,7 +3992,7 @@
 	)
 	(text "50V"
 		(exclude_from_sim no)
-		(at 119.888 139.7 0)
+		(at 112.522 135.128 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4090,7 +4090,7 @@
 	)
 	(text "50V"
 		(exclude_from_sim no)
-		(at 119.888 155.956 0)
+		(at 120.142 169.164 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4130,6 +4130,12 @@
 		(uuid "6155af17-3b35-4f83-9e93-cd5d287125bc")
 	)
 	(junction
+		(at 106.68 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f393d06-ad59-4546-ba4f-f5bf9a47f566")
+	)
+	(junction
 		(at 114.3 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4140,12 +4146,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b17e2f4-18bb-4b5f-a36a-81d0cf776f9e")
-	)
-	(junction
-		(at 114.3 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "884f79bb-07ec-4c83-afe1-c270e170906f")
 	)
 	(junction
 		(at 114.3 104.14)
@@ -4182,6 +4182,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb128da9-1d74-4bb5-864b-2dca518081be")
+	)
+	(junction
+		(at 114.3 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6e73402-defd-415e-8dce-e22412d7ce50")
 	)
 	(junction
 		(at 113.03 68.58)
@@ -4347,6 +4353,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 144.78) (xy 106.68 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ca831a9-b444-4749-af5f-db395579f4cc")
+	)
+	(wire
+		(pts
 			(xy 328.93 111.76) (xy 342.9 111.76)
 		)
 		(stroke
@@ -4417,7 +4433,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 142.24) (xy 83.82 142.24)
+			(xy 80.01 154.94) (xy 83.82 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4597,7 +4613,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 146.05) (xy 114.3 142.24)
+			(xy 114.3 158.75) (xy 114.3 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4677,7 +4693,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 158.75) (xy 80.01 142.24)
+			(xy 80.01 172.72) (xy 80.01 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4937,6 +4953,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 129.54) (xy 114.3 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9cb96eb-f315-4e9b-a905-cf62d3324f3e")
+	)
+	(wire
+		(pts
 			(xy 132.08 68.58) (xy 132.08 81.28)
 		)
 		(stroke
@@ -4954,6 +4980,16 @@
 			(type default)
 		)
 		(uuid "ac34bc3a-cd7e-423a-8427-e4d3e158527d")
+	)
+	(wire
+		(pts
+			(xy 101.6 154.94) (xy 114.3 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b117646a-4e0c-44cf-91ad-b924751fca9c")
 	)
 	(wire
 		(pts
@@ -5067,7 +5103,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 129.54) (xy 114.3 129.54)
+			(xy 101.6 129.54) (xy 106.68 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5094,6 +5130,16 @@
 			(type default)
 		)
 		(uuid "e35d3f8f-7676-4b39-b8ba-c6f7f3a31704")
+	)
+	(wire
+		(pts
+			(xy 106.68 132.08) (xy 106.68 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3abb380-c913-49d5-97fe-a09ba4093566")
 	)
 	(wire
 		(pts
@@ -5147,17 +5193,17 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 142.24) (xy 114.3 142.24)
+			(xy 114.3 154.94) (xy 114.3 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eb3cf5f8-1ad1-4351-98ac-924c56d1e11d")
+		(uuid "eaeee425-0db6-4b85-ac57-3cefe91a76e2")
 	)
 	(wire
 		(pts
-			(xy 114.3 158.75) (xy 114.3 160.02)
+			(xy 114.3 171.45) (xy 114.3 172.72)
 		)
 		(stroke
 			(width 0)
@@ -5833,7 +5879,7 @@
 	)
 	(symbol
 		(lib_id "C0805C224K5RACTU:C0805C224K5RACTU")
-		(at 114.3 146.05 270)
+		(at 114.3 158.75 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5842,7 +5888,7 @@
 		(fields_autoplaced yes)
 		(uuid "010e0e60-b573-4040-9cec-0ef391264ac8")
 		(property "Reference" "C44"
-			(at 118.11 151.1299 90)
+			(at 118.11 163.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5851,7 +5897,7 @@
 			)
 		)
 		(property "Value" "220nF"
-			(at 118.11 153.6699 90)
+			(at 118.11 166.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5860,7 +5906,7 @@
 			)
 		)
 		(property "Footprint" "C0805C224K5RACTU:C0805"
-			(at 18.11 154.94 0)
+			(at 18.11 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5870,7 +5916,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
-			(at -81.89 154.94 0)
+			(at -81.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5880,7 +5926,7 @@
 			)
 		)
 		(property "Description" "SMD, MLCC, Temperature Stable, Class II"
-			(at 114.3 146.05 0)
+			(at 114.3 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5889,7 +5935,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at -281.89 154.94 0)
+			(at -281.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,7 +5945,7 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0805C224K5R"
-			(at -381.89 154.94 0)
+			(at -381.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5909,7 +5955,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C224K5RACTU?qs=nyGfpDADWE623f9D1NN9mQ%3D%3D"
-			(at -481.89 154.94 0)
+			(at -481.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5919,7 +5965,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at -581.89 154.94 0)
+			(at -581.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5929,7 +5975,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C224K5RACTU"
-			(at -681.89 154.94 0)
+			(at -681.89 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6021,7 +6067,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 114.3 160.02 0)
+		(at 114.3 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6030,7 +6076,7 @@
 		(fields_autoplaced yes)
 		(uuid "06f5b84d-b6c8-4285-ba17-4cfc3319f868")
 		(property "Reference" "#PWR087"
-			(at 114.3 166.37 0)
+			(at 114.3 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6039,7 +6085,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 165.1 0)
+			(at 114.3 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6047,7 +6093,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 160.02 0)
+			(at 114.3 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6056,7 +6102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 160.02 0)
+			(at 114.3 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6065,7 +6111,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 114.3 160.02 0)
+			(at 114.3 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6582,7 +6628,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 158.75 0)
+		(at 80.01 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6591,7 +6637,7 @@
 		(fields_autoplaced yes)
 		(uuid "39749879-023a-4861-b9b7-bcef8203e59f")
 		(property "Reference" "#PWR086"
-			(at 80.01 165.1 0)
+			(at 80.01 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,7 +6646,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 163.83 0)
+			(at 80.01 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6608,7 +6654,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 158.75 0)
+			(at 80.01 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6617,7 +6663,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 158.75 0)
+			(at 80.01 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6626,7 +6672,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 158.75 0)
+			(at 80.01 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9775,6 +9821,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 106.68 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e30ae1c8-bb2e-46be-a82b-3d67a8397093")
+		(property "Reference" "#PWR041"
+			(at 106.68 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "472a52a9-fb42-4699-802f-e49bde33bc38")
+		)
+		(instances
+			(project "Lithium_Board"
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/c4a855d5-ac6f-48c0-9386-1c7b76fc99f3"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 31.75 218.44 0)
 		(unit 1)
@@ -9963,7 +10075,7 @@
 	)
 	(symbol
 		(lib_id "C0805C224K5RACTU:C0805C224K5RACTU")
-		(at 114.3 129.54 270)
+		(at 106.68 132.08 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9972,7 +10084,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee967040-6998-41e9-8d43-6b4051175eb5")
 		(property "Reference" "C43"
-			(at 118.11 134.6199 90)
+			(at 110.49 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9981,7 +10093,7 @@
 			)
 		)
 		(property "Value" "220nF"
-			(at 118.11 137.1599 90)
+			(at 110.49 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9990,7 +10102,7 @@
 			)
 		)
 		(property "Footprint" "C0805C224K5RACTU:C0805"
-			(at 18.11 138.43 0)
+			(at 10.49 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10000,7 +10112,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
-			(at -81.89 138.43 0)
+			(at -89.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10010,7 +10122,7 @@
 			)
 		)
 		(property "Description" "SMD, MLCC, Temperature Stable, Class II"
-			(at 114.3 129.54 0)
+			(at 106.68 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10019,7 +10131,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at -281.89 138.43 0)
+			(at -289.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10029,7 +10141,7 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0805C224K5R"
-			(at -381.89 138.43 0)
+			(at -389.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10039,7 +10151,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C224K5RACTU?qs=nyGfpDADWE623f9D1NN9mQ%3D%3D"
-			(at -481.89 138.43 0)
+			(at -489.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10049,7 +10161,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at -581.89 138.43 0)
+			(at -589.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10059,7 +10171,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C224K5RACTU"
-			(at -681.89 138.43 0)
+			(at -689.51 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10085,7 +10197,7 @@
 	)
 	(symbol
 		(lib_id "RC0603FR-07100RL:RC0603FR-07100RL")
-		(at 83.82 142.24 0)
+		(at 83.82 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10093,7 +10205,7 @@
 		(dnp no)
 		(uuid "f57bc3e7-9185-4c36-94ce-4f2b294f4741")
 		(property "Reference" "R50"
-			(at 92.71 139.7 0)
+			(at 92.71 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10101,7 +10213,7 @@
 			)
 		)
 		(property "Value" "100Ω"
-			(at 92.964 145.288 0)
+			(at 92.964 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10109,7 +10221,7 @@
 			)
 		)
 		(property "Footprint" "RC0603FR-07100RL:RESC1608X55N"
-			(at 97.79 238.43 0)
+			(at 97.79 251.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10119,7 +10231,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"
-			(at 97.79 338.43 0)
+			(at 97.79 351.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +10241,7 @@
 			)
 		)
 		(property "Description" "Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 100"
-			(at 83.82 142.24 0)
+			(at 83.82 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10138,7 +10250,7 @@
 			)
 		)
 		(property "Height" "0.55"
-			(at 97.79 538.43 0)
+			(at 97.79 551.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10148,7 +10260,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RC0603FR-07100RL"
-			(at 97.79 638.43 0)
+			(at 97.79 651.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10158,7 +10270,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D"
-			(at 97.79 738.43 0)
+			(at 97.79 751.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10168,7 +10280,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at 97.79 838.43 0)
+			(at 97.79 851.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10178,7 +10290,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0603FR-07100RL"
-			(at 97.79 938.43 0)
+			(at 97.79 951.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
