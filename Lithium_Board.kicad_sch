@@ -19933,7 +19933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEEHP1H4R7P"
+		(property "Footprint" "EEH-ZL1E151P:EEEHP1H4R7P"
 			(at 390.22 138.43 0)
 			(effects
 				(font

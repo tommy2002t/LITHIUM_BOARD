@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCAN3414DDFR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=1.2
+Released=2025-10-18 18:08:03
+Downloaded=2026-07-23 11:46:12
+3D=Y

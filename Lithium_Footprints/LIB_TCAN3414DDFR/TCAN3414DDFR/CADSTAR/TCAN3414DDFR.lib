@@ -1,0 +1,16 @@
+.TCAN3414DDFR :1 ;3.3-V CAN FD transceiver with shut-down and standby mode
+INA190A2NDDFREP
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="SHDN,VIO" 6="CANL" 7="CANH" 8="STB"
+*MXP 8
+*DFN TCAN3414DDFR
+~!Mouser Part Number (595-TCAN3414DDFR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DDFR?qs=HFfMDpzxxd0evFbsNioEhQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAN3414DDFR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1760693830555&ref_url=https%253A%252F%252Fwww.mouser.pl%252F)
+~!Height (1.1mm)
+~!3D_Model (TCAN3414DDFR)
+TCAN3414DDFR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

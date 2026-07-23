@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32G0B1CET6N'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32G0B1CET6N" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "511-STM32G0B1CET6N", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G0B1CET6N?qs=CiayqK2gdcK2xI5l7E1NcQ%3D%3D", "Mainstream Arm Cortex-M0+ 32-bit MCU, up to 512KB Flash, 144KB RAM, 6x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V", "https://www.st.com/resource/en/datasheet/stm32g0b1cc.pdf", "1.6 mm"
+END_PART
+
+END.

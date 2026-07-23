@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN3414DDFR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN3414DDFR" (!) = "", "INA190A2NDDFREP", "Other", "595-TCAN3414DDFR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DDFR?qs=HFfMDpzxxd0evFbsNioEhQ%3D%3D", "3.3-V CAN FD transceiver with shut-down and standby mode", "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1760693830555&ref_url=https%253A%252F%252Fwww.mouser.pl%252F", "1.1 mm"
+END_PART
+
+END.

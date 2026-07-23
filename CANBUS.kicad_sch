@@ -385,176 +385,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CDSOT23-T24CAN:CDSOT23-T24CAN"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 19.05 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "CDSOT23-T24CAN"
-				(at 19.05 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT95P230X117-3N"
-				(at 19.05 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-T24CAN.pdf"
-				(at 19.05 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Bourns CDSOT23-T24CAN, Dual Bi-Directional ESD Protection Diode, 3-Pin SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.17"
-				(at 19.05 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "652-CDSOT23-T24CAN"
-				(at 19.05 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOT23-T24CAN?qs=Z7P4xsdcg2LuAOb%2FzQ7xoQ%3D%3D"
-				(at 19.05 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Bourns"
-				(at 19.05 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "CDSOT23-T24CAN"
-				(at 19.05 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "CDSOT23-T24CAN_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 17.78 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "K1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "K2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 0 180)
-					(length 5.08)
-					(name "K3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "ERJ-2RKF60R4X:ERJ-2RKF60R4X"
 			(pin_names
 				(hide yes)
@@ -700,6 +530,176 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "ESDCAN24-2BLY:ESDCAN24-2BLY"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 26.67 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "ESDCAN24-2BLY"
+				(at 26.67 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOT95P255X125-3N"
+				(at 26.67 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.st.com/resource/en/datasheet/esdcan01-2bly.pdf"
+				(at 26.67 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "TVS Diode Array Bi-Directional ESDCAN24-2BLY Dual 40V, 230W, SOT23-3L 3-Pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.25"
+				(at 26.67 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "511-ESDCAN24-2BLY"
+				(at 26.67 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDCAN24-2BLY?qs=gNDSiZmRJS9IbRDJThIoAw%3D%3D"
+				(at 26.67 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "STMicroelectronics"
+				(at 26.67 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ESDCAN24-2BLY"
+				(at 26.67 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ESDCAN24-2BLY_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 25.4 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "I/O_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "I/O_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "I/O_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1455,7 +1455,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TCAN3414DR:TCAN3414DR"
+		(symbol "TCAN3414DDFR:TCAN3414DDFR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1468,7 +1468,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "TCAN3414DR"
+			(property "Value" "TCAN3414DDFR"
 				(at 29.21 5.08 0)
 				(effects
 					(font
@@ -1477,7 +1477,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SOIC127P600X175-8N"
+			(property "Footprint" "INA190A2NDDFREP"
 				(at 29.21 -94.92 0)
 				(effects
 					(font
@@ -1487,7 +1487,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1713723144569&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1760693830555&ref_url=https%253A%252F%252Fwww.mouser.pl%252F"
 				(at 29.21 -194.92 0)
 				(effects
 					(font
@@ -1506,7 +1506,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "1.75"
+			(property "Height" "1.1"
 				(at 29.21 -394.92 0)
 				(effects
 					(font
@@ -1516,7 +1516,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "595-TCAN3414DR"
+			(property "Mouser Part Number" "595-TCAN3414DDFR"
 				(at 29.21 -494.92 0)
 				(effects
 					(font
@@ -1526,7 +1526,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DR?qs=mELouGlnn3egF2AojRJddw%3D%3D"
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DDFR?qs=HFfMDpzxxd0evFbsNioEhQ%3D%3D"
 				(at 29.21 -594.92 0)
 				(effects
 					(font
@@ -1546,7 +1546,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "TCAN3414DR"
+			(property "Manufacturer_Part_Number" "TCAN3414DDFR"
 				(at 29.21 -794.92 0)
 				(effects
 					(font
@@ -1556,7 +1556,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "TCAN3414DR_1_1"
+			(symbol "TCAN3414DDFR_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 27.94 -10.16)
@@ -1943,12 +1943,6 @@
 		)
 	)
 	(junction
-		(at 223.52 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0239c0b4-6255-4f5e-a5db-6090d93e0499")
-	)
-	(junction
 		(at 161.29 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1959,6 +1953,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "199fc591-3676-4603-8aae-22cd2700fad3")
+	)
+	(junction
+		(at 223.52 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41ed9f52-d131-4396-9fd2-d0e735b056fa")
 	)
 	(junction
 		(at 71.12 80.01)
@@ -1979,6 +1979,12 @@
 		(uuid "8383022e-12a3-4351-878b-18b528c73e77")
 	)
 	(junction
+		(at 223.52 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "899724ed-08b3-4746-90e1-975694b25bfe")
+	)
+	(junction
 		(at 116.84 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1988,13 +1994,7 @@
 		(at 193.04 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dbbd02d0-c6fd-4fe9-84be-8b06a75e5f1d")
-	)
-	(junction
-		(at 223.52 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e72ba98b-7207-4b53-8072-f83e5a572fb4")
+		(uuid "d57fbca3-9a9f-4ded-83bf-c2edfd921b2c")
 	)
 	(no_connect
 		(at 265.43 72.39)
@@ -2176,16 +2176,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 72.39) (xy 223.52 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6862ec28-0c1d-4727-a961-64585a51f979")
-	)
-	(wire
-		(pts
 			(xy 78.74 74.93) (xy 78.74 81.28)
 		)
 		(stroke
@@ -2316,16 +2306,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 69.85) (xy 223.52 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad3316b0-d8a8-4565-8a81-965aabc15ec7")
-	)
-	(wire
-		(pts
 			(xy 116.84 74.93) (xy 116.84 77.47)
 		)
 		(stroke
@@ -2444,16 +2424,6 @@
 		)
 		(uuid "fbc22aaa-4db9-4f8a-94c7-0c79d51cfa74")
 	)
-	(wire
-		(pts
-			(xy 193.04 72.39) (xy 194.31 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fee3e848-e3bc-4a0e-8334-922f43c3ef89")
-	)
 	(label "CAN_N"
 		(at 229.87 72.39 0)
 		(effects
@@ -2557,143 +2527,6 @@
 				)
 				(justify left)
 				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TCAN3414DR:TCAN3414DR")
-		(at 78.74 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "029ae756-a7eb-432a-b8a5-7d771f714400")
-		(property "Reference" "IC5"
-			(at 100.584 59.944 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TCAN3414DR"
-			(at 100.584 62.484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TCAN3414DR:SOIC127P600X175-8N"
-			(at 107.95 162.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1713723144569&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"
-			(at 107.95 262.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.3-V CAN FD transceiver with shut-down and standby mode"
-			(at 78.74 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.75"
-			(at 107.95 462.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "595-TCAN3414DR"
-			(at 107.95 562.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DR?qs=mELouGlnn3egF2AojRJddw%3D%3D"
-			(at 107.95 662.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 107.95 762.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TCAN3414DR"
-			(at 107.95 862.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "5c8cad60-9b77-47d7-8d09-ce24a522a36b")
-		)
-		(pin "4"
-			(uuid "7f80d90b-4cef-46c7-818e-7bb24e45df92")
-		)
-		(pin "5"
-			(uuid "f8c2efe7-246d-4651-bdf7-9ffe09b6fa12")
-		)
-		(pin "6"
-			(uuid "ab104896-9f63-4dd3-8053-22db2d4eea96")
-		)
-		(pin "1"
-			(uuid "51751c3a-3c3d-4406-8d66-894f91974ded")
-		)
-		(pin "2"
-			(uuid "8432f044-d57f-4a63-8e2d-b3c4b477720e")
-		)
-		(pin "3"
-			(uuid "d8b7bd94-6459-48d9-b36e-a5f301eff2e5")
-		)
-		(pin "8"
-			(uuid "2cb51ae2-3243-4960-b748-ffb703768c0c")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
-					(reference "IC5")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3008,6 +2841,143 @@
 			(project "Lithium_Board"
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
 					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCAN3414DDFR:TCAN3414DDFR")
+		(at 78.74 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34c628df-2688-4aa6-987d-4e10f6dd33e9")
+		(property "Reference" "IC3"
+			(at 98.298 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCAN3414DDFR"
+			(at 98.552 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "INA190A2NDDFREP"
+			(at 107.95 162.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1760693830555&ref_url=https%253A%252F%252Fwww.mouser.pl%252F"
+			(at 107.95 262.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.3-V CAN FD transceiver with shut-down and standby mode"
+			(at 78.74 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 107.95 462.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-TCAN3414DDFR"
+			(at 107.95 562.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DDFR?qs=HFfMDpzxxd0evFbsNioEhQ%3D%3D"
+			(at 107.95 662.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 107.95 762.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TCAN3414DDFR"
+			(at 107.95 862.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5865a589-571b-4fd3-920d-f7e956a02cf2")
+		)
+		(pin "2"
+			(uuid "89aafa90-ed1a-4fd9-9188-2f6d602ef764")
+		)
+		(pin "3"
+			(uuid "43f37140-e947-4cf2-8bb2-d96a5e558908")
+		)
+		(pin "4"
+			(uuid "0af7fdd2-2f3f-44da-bd94-8f03682f518f")
+		)
+		(pin "8"
+			(uuid "26b80c7e-5a24-483d-b010-ffefc7d0ba16")
+		)
+		(pin "7"
+			(uuid "57e79c6d-6318-4316-a85e-66851f8d52b1")
+		)
+		(pin "6"
+			(uuid "7fdf7dbd-f1a0-4eb5-9ea4-64110bb62204")
+		)
+		(pin "5"
+			(uuid "15b304b4-db88-4389-bc74-a462c6ff1474")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
+					(reference "IC3")
 					(unit 1)
 				)
 			)
@@ -3572,129 +3542,6 @@
 		)
 	)
 	(symbol
-		(lib_id "CDSOT23-T24CAN:CDSOT23-T24CAN")
-		(at 217.17 72.39 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a76160c-d1d1-4461-8aa5-28e8f446ed04")
-		(property "Reference" "D1"
-			(at 205.74 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "CDSOT23-T24CAN"
-			(at 205.74 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "CDSOT23-T24CAN:SOT95P230X117-3N"
-			(at 198.12 -22.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-T24CAN.pdf"
-			(at 198.12 -122.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Bourns CDSOT23-T24CAN, Dual Bi-Directional ESD Protection Diode, 3-Pin SOT-23"
-			(at 217.17 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.17"
-			(at 198.12 -322.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-CDSOT23-T24CAN"
-			(at 198.12 -422.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOT23-T24CAN?qs=Z7P4xsdcg2LuAOb%2FzQ7xoQ%3D%3D"
-			(at 198.12 -522.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 198.12 -622.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "CDSOT23-T24CAN"
-			(at 198.12 -722.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cdf601b8-bb04-4d49-9d44-7d44bd7de7eb")
-		)
-		(pin "1"
-			(uuid "1c971874-b9b3-4d9c-8796-bad88e8f4fd3")
-		)
-		(pin "3"
-			(uuid "1bde88bc-528e-4bf9-865b-21ca442bb215")
-		)
-		(instances
-			(project ""
-				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 57.15 76.2 0)
 		(unit 1)
@@ -4130,6 +3977,129 @@
 			(project ""
 				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ESDCAN24-2BLY:ESDCAN24-2BLY")
+		(at 223.52 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d15efab3-42ae-47c3-bc61-8e9a95b0de56")
+		(property "Reference" "D1"
+			(at 208.28 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ESDCAN24-2BLY"
+			(at 208.28 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOT95P255X125-3N"
+			(at 196.85 -22.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/esdcan01-2bly.pdf"
+			(at 196.85 -122.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TVS Diode Array Bi-Directional ESDCAN24-2BLY Dual 40V, 230W, SOT23-3L 3-Pin"
+			(at 223.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.25"
+			(at 196.85 -322.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "511-ESDCAN24-2BLY"
+			(at 196.85 -422.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDCAN24-2BLY?qs=gNDSiZmRJS9IbRDJThIoAw%3D%3D"
+			(at 196.85 -522.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "STMicroelectronics"
+			(at 196.85 -622.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESDCAN24-2BLY"
+			(at 196.85 -722.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8e74ff8b-6443-479e-a878-4a63e2e3723a")
+		)
+		(pin "1"
+			(uuid "8d43bbd8-67c0-40ed-8b46-5e1f11abdd08")
+		)
+		(pin "3"
+			(uuid "ca9cf250-47e1-4046-9bc9-1103d7b85aac")
+		)
+		(instances
+			(project ""
+				(path "/a208389b-7ee7-48d8-95f2-b3e129849547/b9fdd8df-4b45-42b1-84e6-4aad11123e49"
+					(reference "D1")
 					(unit 1)
 				)
 			)

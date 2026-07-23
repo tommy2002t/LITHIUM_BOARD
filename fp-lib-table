@@ -63,4 +63,7 @@
   (lib (name "VT1206BRD071ML")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_VT1206BRD071ML/VT1206BRD071ML/KiCad/VT1206BRD071ML.pretty")(options "")(descr ""))
   (lib (name "XT30PW-F")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-F/XT30PW-F/KiCad/XT30PW-F.pretty")(options "")(descr ""))
   (lib (name "XT30PW-M")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_XT30PW-M/XT30PW-M/KiCad/XT30PW-M.pretty")(options "")(descr ""))
+  (lib (name "ESDCAN24-2BLY")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_ESDCAN24-2BLY/ESDCAN24-2BLY/KiCad/ESDCAN24-2BLY.pretty")(options "")(descr ""))
+  (lib (name "STM32G0B1CET6N")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_STM32G0B1CET6N/STM32G0B1CET6N/KiCad/STM32G0B1CET6N.pretty")(options "")(descr ""))
+  (lib (name "TCAN3414DDFR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TCAN3414DDFR/TCAN3414DDFR/KiCad/TCAN3414DDFR.pretty")(options "")(descr ""))
 )

@@ -68,4 +68,7 @@
   (lib (name "TPS70933DRVR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TPS70933DRVR/TPS70933DRVR/KiCad/TPS70933DRVR.kicad_sym")(options "")(descr ""))
   (lib (name "EEE-TP1K391V")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_EEE-TP1K391V/EEE-TP1K391V/KiCad/EEE-TP1K391V.kicad_sym")(options "")(descr ""))
   (lib (name "MCP1792T-3302H_DB")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_MCP1792T-3302H_DB/MCP1792T-3302H_DB/KiCad/MCP1792T-3302H_DB.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G0B1CET6N")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_STM32G0B1CET6N/STM32G0B1CET6N/KiCad/STM32G0B1CET6N.kicad_sym")(options "")(descr ""))
+  (lib (name "ESDCAN24-2BLY")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_ESDCAN24-2BLY/ESDCAN24-2BLY/KiCad/ESDCAN24-2BLY.kicad_sym")(options "")(descr ""))
+  (lib (name "TCAN3414DDFR")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Footprints/LIB_TCAN3414DDFR/TCAN3414DDFR/KiCad/TCAN3414DDFR.kicad_sym")(options "")(descr ""))
 )

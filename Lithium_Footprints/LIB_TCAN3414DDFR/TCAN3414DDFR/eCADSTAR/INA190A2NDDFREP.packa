@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCAN3414DDFR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-15-13:50:36)
+    (mountForm default
+        (footprintRef "INA190A2NDDFREP")
+        (spec "System")
+    )
+)

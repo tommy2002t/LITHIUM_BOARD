@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32G0B1CET6N
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=5.1
+Released=2022-02-20 07:02:52
+Downloaded=2026-07-23 11:59:21
+3D=Y

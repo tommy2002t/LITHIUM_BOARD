@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TCAN3414DDFR"
+   (description "3.3-V CAN FD transceiver with shut-down and standby mode")
+   (family "ANA")
+   (package "INA190A2NDDFREP")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tcan3414.pdf?ts=1760693830555&ref_url=https%253A%252F%252Fwww.mouser.pl%252F")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "595-TCAN3414DDFR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN3414DDFR?qs=HFfMDpzxxd0evFbsNioEhQ%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TCAN3414DDFR")
+   (gate
+    (symbol "TCAN3414DDFR")
+    (pin "TXD" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "VCC" 3 PS)
+    (pin "RXD" 4 PS)
+    (pin "SHDNVIO" 5 PS)
+    (pin "CANL" 6 PS)
+    (pin "CANH" 7 PS)
+    (pin "STB" 8 PS)
+   )
+  )
+  (symbol "TCAN3414DDFR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "INA190A2NDDFREP"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 1.45)
+      (pt 0.8 1.45)
+      (pt 0.8 -1.45)
+      (pt -0.8 -1.45)
+      (pt -0.8 1.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.825 2.45)
+      (pt 2.825 2.45)
+      (pt 2.825 -2.45)
+      (pt -2.825 -2.45)
+      (pt -2.825 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 1)
+      (arc (pt -2.200 1.000) (pt -2.300 0.950) (pt -2.200 1.050) (start 180.0) (sweep .0))
+      (pt -2.3 1)
+      (arc (pt -2.300 1.000) (pt -2.300 0.950) (pt -2.200 1.050) (start 180.0) (sweep 180.0))
+      (pt -2.2 1))))
+   (leg 1 (pt -1.300 0.975) (padstack 0))
+   (leg 2 (pt -1.300 0.325) (padstack 0))
+   (leg 3 (pt -1.300 -0.325) (padstack 0))
+   (leg 4 (pt -1.300 -0.975) (padstack 0))
+   (leg 5 (pt 1.300 -0.975) (padstack 0))
+   (leg 6 (pt 1.300 -0.325) (padstack 0))
+   (leg 7 (pt 1.300 0.325) (padstack 0))
+   (leg 8 (pt 1.300 0.975) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.450 1.050 0 0 0.000))
+   )
+   (model "TCAN3414DDFR.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

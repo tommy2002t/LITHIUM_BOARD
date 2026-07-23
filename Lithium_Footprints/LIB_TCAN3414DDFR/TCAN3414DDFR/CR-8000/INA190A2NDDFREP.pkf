@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "INA190A2NDDFREP"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "INA190A2NDDFREP")
+        (spec "default")
+    )
+)

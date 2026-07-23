@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ESDCAN24-2BLY
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=6.1
+Released=2015-06-23 00:00:00
+Downloaded=2026-07-23 11:36:10
+3D=Y
