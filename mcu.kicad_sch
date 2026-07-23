@@ -3306,7 +3306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFP50P900X900X160-48N"
+		(property "Footprint" "STM32G0B1CET6N:QFP50P900X900X160-48N"
 			(at 163.83 141.91 0)
 			(effects
 				(font

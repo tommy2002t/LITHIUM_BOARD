@@ -2333,7 +2333,7 @@
 		(descr "SOT23-3L (Thickness 1.25mm)")
 		(tags "TVS Diode (Bi-directional)")
 		(property "Reference" "D1"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "2c9d3ebb-a2b8-4d7d-a7bb-952c4d9c69ed")
 			(effects
@@ -2590,7 +2590,7 @@
 			(uuid "4ad51dfc-595d-43ba-9a07-b03bb52c074a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "8c90897a-4a33-4465-892a-637fcff86dff")
 			(effects
@@ -14642,7 +14642,7 @@
 		(descr "DDF0008A")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC3"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "dd6c62bf-2ca6-408c-9c48-a34c2336894a")
 			(effects
@@ -14881,7 +14881,7 @@
 			(uuid "113bf2f5-6ec3-4670-bf9e-56c26b020bc1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -0)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "698d3aa1-e59f-48cf-8809-d756519ca75e")
 			(effects
@@ -32428,11 +32428,11 @@
 			)
 		)
 	)
-	(footprint "STM32G0B1CBT6N:QFP50P900X900X160-48N"
+	(footprint "STM32G0B1CET6N:QFP50P900X900X160-48N"
 		(layer "B.Cu")
 		(uuid "3cb67c57-0db9-471a-8c0c-7d3800845f17")
 		(at 143.9 106.509999)
-		(descr "LQFP48 package information (5B)-1")
+		(descr "ANT1204F007R0870A")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC4"
 			(at 0 0 180)
@@ -32490,7 +32490,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6b8bf9c2-e647-4efe-9874-679944d44197")
+			(uuid "2d79cae8-277f-4faf-8e4c-cb1494289c3b")
 			(effects
 				(font
 					(size 1 1)
@@ -32504,7 +32504,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cf325cad-6a04-460f-8732-383e27daaf4f")
+			(uuid "5b24be35-8657-4cc0-8e25-3426933a501a")
 			(effects
 				(font
 					(size 1 1)
@@ -32518,7 +32518,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4b0cc3ea-b855-48b9-8c6a-8fae5971054c")
+			(uuid "0434d24e-160e-4c8f-bffa-bc97072d46ec")
 			(effects
 				(font
 					(size 1 1)
@@ -32532,7 +32532,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "40f58672-0a53-440a-ba2a-449a5300864f")
+			(uuid "d6d8e2e8-85a7-4902-a675-57367061291e")
 			(effects
 				(font
 					(size 1 1)
@@ -32546,7 +32546,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b78aa8e6-88e6-42fe-8203-c2b42afccf35")
+			(uuid "a60a290c-9513-4a1f-a387-f18293c3d642")
 			(effects
 				(font
 					(size 1 1)
@@ -32567,7 +32567,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "71164d9c-717d-4ee5-a264-7a7bfd16e79e")
+			(uuid "6c854b36-6b06-4420-9bed-6694b5cf8fab")
 		)
 		(fp_line
 			(start -3.15 3.15)
@@ -32577,7 +32577,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9ccfd51e-ec04-4bfb-af96-5036cab17116")
+			(uuid "b83218b5-2e68-45d6-92a3-581e2071b550")
 		)
 		(fp_line
 			(start 3.15 -3.15)
@@ -32587,7 +32587,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c76edac8-011d-46e6-8d2e-4e507c617991")
+			(uuid "5147a77c-f7d1-4008-95f9-ae8f7769057e")
 		)
 		(fp_line
 			(start 3.15 3.15)
@@ -32597,7 +32597,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cefc31d5-9ed8-45a3-bcfb-f29d5ef6d6f6")
+			(uuid "dda29dae-f2c2-448a-863a-ab8171d9229b")
 		)
 		(fp_circle
 			(center -4.725 3.5)
@@ -32608,7 +32608,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "04cb3807-f166-4237-8f9a-dd74f6b9d77f")
+			(uuid "7d4d27d0-04c4-4d23-bd70-f1ccabc8f33b")
 		)
 		(fp_line
 			(start -5.225 -5.225)
@@ -32618,7 +32618,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d9c5575e-815e-44a9-bbf5-fb3aa7a92b9a")
+			(uuid "0bfca2ec-578b-42cd-ae6f-c0ba4d08570f")
 		)
 		(fp_line
 			(start -5.225 5.225)
@@ -32628,7 +32628,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a01beed7-f3fa-4c17-97dd-ecc852f75b77")
+			(uuid "c0c6ac70-ee7e-4033-997e-130ecdebedb1")
 		)
 		(fp_line
 			(start 5.225 -5.225)
@@ -32638,7 +32638,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5bc52583-9d18-4aeb-8776-f504aa37ac2a")
+			(uuid "c81b3c1c-2f5e-43bb-b993-b601ecced87e")
 		)
 		(fp_line
 			(start 5.225 5.225)
@@ -32648,7 +32648,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0433162d-5541-4dfe-84a0-a9a2f81c872d")
+			(uuid "540eb841-7942-4d03-a1db-f1f006a6fa3d")
 		)
 		(fp_line
 			(start -3.5 -3.5)
@@ -32658,7 +32658,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6c84ca50-fc03-4bf5-af04-cad92566aae3")
+			(uuid "cb21643e-7087-4f3c-a3b8-7628908d9dea")
 		)
 		(fp_line
 			(start -3.5 3)
@@ -32668,7 +32668,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e70e80cb-d5c5-432c-ac31-8029bd4fa02a")
+			(uuid "eeec55ec-a7b3-4e2b-ab79-4f4092aaec53")
 		)
 		(fp_line
 			(start -3.5 3.5)
@@ -32678,7 +32678,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "94564167-9125-487b-83ba-c0eb4920dd46")
+			(uuid "3a3d2e1e-5ee6-4d46-b2e0-98cd88c0cc3a")
 		)
 		(fp_line
 			(start 3.5 -3.5)
@@ -32688,7 +32688,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2ed346c0-39a0-4d70-afe7-988f292710e9")
+			(uuid "9b8d4f96-4363-4227-9c67-a975232f3222")
 		)
 		(fp_line
 			(start 3.5 3.5)
@@ -32698,7 +32698,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "42094e75-5b0b-4e91-bda8-30bb0a1fd920")
+			(uuid "9916d335-d71f-459c-8984-b92e3b451bb1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
@@ -33145,7 +33145,7 @@
 			(uuid "14a3b2c6-0124-4be3-8161-79ac42f8ea0c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Lithium_Footprints/LIB_STM32G0B1CBT6N/STM32G0B1CBT6N/3D/STM32G0B1CBT6N.stp"
+		(model "STM32G0B1CET6N.stp"
 			(offset
 				(xyz 0 0 0)
 			)
