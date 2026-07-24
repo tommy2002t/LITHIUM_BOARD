@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.6"
     },
-    "CreationDate": "2026-07-23T23:07:07+03:00"
+    "CreationDate": "2026-07-24T12:57:43+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -18,7 +18,7 @@
       "Y": 67.05
     },
     "LayerNumber": 6,
-    "BoardThickness": 1.4724,
+    "BoardThickness": 1.586,
     "Finish": "None"
   },
   "DesignRules": [
@@ -131,80 +131,104 @@
       "Type": "Dielectric",
       "Thickness": 0.107,
       "Material": "FR4",
-      "Name": "F.Cu/In1.Cu (1/2)",
-      "Notes": "Type: dielectric layer 1 - 1/2 (from F.Cu to In1.Cu)"
+      "Name": "F.Cu/In1.Cu (1/3)",
+      "Notes": "Type: dielectric layer 1 - 1/3 (from F.Cu to In1.Cu)"
     },
     {
       "Type": "Dielectric",
       "Color": "R109G116B75",
-      "Thickness": 0.0764,
+      "Thickness": 0.084,
       "Material": "FR4",
-      "Name": "F.Cu/In1.Cu (2/2)",
-      "Notes": "Type: dielectric layer 1 - 2/2 (from F.Cu to In1.Cu)"
+      "Name": "F.Cu/In1.Cu (2/3)",
+      "Notes": "Type: dielectric layer 1 - 2/3 (from F.Cu to In1.Cu)"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.069,
+      "Material": "FR4",
+      "Name": "F.Cu/In1.Cu (3/3)",
+      "Notes": "Type: dielectric layer 1 - 3/3 (from F.Cu to In1.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.03,
       "Name": "In1.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.4,
+      "Thickness": 0.25,
       "Material": "FR4",
       "Name": "In1.Cu/In2.Cu",
       "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.03,
       "Name": "In2.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.0764,
+      "Thickness": 0.069,
       "Material": "FR4",
-      "Name": "In2.Cu/In3.Cu (1/2)",
-      "Notes": "Type: dielectric layer 3 - 1/2 (from In2.Cu to In3.Cu)"
+      "Name": "In2.Cu/In3.Cu (1/3)",
+      "Notes": "Type: dielectric layer 3 - 1/3 (from In2.Cu to In3.Cu)"
     },
     {
       "Type": "Dielectric",
       "Color": "R109G116B75",
-      "Thickness": 0.0764,
+      "Thickness": 0.218,
       "Material": "FR4",
-      "Name": "In2.Cu/In3.Cu (2/2)",
-      "Notes": "Type: dielectric layer 3 - 2/2 (from In2.Cu to In3.Cu)"
+      "Name": "In2.Cu/In3.Cu (2/3)",
+      "Notes": "Type: dielectric layer 3 - 2/3 (from In2.Cu to In3.Cu)"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.069,
+      "Material": "FR4",
+      "Name": "In2.Cu/In3.Cu (3/3)",
+      "Notes": "Type: dielectric layer 3 - 3/3 (from In2.Cu to In3.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.03,
       "Name": "In3.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.4,
+      "Thickness": 0.25,
       "Material": "FR4",
       "Name": "In3.Cu/In4.Cu",
       "Notes": "Type: dielectric layer 4 (from In3.Cu to In4.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.0152,
+      "Thickness": 0.03,
       "Name": "In4.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.0784,
+      "Thickness": 0.069,
       "Material": "FR4",
-      "Name": "In4.Cu/B.Cu (1/2)",
-      "Notes": "Type: dielectric layer 5 - 1/2 (from In4.Cu to B.Cu)"
+      "Name": "In4.Cu/B.Cu (1/3)",
+      "Notes": "Type: dielectric layer 5 - 1/3 (from In4.Cu to B.Cu)"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.084,
+      "Material": "FR4",
+      "Name": "In4.Cu/B.Cu (2/3)",
+      "Notes": "Type: dielectric layer 5 - 2/3 (from In4.Cu to B.Cu)"
     },
     {
       "Type": "Dielectric",
       "Color": "R109G116B75",
       "Thickness": 0.107,
       "Material": "FR4",
-      "Name": "In4.Cu/B.Cu (2/2)",
-      "Notes": "Type: dielectric layer 5 - 2/2 (from In4.Cu to B.Cu)"
+      "Name": "In4.Cu/B.Cu (3/3)",
+      "Notes": "Type: dielectric layer 5 - 3/3 (from In4.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
